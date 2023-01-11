@@ -1,0 +1,1942 @@
+PACKAGE_1 . METHOD_1 ( NUMBER_CONSTANT ) ;
+{ new PACKAGE_1 ( new TYPE_1 () , STRING_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT ) ; }
+{ VAR_1 . METHOD_2 ( new PACKAGE_1 () . METHOD_1 ( VAR_2 ) ) ; }
+@ VAR_2 public void METHOD_3 ( float VAR_3 ) { if ( VAR_1 . METHOD_2 () ) { VAR_4 = true ; } }
+if ( ( VAR_1 ) == null ) { throw new PACKAGE_1 ( ( ( STRING_CONSTANT + ( VAR_2 ) ) + STRING_CONSTANT ) ) ; }
+{ new PACKAGE_1 ( new TYPE_1 () , STRING_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT , true ) ; }
+if ( ( this . VAR_1 ) != null ) this . VAR_1 . METHOD_1 ( VAR_2 ) ;
+{ super . METHOD_2 ( VAR_2 ) ; METHOD_3 ( VAR_3 ) ; METHOD_1 ( VAR_1 ) ; }
+return ( ( VAR_3 * VAR_3 ) + ( VAR_2 * VAR_2 ) ) + ( VAR_1 * VAR_1 ) ;
+VAR_2 = METHOD_2 () . METHOD_1 ( VAR_3 , null ) ;
+{ return new TYPE_2 ( new TYPE_1 ( PACKAGE_2 , VAR_1 ) , PACKAGE_1 ) ; }
+VAR_3 . METHOD_1 ( VAR_1 . METHOD_2 ( VAR_2 ) ) ;
+{ TYPE_1 VAR_1 = VAR_3 . METHOD_1 ( VAR_2 ) ; METHOD_2 ( VAR_1 , VAR_4 ) ; return VAR_1 . METHOD_3 () ; }
+return METHOD_2 ( VAR_1 , VAR_2 , VAR_3 ) ;
+int VAR_2 = VAR_3 . METHOD_1 ( VAR_1 ) ;
+new PACKAGE_2 ( new PACKAGE_3 () , VAR_1 ) ;
+VAR_1 = new TYPE_1 ( NUMBER_CONSTANT , PACKAGE_1 ) ;
+{ try { VAR_2 . METHOD_2 ( VAR_3 ) ; } catch ( TYPE_2 VAR_1 ) { METHOD_1 ( VAR_1 ) ; } }
+TYPE_2 VAR_1 = new TYPE_1 ( PACKAGE_1 , true ) ;
+if ( VAR_2 == null ) continue;
+VAR_1 = new TYPE_1 () ;
+VAR_3 VAR_1 = ( ( VAR_3 ) ( VAR_2 . METHOD_1 () ) ) ;
+@ VAR_3 public VAR_1 < ? extends VAR_4 > METHOD_1 () { return VAR_5 . class ; }
+return new TYPE_1 ( VAR_4 , VAR_3 , VAR_1 , VAR_2 ) ;
+( VAR_1 <= NUMBER_CONSTANT ? new TYPE_2 < VAR_2 > () : new TYPE_3 < VAR_2 > ( VAR_1 ) )
+{ return METHOD_2 ( new PACKAGE_1 ( VAR_3 , VAR_4 , VAR_1 ) . METHOD_3 ( VAR_2 ) ) ; }
+VAR_1 = VAR_2 . METHOD_2 () ;
+TYPE_1 VAR_1 = VAR_2 . METHOD_2 () ;
+VAR_1 . METHOD_1 ( METHOD_3 () )
+TYPE_1 [ VAR_3 ] = VAR_2 . METHOD_1 () ;
+VAR_1 . METHOD_1 ( VAR_2 , NUMBER_CONSTANT , VAR_3 , VAR_4 , PACKAGE_1 ) ;
+TYPE_1 VAR_2 = new TYPE_1 ( VAR_1 , false ) ;
+if ( ( VAR_2 . METHOD_1 () ) != null ) { VAR_1 . METHOD_2 ( STRING_CONSTANT , VAR_2 . METHOD_1 () ) ; }
+VAR_1 . METHOD_1 ( METHOD_2 ( VAR_2 ) , NUMBER_CONSTANT , VAR_3 ) ;
+VAR_1 . METHOD_5 () . METHOD_4 () . METHOD_2 () . METHOD_8 ( METHOD_3 ( STRING_CONSTANT ) . METHOD_1 ( VAR_2 ) ) . METHOD_7 () ;
+{ METHOD_3 ( VAR_1 . METHOD_5 ( VAR_2 , ( VAR_4 - ( METHOD_2 () . METHOD_4 () ) ) ) ) ; }
+{ VAR_2 . METHOD_1 ( STRING_CONSTANT , VAR_1 , PACKAGE_1 ) ; }
+return new TYPE_1 ( VAR_4 , VAR_2 . METHOD_1 () , VAR_5 , VAR_1 , VAR_3 ) ;
+TYPE_1 VAR_1 = VAR_2 . METHOD_2 () ;
+return ( ! ( VAR_1 . METHOD_1 ( VAR_3 . METHOD_3 () ) ) ) && ( ! ( VAR_1 . METHOD_1 ( VAR_2 . METHOD_3 () ) ) ) ;
+{ new PACKAGE_1 ( new TYPE_1 () , STRING_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT ) ; }
+final TYPE_1 VAR_2 = new TYPE_1 ( new PACKAGE_1 ( VAR_3 , VAR_1 ) , VAR_1 ) . METHOD_1 () ;
+VAR_1 . METHOD_1 ( VAR_2 , VAR_4 ) ;
+TYPE_3 VAR_1 = new TYPE_1 () ;
+VAR_1 . METHOD_1 ( true ) ;
+TYPE_1 [] VAR_1 = VAR_3 . METHOD_2 () . METHOD_1 ( VAR_2 . METHOD_3 () ) ;
+VAR_1 . METHOD_2 () ;
+VAR_2 = VAR_4 . METHOD_6 ( VAR_1 , VAR_3 . METHOD_2 () , VAR_3 . METHOD_4 () , VAR_3 . METHOD_3 () , VAR_3 . METHOD_5 () )
+int VAR_2 = NUMBER_CONSTANT ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_1 ( VAR_3 . METHOD_2 () , null ) ;
+return METHOD_1 ( VAR_3 , VAR_1 , VAR_2 ) ;
+@ VAR_2 public TYPE_1 METHOD_2 ( TYPE_1 VAR_1 ) { return VAR_3 . METHOD_1 ( VAR_1 ) ; }
+int VAR_3 = VAR_2 = VAR_4 . METHOD_1 ( VAR_1 , VAR_2 ) ;
+{ VAR_1 . METHOD_4 ( METHOD_3 ( VAR_2 . METHOD_2 () ) ) ; }
+TYPE_2 [ VAR_1 ] = ( ( int ) ( VAR_2 . METHOD_2 ( TYPE_1 [ VAR_1 ] . METHOD_1 () ) ) ) ;
+if ( METHOD_1 () ) { METHOD_2 ( VAR_2 , VAR_1 , VAR_3 ) ; }
+new TYPE_1 ( VAR_4 , VAR_1 , VAR_2 . METHOD_4 () . METHOD_3 () . METHOD_6 ( STRING_CONSTANT , VAR_3 . METHOD_1 () ) . METHOD_2 () )
+VAR_1 . METHOD_1 ( new TYPE_1 ( VAR_2 ) ) ;
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+VAR_1 . METHOD_3 ( STRING_CONSTANT , VAR_2 . METHOD_2 () . METHOD_1 () , VAR_3 ) ;
+TYPE_1 VAR_1 = METHOD_1 ( VAR_2 , null ) ;
+if ( ( VAR_2 ) > NUMBER_CONSTANT ) METHOD_1 ( ( ( ( VAR_2 ) - VAR_1 ) * ( PACKAGE_1 ) ) ) ;
+{ return new PACKAGE_1 ( METHOD_1 () . METHOD_3 ( VAR_1 ) ) ; }
+VAR_2 = VAR_1 . METHOD_1 ( VAR_3 , null ) ;
+PACKAGE_1 VAR_1 = VAR_2 . METHOD_1 ( NUMBER_CONSTANT ) ;
+try { VAR_2 . METHOD_1 ( PACKAGE_1 , PACKAGE_2 ) ; } catch ( TYPE_1 VAR_1 ) { new TYPE_2 ( STRING_CONSTANT ) ; }
+VAR_1 . METHOD_3 () . METHOD_2 ()
+METHOD_4 ( VAR_1 . METHOD_3 () . METHOD_5 () , METHOD_1 ( NUMBER_CONSTANT ) ) ;
+VAR_3 < VAR_2 > VAR_1 = new VAR_3 < VAR_2 > () ;
+return METHOD_1 ( VAR_1 , VAR_2 , VAR_3 ) ;
+VAR_1 . METHOD_3 ( METHOD_2 () , new TYPE_1 [] { PACKAGE_1 } , METHOD_1 () . METHOD_5 () , null )
+TYPE_1 VAR_1 = VAR_3 . VAR_1 () ;
+public TYPE_1 METHOD_3 ( VAR_2 . . . VAR_1 ) { METHOD_4 () . VAR_1 ( VAR_1 ) ; return this ; }
+{ try { METHOD_1 () ; } catch ( TYPE_1 VAR_1 ) { VAR_2 . METHOD_3 ( STRING_CONSTANT , VAR_1 ) ; } }
+VAR_2 = new VAR_3 < VAR_1 > () ;
+TYPE_1 VAR_1 = VAR_2 . METHOD_2 () . METHOD_1 () ;
+TYPE_1 [ VAR_1 ] = VAR_2 ;
+VAR_2 = new VAR_3 () ;
+TYPE_3 VAR_1 = new TYPE_1 () ;
+TYPE_1 VAR_1 = VAR_3 . METHOD_2 ( VAR_2 ) . METHOD_3 () ;
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+private void METHOD_1 () { if ( ( VAR_1 ) != null ) VAR_1 . METHOD_2 () ; }
+TYPE_2 VAR_1
+VAR_5 . METHOD_4 ( new TYPE_1 ( VAR_3 , VAR_6 , VAR_4 , VAR_2 . METHOD_3 () , METHOD_2 () , METHOD_1 () ) ) ;
+return VAR_3 . METHOD_1 ( VAR_1 , VAR_6 . METHOD_2 ( VAR_1 , VAR_2 ) , VAR_5 ) ;
+VAR_2 VAR_1 = METHOD_3 () . METHOD_2 ( VAR_2 . class ) ;
+PACKAGE_1 < VAR_3 > VAR_5 = new PACKAGE_1 ( VAR_2 , VAR_4 , VAR_1 ) ;
+{ super . METHOD_1 ( VAR_1 ) ; METHOD_2 ( new TYPE_1 () ) ; }
+return VAR_2 . METHOD_1 ( VAR_1 ) ;
+VAR_4 . METHOD_2 ( VAR_1 . METHOD_1 ( VAR_2 ) ) ;
+{ VAR_1 . METHOD_2 ( VAR_2 ) ; return this ; }
+VAR_2 = VAR_2 . METHOD_1 () ;
+VAR_3 = new TYPE_1 ( VAR_1 , VAR_2 , true , ( ( PACKAGE_1 ) - NUMBER_CONSTANT ) , METHOD_2 ( NUMBER_CONSTANT , NUMBER_CONSTANT ) ) ;
+return new TYPE_1 ( VAR_2 , VAR_4 . METHOD_1 ( VAR_3 ) , VAR_1 ) ;
+if ( ( VAR_1 . METHOD_4 () ) != null ) { VAR_3 = METHOD_1 ( VAR_1 . METHOD_3 () , VAR_2 . METHOD_2 () , null ) ; }
+VAR_1 . METHOD_2 ( new TYPE_2 ( STRING_CONSTANT , new TYPE_1 ( VAR_3 , VAR_2 ) ) ) ;
+this . VAR_4 = new TYPE_1 ( METHOD_1 ( null ) , this , VAR_1 , VAR_2 , VAR_3 ) ;
+VAR_6 . METHOD_1 ( new TYPE_1 ( VAR_2 . METHOD_2 ( VAR_5 , VAR_4 , VAR_4 , VAR_3 , VAR_3 ) ) ) ;
+METHOD_1 ( VAR_1 , METHOD_3 ( STRING_CONSTANT ) ) ;
+{ METHOD_1 () ; if ( VAR_3 . METHOD_4 () ) { VAR_3 . METHOD_3 ( STRING_CONSTANT , VAR_1 ) ; } VAR_2 . VAR_1 ( VAR_1 ) ; }
+TYPE_3 VAR_1 = new TYPE_1 () ;
+VAR_1 . METHOD_2 ( STRING_CONSTANT , new TYPE_1 ( VAR_3 , NUMBER_CONSTANT ) ) ;
+if ( VAR_2 == null ) { return super . METHOD_1 ( VAR_1 , VAR_2 ) ; }
+if ( ( this . VAR_1 ) != ( PACKAGE_1 ) ) return false ;
+VAR_2 . METHOD_1 () . METHOD_2 ( VAR_1 , VAR_3 , true ) ;
+VAR_1 . METHOD_1 () ;
+TYPE_1 VAR_3 = VAR_1 . METHOD_1 ( VAR_2 , null ) ;
+TYPE_1 VAR_4 = new TYPE_1 ( VAR_1 , VAR_5 , VAR_7 , VAR_6 , VAR_3 , VAR_2 ) ;
+{ TYPE_1 VAR_1 = new TYPE_1 () ; new PACKAGE_2 ( new PACKAGE_1 () , VAR_1 ) ; }
+final VAR_5 < VAR_2 > VAR_3 = VAR_4 . METHOD_1 ( VAR_1 , ( - NUMBER_CONSTANT ) ) ;
+public void METHOD_1 ( TYPE_1 VAR_3 , TYPE_1 VAR_1 , TYPE_2 VAR_2 ) ;
+this . VAR_1 . VAR_2 . METHOD_1 ( PACKAGE_1 ) ;
+VAR_4 < VAR_3 > VAR_2 = new PACKAGE_1 ( VAR_1 . METHOD_1 () ) ;
+TYPE_1 VAR_1 = VAR_2 . METHOD_3 () . METHOD_2 () ;
+VAR_1 != VAR_2
+catch ( TYPE_2 VAR_1 ) { METHOD_1 ( VAR_1 ) ; }
+int VAR_2 = ( ( VAR_4 ) + VAR_3 ) - VAR_1 ;
+VAR_2 . METHOD_3 ( VAR_1 . METHOD_2 ( VAR_2 . METHOD_3 () ) ) ;
+VAR_2 . METHOD_2 ( VAR_1 . METHOD_3 () ) ;
+METHOD_1 ( VAR_1 ) ;
+TYPE_1 VAR_4 = VAR_2 . METHOD_1 ( VAR_5 ) . METHOD_2 ( VAR_1 , VAR_3 , VAR_6 ) ;
+final TYPE_1 [] VAR_1 = VAR_2 . METHOD_2 () . METHOD_1 ( PACKAGE_1 ) ;
+catch ( TYPE_1 VAR_1 ) { VAR_2 . METHOD_2 ( STRING_CONSTANT , VAR_1 ) ; }
+TYPE_1 VAR_1 = VAR_2 . METHOD_1 ( VAR_3 , VAR_4 . METHOD_2 () ) ;
+{ new PACKAGE_2 ( new TYPE_1 () , STRING_CONSTANT , PACKAGE_1 , PACKAGE_3 , false ) ; }
+VAR_4 . METHOD_1 ( VAR_1 , VAR_5 , VAR_3 , VAR_2 ) ;
+{ return new TYPE_1 ( VAR_1 , VAR_2 , this , STRING_CONSTANT ) ; }
+( ( ( VAR_2 >= ( PACKAGE_2 ) ) && ( ( PACKAGE_2 ) >= ( PACKAGE_3 ) ) ) && ( VAR_1 >= ( PACKAGE_1 ) ) )
+boolean VAR_1 = VAR_3 . METHOD_2 () . VAR_1 ( VAR_2 . METHOD_4 () ) ;
+public TYPE_1 METHOD_1 ( boolean VAR_1 ) { METHOD_2 () . METHOD_3 ( VAR_1 ) ; return this ; }
+VAR_1 . METHOD_2 ( VAR_2 ) ;
+if ( VAR_2 != null ) { VAR_1 . METHOD_3 ( VAR_2 , VAR_1 . METHOD_1 () , true ) ; METHOD_2 ( NUMBER_CONSTANT ) ; }
+VAR_1 . METHOD_2 ( STRING_CONSTANT ) ;
+VAR_2 = new TYPE_1 ( VAR_1 . METHOD_1 () ) ;
+PACKAGE_1 . METHOD_2 ( NUMBER_CONSTANT ) ;
+TYPE_1 VAR_1
+TYPE_1 VAR_1 = VAR_2 . METHOD_1 () ;
+VAR_2 . METHOD_1 ( VAR_4 , VAR_3 , VAR_1 . METHOD_3 () )
+private void METHOD_4 () { VAR_2 . METHOD_1 ( VAR_1 . METHOD_2 () , VAR_1 . METHOD_3 () , false ) ; }
+PACKAGE_1 = ( ( VAR_1 + VAR_4 ) + VAR_6 ) / NUMBER_CONSTANT ;
+VAR_1 . METHOD_2 ( VAR_2 ) ;
+byte [] VAR_1 = new byte [ VAR_2 . METHOD_1 () ] ;
+VAR_1 VAR_2 = ( ( VAR_1 ) ( VAR_3 . METHOD_1 ( VAR_4 , null ) ) ) ;
+VAR_3 . METHOD_2 ( VAR_1 , new PACKAGE_1 ( VAR_1 , VAR_2 . METHOD_1 () ) ) ;
+final TYPE_1 VAR_1 = VAR_2 . VAR_1 ( VAR_4 , VAR_3 ) ;
+VAR_2 . METHOD_1 () ;
+{ TYPE_1 VAR_1 = new TYPE_1 ( VAR_3 , VAR_4 ) ; VAR_1 . METHOD_1 ( VAR_2 ) ; return VAR_1 ; }
+if ( VAR_1 ) { METHOD_1 ( STRING_CONSTANT ) ; }
+public void METHOD_3 ( int VAR_1 , int VAR_2 ) { VAR_3 . METHOD_1 () . METHOD_2 ( VAR_1 , VAR_2 , true ) ; }
+public void METHOD_2 ( TYPE_1 VAR_1 , float VAR_2 ) { METHOD_1 () ; super . METHOD_3 ( VAR_1 , VAR_2 ) ; }
+VAR_1 = new PACKAGE_3 ( ( ( VAR_2 ) ( PACKAGE_1 ) ) ) ;
+{ if ( VAR_3 . METHOD_1 () ) { VAR_1 = VAR_3 . METHOD_2 () . METHOD_3 ( VAR_7 , VAR_2 , VAR_5 , VAR_6 , VAR_4 ) ; } }
+{ super . METHOD_2 ( VAR_2 ) ; METHOD_1 ( VAR_1 ) ; }
+TYPE_1 VAR_2 = VAR_3 . METHOD_4 ( VAR_1 . METHOD_1 () . METHOD_2 () , NUMBER_CONSTANT , VAR_1 . METHOD_1 () . METHOD_5 () ) ;
+METHOD_5 ( PACKAGE_1 . METHOD_4 () , METHOD_1 ( ( METHOD_2 () . METHOD_3 () ? NUMBER_CONSTANT : NUMBER_CONSTANT ) ) ) ;
+catch ( TYPE_1 VAR_2 ) { this . METHOD_2 ( ( - VAR_1 ) ) ; throw VAR_2 ; }
+if ( ! ( PACKAGE_1 . METHOD_1 ( VAR_1 ) ) ) continue;
+final boolean VAR_2 = VAR_1 . METHOD_1 ( STRING_CONSTANT , true ) ;
+VAR_2 . METHOD_2 () . METHOD_1 ( VAR_1 , VAR_3 . METHOD_3 () ) ;
+{ return VAR_2 . METHOD_1 ( VAR_3 , VAR_4 , VAR_5 , VAR_1 ) ; }
+METHOD_1 ( STRING_CONSTANT ) ;
+{ if ( ! ( VAR_2 ) ) { return null ; } return new TYPE_1 ( this , VAR_1 . METHOD_2 () . METHOD_3 () ) ; }
+@ VAR_2 public void METHOD_3 ( float VAR_3 ) { if ( VAR_1 . METHOD_1 () ) { VAR_4 = true ; } }
+{ TYPE_1 [ VAR_2 ] = TYPE_2 [ VAR_2 ] . METHOD_1 ( VAR_1 ) . METHOD_2 () ; }
+PACKAGE_3 VAR_2 = VAR_1 . VAR_2 ( new PACKAGE_2 ( VAR_3 . METHOD_2 () ) ) ;
+try { VAR_2 . METHOD_1 ( PACKAGE_1 , PACKAGE_2 ) ; } catch ( TYPE_1 VAR_1 ) { throw new TYPE_2 ( STRING_CONSTANT , VAR_1 ) ; }
+VAR_4 < VAR_1 > VAR_3 = VAR_4 . METHOD_2 ( VAR_2 . METHOD_4 ( VAR_5 . METHOD_3 () , VAR_5 . VAR_3 () ) ) ;
+METHOD_3 ( VAR_3 . class ) . METHOD_2 ( ( ( VAR_2 ) == null ? VAR_1 . class : VAR_2 ) ) . METHOD_1 () ;
+{ VAR_1 . METHOD_1 ( STRING_CONSTANT ) ; if ( ( VAR_2 ) != null ) { VAR_2 . METHOD_2 () ; VAR_2 . METHOD_3 () ; } }
+VAR_1 < ( ( METHOD_2 () . METHOD_3 () ) * NUMBER_CONSTANT )
+{ TYPE_3 VAR_1 = new TYPE_3 () ; return new TYPE_4 ( new TYPE_2 () , VAR_1 ) ; }
+if ( VAR_1 != null ) { return VAR_2 . METHOD_2 ( VAR_1 . METHOD_3 () ) ; } else { return VAR_3 . METHOD_1 () ; }
+{ return new TYPE_1 ( VAR_2 , NUMBER_CONSTANT ) . METHOD_2 ( VAR_1 . METHOD_1 () ) ; }
+if ( VAR_1 != ( PACKAGE_1 ) ) return false ;
+return new TYPE_1 < VAR_4 > ( VAR_3 , VAR_2 . METHOD_3 ( METHOD_2 () , VAR_1 ) , VAR_7 . METHOD_1 ( VAR_5 . class ) ) ;
+VAR_1 . METHOD_2 ()
+this . VAR_1 = new TYPE_1 () ;
+{ TYPE_3 VAR_1 = new TYPE_3 () ; return new TYPE_4 ( new TYPE_1 () , VAR_1 ) ; }
+METHOD_4 () . METHOD_1 ( VAR_2 , VAR_1 ) . METHOD_3 () ;
+TYPE_3 VAR_1 = new TYPE_2 () ;
+for ( TYPE_1 VAR_3 : VAR_2 ) { VAR_1 . METHOD_2 ( VAR_3 ) ; }
+{ TYPE_1 VAR_2 = new TYPE_1 () ; VAR_2 . METHOD_1 ( new PACKAGE_2 ( PACKAGE_1 , VAR_1 ) ) ; return VAR_2 ; }
+{ VAR_3 . METHOD_1 ( new TYPE_1 ( VAR_1 , VAR_2 ) ) ; }
+VAR_1 . METHOD_2 ( true , true ) ;
+@ VAR_1 public boolean METHOD_1 () { return ( METHOD_2 () ) == NUMBER_CONSTANT ; }
+if ( VAR_3 != NUMBER_CONSTANT ) { VAR_1 = true ; VAR_4 . METHOD_1 ( VAR_2 , VAR_3 ) ; }
+throw new TYPE_1 ( VAR_1 . METHOD_1 ( STRING_CONSTANT , VAR_2 ) ) ;
+if ( ! ( VAR_2 . METHOD_2 ( STRING_CONSTANT ) ) ) { VAR_1 . METHOD_1 () ; }
+try { VAR_2 . METHOD_1 () ; return true ; } catch ( TYPE_1 VAR_1 ) { return false ; }
+{ VAR_1 . METHOD_2 ( VAR_3 ) ; VAR_4 . METHOD_3 ( VAR_2 . METHOD_5 () ) ; VAR_4 . METHOD_4 () ; }
+VAR_1 = new TYPE_1 ( NUMBER_CONSTANT , NUMBER_CONSTANT , true ) ;
+if ( ( VAR_2 ) == null ) { throw new PACKAGE_1 ( ( ( STRING_CONSTANT + ( METHOD_1 () ) ) + STRING_CONSTANT ) ) ; }
+final VAR_3 < VAR_1 > VAR_2 = new VAR_3 () ;
+METHOD_2 ( VAR_1 ) ;
+{ VAR_1 . this . VAR_3 = VAR_3 ; VAR_1 . this . VAR_2 = VAR_2 ; }
+{ VAR_3 . METHOD_1 ( VAR_2 , VAR_1 ) ; VAR_2 . METHOD_3 ( VAR_4 ) ; }
+VAR_1 VAR_2 = VAR_1 . METHOD_1 ( PACKAGE_1 ) . METHOD_2 ( METHOD_2 ) . METHOD_4 ( METHOD_4 ) . METHOD_3 () ;
+VAR_1 = VAR_2 . METHOD_1 ( NUMBER_CONSTANT , VAR_3 , NUMBER_CONSTANT , PACKAGE_1 , VAR_4 ) ;
+{ VAR_1 = new TYPE_2 () ; }
+if ( VAR_1 == null ) { throw new TYPE_1 ( null , STRING_CONSTANT ) ; }
+VAR_2 . METHOD_1 ( new TYPE_1 ( PACKAGE_1 , VAR_3 ) ) ;
+@ VAR_2 public TYPE_1 METHOD_1 ( TYPE_3 VAR_1 ) { return new TYPE_2 () ; }
+VAR_2 . METHOD_1 ( VAR_1 ) ;
+{ TYPE_1 [ VAR_1 ] = TYPE_2 [ VAR_1 ] . METHOD_1 () ; }
+public static void METHOD_1 () { VAR_1 . METHOD_1 () ; VAR_2 . METHOD_1 () ; }
+{ VAR_1 . METHOD_1 ( VAR_2 . METHOD_3 () , new TYPE_1 ( VAR_2 . METHOD_3 () , VAR_2 . METHOD_2 () ) ) ; }
+VAR_2 = new TYPE_1 ( VAR_1 . METHOD_1 ( STRING_CONSTANT ) , true ) ;
+if ( VAR_1 == null ) { return null ; }
+{ if ( ( VAR_2 . METHOD_4 () ) != null ) { VAR_1 . METHOD_3 ( VAR_2 . METHOD_1 () , VAR_2 . METHOD_4 () ) ; } }
+TYPE_3 VAR_1 = new TYPE_1 () ;
+PACKAGE_2 VAR_3 = PACKAGE_1 . METHOD_4 ( METHOD_3 () . METHOD_1 ( VAR_2 ) . METHOD_2 () ) ;
+METHOD_1 () . METHOD_3 ( STRING_CONSTANT ) ;
+{ VAR_1 . METHOD_1 ( STRING_CONSTANT , VAR_3 , VAR_2 , VAR_4 ) ; }
+if ( VAR_4 == ( PACKAGE_1 ) ) { VAR_1 = STRING_CONSTANT ; VAR_3 = STRING_CONSTANT ; }
+VAR_1 . METHOD_1 ( STRING_CONSTANT , VAR_2 )
+{ super . METHOD_2 ( VAR_2 ) ; ( ( VAR_4 ) ( METHOD_1 () ) ) . METHOD_3 ( VAR_1 . METHOD_4 ( VAR_2 ) , PACKAGE_1 ) ; }
+( ( ( ( ( STRING_CONSTANT + ( TYPE_1 [ VAR_1 ] ) ) + STRING_CONSTANT ) + VAR_1 ) + STRING_CONSTANT ) + VAR_3 )
+VAR_1 = new TYPE_1 ( VAR_2 . METHOD_1 () , VAR_2 . METHOD_2 () , true ) ;
+VAR_1 VAR_2 = VAR_1 . METHOD_2 ( VAR_5 . METHOD_1 ( STRING_CONSTANT ) , VAR_3 ) ;
+METHOD_4 () . METHOD_3 () . METHOD_1 () . METHOD_5 ( STRING_CONSTANT ) . METHOD_2 () ;
+return PACKAGE_1 . METHOD_1 ( VAR_4 ) . VAR_1 ;
+@ VAR_2 public TYPE_1 METHOD_2 ( TYPE_1 VAR_1 ) { return VAR_3 . METHOD_4 () . METHOD_1 ( VAR_1 ) ; }
+VAR_1 = ( VAR_1 == null ) ? VAR_2 . METHOD_2 () : VAR_1 ;
+VAR_2 = new TYPE_1 ( VAR_1 . METHOD_1 ( STRING_CONSTANT ) , false ) ;
+{ new PACKAGE_1 ( new TYPE_1 () , STRING_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT , false ) ; }
+METHOD_1 () . METHOD_3 ( ( NUMBER_CONSTANT + VAR_1 ) ) ;
+return VAR_2 < ( VAR_1 * VAR_1 ) ;
+{ VAR_3 = VAR_2 . METHOD_1 ( VAR_5 ) ; VAR_1 = VAR_4 . METHOD_2 ( VAR_5 , null ) ; }
+VAR_2 . METHOD_2 ( VAR_1 ) ;
+TYPE_1 VAR_1 = new TYPE_1 ( VAR_4 . METHOD_1 ( VAR_2 ) , VAR_3 . METHOD_2 () , VAR_3 ) ;
+METHOD_2 ( VAR_2 . METHOD_3 ( VAR_1 ) , PACKAGE_1 ) ;
+if ( VAR_2 . METHOD_2 () ) { VAR_3 . METHOD_3 ( STRING_CONSTANT , VAR_4 . METHOD_4 () ) ; VAR_1 = true ; }
+if ( ( VAR_1 ) == null ) { throw new PACKAGE_1 ( ( ( STRING_CONSTANT + ( METHOD_1 () ) ) + STRING_CONSTANT ) ) ; }
+VAR_1 . METHOD_1 () . METHOD_3 ( true , true ) ;
+VAR_2 . METHOD_1 () . METHOD_4 ( new TYPE_1 () { @ VAR_3 public void METHOD_3 () { METHOD_2 ( VAR_1 ) ; } } )
+VAR_2 VAR_1 = METHOD_3 () . METHOD_2 ( VAR_2 . class ) ;
+( ( ( VAR_1 . METHOD_2 ( VAR_2 . METHOD_3 () ) ) + CHAR_CONS ) + ( VAR_1 . METHOD_2 ( VAR_2 . METHOD_1 () ) ) )
+METHOD_1 () . METHOD_2 ( STRING_CONSTANT ) ;
+return METHOD_1 ( METHOD_2 ( VAR_1 ) ) ;
+if ( ( VAR_1 ) != null ) { VAR_1 . METHOD_2 ( VAR_2 ) ; }
+VAR_1 . METHOD_4 ( PACKAGE_1 ) . METHOD_2 ( VAR_2 . METHOD_1 ( NUMBER_CONSTANT ) ) ;
+{ VAR_3 . METHOD_2 ( VAR_4 . METHOD_3 ( VAR_1 ) , VAR_2 ) ; }
+return VAR_2 . METHOD_2 () . METHOD_4 ( VAR_1 . METHOD_4 () ) . METHOD_1 () ;
+METHOD_1 ( VAR_4 , VAR_1 , VAR_6 , VAR_2 , VAR_3 ) ;
+VAR_1 . METHOD_1 ( VAR_3 . METHOD_2 () , VAR_2 ) ;
+catch ( TYPE_2 VAR_1 ) { throw new TYPE_1 ( VAR_2 , STRING_CONSTANT , VAR_1 ) ; }
+VAR_2 = new TYPE_1 () ;
+{ return new PACKAGE_1 ( PACKAGE_2 . METHOD_2 ( VAR_1 ) ) ; }
+public TYPE_2 METHOD_1 ( TYPE_1 VAR_1 ) { VAR_2 . METHOD_1 ( VAR_1 ) ; return this ; }
+PACKAGE_1 = ( PACKAGE_1 ) * VAR_2 ;
+VAR_3 = VAR_2 . METHOD_3 ( VAR_1 . METHOD_2 ( STRING_CONSTANT ) . METHOD_1 () , true ) ;
+{ VAR_3 . METHOD_1 () . METHOD_2 ( VAR_1 , VAR_2 , true ) ; }
+VAR_1 . METHOD_3 ( ( - ( METHOD_2 () ) ) ) ;
+{ if ( ( VAR_3 ) == null ) { return null ; } return VAR_1 . METHOD_1 ( VAR_3 ) ; }
+TYPE_1 VAR_1 = PACKAGE_1 ;
+METHOD_4 () . METHOD_5 () . METHOD_1 ( STRING_CONSTANT , STRING_CONSTANT ) . METHOD_2 ( STRING_CONSTANT ) . METHOD_7 ( VAR_1 . METHOD_3 () )
+@ VAR_2 public VAR_3 < VAR_4 > METHOD_3 () { return VAR_1 . METHOD_1 () ; }
+VAR_3 < VAR_1 > VAR_2 = new VAR_3 < VAR_1 > () ;
+VAR_2 . METHOD_1 ( VAR_5 , VAR_4 , VAR_3 ) ;
+return VAR_2 . METHOD_2 () . METHOD_4 ( VAR_1 . METHOD_4 () ) . METHOD_3 () ;
+new TYPE_1 ( new TYPE_1 ( VAR_1 . METHOD_2 () , STRING_CONSTANT ) , VAR_2 . METHOD_4 () . METHOD_3 () )
+TYPE_1 VAR_1 = PACKAGE_1 ;
+{ TYPE_1 [ VAR_3 ] = ( ( short ) ( VAR_2 . METHOD_2 () ) ) ; }
+( VAR_1 () ) && ( ( PACKAGE_1 ) != null )
+VAR_2 . METHOD_4 ( VAR_1 . METHOD_3 ( STRING_CONSTANT , STRING_CONSTANT ) ) ;
+{ TYPE_3 VAR_1 = new TYPE_3 () ; return new TYPE_4 ( new TYPE_2 () , VAR_1 ) ; }
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+if ( ( VAR_2 == null ) && ( VAR_1 . METHOD_4 () ) ) { VAR_2 = VAR_1 . METHOD_2 () . METHOD_1 () ; }
+float VAR_1
+return VAR_1 ;
+PACKAGE_1 VAR_1 = VAR_1 () . METHOD_1 ( VAR_2 ) ;
+if ( ( VAR_2 ) == null ) { throw new PACKAGE_1 ( ( ( STRING_CONSTANT + ( VAR_1 ) ) + STRING_CONSTANT ) ) ; }
+final VAR_2 VAR_1 = VAR_2 . METHOD_2 ( VAR_4 , VAR_3 ) ;
+VAR_1 . METHOD_1 ( VAR_2 . METHOD_2 () ) ;
+VAR_1 . METHOD_2 ( VAR_2 . METHOD_1 () . METHOD_4 () ) ;
+PACKAGE_1 = VAR_1 . METHOD_2 () . METHOD_1 () ;
+VAR_1 . METHOD_3 () . METHOD_2 ( true ) ;
+TYPE_1 VAR_2 = new TYPE_1 ( VAR_1 . METHOD_1 () , false ) ;
+VAR_1 . METHOD_1 ( METHOD_2 ( VAR_2 ) , NUMBER_CONSTANT , VAR_3 ) ;
+METHOD_2 () . METHOD_1 ( VAR_1 . class )
+int VAR_2 = ( VAR_4 ) + VAR_3 ;
+TYPE_1 VAR_1 = METHOD_2 () . METHOD_1 () . METHOD_3 ( METHOD_4 ( STRING_CONSTANT , VAR_2 ) ) . METHOD_5 () . METHOD_7 () ;
+METHOD_1 ( VAR_1 , ( VAR_1 != null ) ) ;
+VAR_1 . METHOD_1 ( true ) ;
+new PACKAGE_1 ( VAR_1 ) . METHOD_2 ( VAR_1 . METHOD_2 () ) . METHOD_3 ( VAR_1 . METHOD_3 () ) . METHOD_1 ( VAR_1 . METHOD_1 () )
+VAR_2 . METHOD_1 ( VAR_3 , VAR_1 ) ;
+VAR_2 . METHOD_1 ( VAR_1 ) ;
+VAR_1 = VAR_2 . VAR_1 ( VAR_3 , VAR_4 ) ;
+catch ( TYPE_2 VAR_1 ) { VAR_2 . METHOD_2 ( new TYPE_1 ( STRING_CONSTANT , STRING_CONSTANT , VAR_1 , METHOD_1 () ) ) ; }
+METHOD_1 ( VAR_2 . METHOD_2 ( VAR_1 ) ) ;
+catch ( TYPE_1 VAR_1 ) { VAR_2 . METHOD_1 ( STRING_CONSTANT , VAR_1 ) ; }
+VAR_1 . METHOD_1 ( VAR_2 , NUMBER_CONSTANT , VAR_2 , VAR_4 , PACKAGE_1 ) ;
+if ( PACKAGE_1 . METHOD_1 () ) { PACKAGE_2 = VAR_1 . METHOD_2 ( PACKAGE_1 . METHOD_3 () ) ; }
+{ super . METHOD_1 () ; if ( ( VAR_1 ) != null ) VAR_1 . METHOD_1 () ; VAR_1 = null ; }
+public TYPE_2 METHOD_1 ( TYPE_1 VAR_2 , float VAR_1 ) { return METHOD_1 ( PACKAGE_2 , PACKAGE_3 , PACKAGE_1 , VAR_1 ) ; }
+TYPE_2 METHOD_1 ( VAR_2 . . . VAR_1 ) ;
+if ( VAR_1 == null ) { return VAR_3 . METHOD_1 ( VAR_2 . METHOD_2 () ) ; }
+VAR_2 . METHOD_1 ( STRING_CONSTANT , new TYPE_1 ( VAR_3 , NUMBER_CONSTANT ) ) ;
+TYPE_1 VAR_1 = VAR_3 . METHOD_1 ( VAR_2 ) . METHOD_3 () ;
+VAR_1 . METHOD_1 ( VAR_2 . METHOD_2 () ) ;
+VAR_2 VAR_1 = VAR_2 . METHOD_2 () ;
+VAR_2 . METHOD_4 ( VAR_1 ) . METHOD_2 ( VAR_3 . METHOD_1 () ) . METHOD_3 () ;
+VAR_2 . METHOD_3 ( STRING_CONSTANT , VAR_1 . METHOD_4 () , VAR_1 . METHOD_1 () ) ;
+{ return new PACKAGE_1 ( VAR_1 ) ; }
+{ VAR_1 = VAR_2 . METHOD_1 () . METHOD_3 ( VAR_3 ) . VAR_1 () ; }
+TYPE_2 [ VAR_1 ] = ( TYPE_1 [ VAR_2 ] ) * VAR_3 ;
+VAR_1 . VAR_2 ( PACKAGE_2 , PACKAGE_3 , PACKAGE_1 ) ;
+METHOD_2 ( ( ( PACKAGE_1 ) ( VAR_1 ) ) , VAR_1 . METHOD_3 () ) ;
+if ( VAR_1 == null ) { return VAR_3 . METHOD_1 ( VAR_2 . METHOD_2 () ) ; }
+assert VAR_1 . METHOD_4 ( VAR_2 . METHOD_2 () . METHOD_1 () ) ;
+TYPE_1 VAR_3 = VAR_2 . METHOD_1 ( VAR_1 ) . METHOD_2 () ;
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+return ( PACKAGE_1 ) * VAR_1 ;
+if ( ( ( VAR_1 ) != null ) && ( VAR_1 . METHOD_1 ( new TYPE_1 ( VAR_2 ) ) ) ) { return false ; }
+PACKAGE_1 = ( PACKAGE_1 ) * VAR_1 ;
+final TYPE_1 VAR_3 = new TYPE_1 ( STRING_CONSTANT , VAR_2 . METHOD_1 ( STRING_CONSTANT , VAR_1 . class ) ) ;
+if ( ( VAR_2 ) > NUMBER_CONSTANT ) METHOD_1 ( ( ( VAR_1 - ( VAR_2 ) ) * ( PACKAGE_1 ) ) ) ;
+VAR_1 = VAR_3 . METHOD_1 ( VAR_2 ) . METHOD_2 () ;
+{ VAR_6 . METHOD_1 ( VAR_2 , VAR_5 , VAR_3 , VAR_1 , VAR_4 , true ) ; METHOD_2 () ; return this ; }
+return VAR_2 . METHOD_1 ( VAR_3 ) ;
+TYPE_1 VAR_2 = VAR_3 . METHOD_1 () ;
+METHOD_1 () . METHOD_2 () ;
+TYPE_1 VAR_1 = STRING_CONSTANT + ( METHOD_1 () ) ;
+return new TYPE_1 ( VAR_1 , VAR_4 , VAR_5 . METHOD_1 ( VAR_6 , VAR_3 , VAR_2 . METHOD_3 () ) ) ;
+( ( VAR_1 ) ( PACKAGE_2 ) ) . METHOD_1 ( PACKAGE_1 . METHOD_2 ( VAR_2 ) ) ;
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+long VAR_1 = VAR_2 . METHOD_1 () ;
+if ( METHOD_2 () ) { VAR_2 . METHOD_3 ( VAR_1 ) ; }
+TYPE_1 VAR_2 = new TYPE_1 ( VAR_1 , VAR_3 ) ;
+return new TYPE_1 ( VAR_4 , VAR_3 , VAR_1 , VAR_2 ) ;
+VAR_1 . METHOD_2 () ;
+VAR_1 . METHOD_1 ( VAR_3 . METHOD_2 () ) . METHOD_1 ( VAR_2 ) ;
+{ VAR_2 . METHOD_1 ( true ) ; VAR_2 . METHOD_2 ( VAR_1 ) ; }
+{ VAR_2 . METHOD_4 ( VAR_1 . METHOD_3 () . METHOD_2 ( VAR_2 . METHOD_4 () ) ) ; return true ; }
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+PACKAGE_2 = PACKAGE_1 ;
+PACKAGE_1 . METHOD_1 ( new TYPE_1 ( STRING_CONSTANT , true ) ) ;
+{ PACKAGE_1 = VAR_2 ; PACKAGE_2 = VAR_1 ; return true ; }
+VAR_1 . METHOD_1 ( VAR_2 . METHOD_2 () , VAR_3 ) ;
+if ( VAR_2 != null ) { return VAR_1 . METHOD_3 () . METHOD_2 ( VAR_2 ) ; }
+TYPE_1 VAR_3 = METHOD_1 ( VAR_5 , VAR_2 , VAR_1 ) ;
+protected TYPE_1 METHOD_1 ( VAR_2 . . . VAR_1 ) { return METHOD_2 ( VAR_1 ) ; }
+VAR_3 = new PACKAGE_1 ( VAR_3 , VAR_2 . METHOD_2 ( VAR_1 . METHOD_1 () , null ) ) ;
+new PACKAGE_1 ( VAR_2 , VAR_1 )
+while ( VAR_2 . METHOD_4 () ) if ( ! ( VAR_1 . METHOD_3 ( VAR_2 . METHOD_5 () ) ) ) VAR_2 . METHOD_1 () ;
+{ TYPE_1 [ VAR_1 ] = TYPE_2 [ VAR_1 ] . METHOD_1 () ; }
+{ if ( VAR_1 < NUMBER_CONSTANT ) { throw new TYPE_1 () ; } return VAR_2 . METHOD_2 ( VAR_1 ) ; }
+TYPE_1 VAR_3 = VAR_2 . METHOD_1 ( VAR_1 ) ;
+return new TYPE_1 ( VAR_4 , VAR_3 , VAR_1 , VAR_2 ) ;
+VAR_1 . METHOD_5 () . METHOD_3 () . METHOD_8 ( METHOD_4 ( STRING_CONSTANT ) . METHOD_2 ( METHOD_1 () ) ) . METHOD_7 () ;
+VAR_2 . METHOD_1 ( VAR_3 )
+if ( VAR_1 != null ) VAR_2 . METHOD_2 ( VAR_1 ) ; else VAR_2 . METHOD_3 () ;
+VAR_1 . METHOD_2 () . METHOD_1 () . METHOD_4 ( STRING_CONSTANT ) . METHOD_3 () . METHOD_5 () ;
+{ METHOD_2 () ; return; }
+PACKAGE_1 . METHOD_1 ( new TYPE_1 ( STRING_CONSTANT , true ) ) ;
+if ( ( VAR_1 . METHOD_1 () ) >= ( VAR_2 ) ) { break; }
+VAR_3 = VAR_1 . METHOD_1 ( VAR_4 , null , VAR_2 ) ;
+VAR_1 . METHOD_2 ( new PACKAGE_1 ( VAR_5 , VAR_2 . METHOD_1 () , VAR_4 ) ) ;
+TYPE_1 VAR_4 = new TYPE_1 ( VAR_1 . METHOD_2 () , VAR_5 , VAR_3 , VAR_6 , VAR_2 . METHOD_3 () ) ;
+{ VAR_1 = VAR_2 . METHOD_1 () . METHOD_2 ( null , null , true , true , VAR_3 ) ; }
+PACKAGE_2 = true ;
+{ return METHOD_1 ( PACKAGE_4 , PACKAGE_2 , PACKAGE_3 , PACKAGE_3 ) ; }
+public void METHOD_1 ( int VAR_1 ) { this . VAR_1 = VAR_1 ; }
+TYPE_1 [] VAR_1 = VAR_2 . METHOD_2 () . METHOD_1 () ;
+if ( ! ( VAR_3 instanceof VAR_4 ) ) { VAR_3 = VAR_2 . METHOD_1 ( VAR_3 , VAR_1 ) ; }
+try { VAR_2 . METHOD_2 ( new TYPE_3 ( PACKAGE_1 ) ) ; } catch ( TYPE_2 VAR_1 ) { METHOD_1 ( VAR_1 ) ; }
+@ VAR_1 public void METHOD_1 ( TYPE_1 [] VAR_2 ) {}
+VAR_1 . METHOD_1 ( VAR_4 ) . METHOD_1 ( VAR_2 ) ;
+return NUMBER_CONSTANT ;
+@ VAR_1 protected TYPE_1 METHOD_2 () { return new TYPE_1 ( STRING_CONSTANT , METHOD_1 () ) ; }
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+VAR_2 . METHOD_3 ( VAR_1 , VAR_3 ) . METHOD_1 ( PACKAGE_1 ) ;
+{ VAR_1 = VAR_2 . METHOD_4 () . METHOD_1 () . METHOD_3 () ; VAR_3 = VAR_2 . METHOD_4 () . METHOD_2 ( VAR_3 ) ; }
+VAR_1 VAR_2 = METHOD_3 () . METHOD_2 ( VAR_1 . class ) ;
+VAR_1 . METHOD_2 () ;
+VAR_1 = new TYPE_1 () ;
+VAR_1 . METHOD_2 ( new PACKAGE_1 () . METHOD_1 ( true ) ) ;
+final float VAR_3 = VAR_2 * VAR_1 ;
+PACKAGE_1 VAR_1 = VAR_2 . METHOD_2 () ;
+VAR_1 = VAR_2 . METHOD_1 ( VAR_1 , null ) ;
+TYPE_1 VAR_3 = VAR_2 . METHOD_2 ( VAR_1 . METHOD_3 () ) ;
+@ VAR_2 public TYPE_2 METHOD_3 ( TYPE_1 VAR_1 ) { return METHOD_3 ( VAR_1 . METHOD_1 () ) ; }
+long VAR_2 = VAR_3 . METHOD_1 ( VAR_1 , new PACKAGE_2 ( PACKAGE_1 , VAR_4 . METHOD_3 () ) ) ;
+{ try { VAR_2 . METHOD_2 () ; } catch ( TYPE_1 VAR_1 ) {} VAR_3 . METHOD_1 ( true ) ; return true ; }
+( ! ( VAR_2 . METHOD_1 ( STRING_CONSTANT ) ) ) || ( ( VAR_2 . METHOD_3 () ) == false )
+VAR_2 . METHOD_1 ( VAR_1 ) ;
+PACKAGE_1 VAR_3 = VAR_1 . METHOD_1 ( VAR_2 ) ;
+@ VAR_2 protected TYPE_1 METHOD_1 ( TYPE_1 VAR_3 ) { return VAR_4 . METHOD_2 ( VAR_3 ) ? VAR_3 : null ; }
+{ super . METHOD_3 ( VAR_1 ) ; METHOD_4 ( false ) ; METHOD_1 () . METHOD_2 ( new TYPE_1 () ) ; }
+VAR_1 = new TYPE_1 < PACKAGE_1 > ( VAR_5 . METHOD_1 () , ( ( VAR_2 ) * ( VAR_4 ) ) )
+return VAR_1 ? new TYPE_1 () : new TYPE_2 () ;
+VAR_2 . METHOD_2 ( VAR_1 ) ;
+{ TYPE_3 VAR_1 = new TYPE_3 () ; return new TYPE_4 ( new TYPE_1 () , VAR_1 ) ; }
+PACKAGE_2 = VAR_1 . METHOD_1 () ;
+return VAR_2 . METHOD_1 ( PACKAGE_1 , VAR_3 , VAR_4 , VAR_1 , VAR_5 , VAR_6 , VAR_7 ) ;
+{ try { VAR_3 . METHOD_2 ( VAR_2 ) ; } catch ( TYPE_2 VAR_1 ) { METHOD_1 ( VAR_1 ) ; } }
+try { VAR_2 . METHOD_1 ( STRING_CONSTANT ) ; METHOD_2 () ; } catch ( TYPE_1 VAR_1 ) {}
+{ VAR_1 . METHOD_2 ( VAR_2 . METHOD_1 ( new TYPE_1 [ VAR_2 . METHOD_3 () ] ) ) ; }
+{ return METHOD_1 ( ( ( VAR_2 . METHOD_2 ( ( VAR_1 * NUMBER_CONSTANT ) ) ) + STRING_CONSTANT ) ) ; }
+{ super . METHOD_1 () ; if ( ( VAR_1 ) != null ) VAR_1 . METHOD_2 () ; VAR_1 = null ; }
+if ( ! ( VAR_2 . METHOD_1 () ) ) { return null ; }
+VAR_1 . METHOD_1 ( true ) ;
+return new PACKAGE_1 ( VAR_1 ) ;
+{ VAR_1 = VAR_4 . METHOD_1 ( VAR_5 , VAR_2 . METHOD_3 () . METHOD_2 () ) ; }
+{ VAR_1 . METHOD_1 ( NUMBER_CONSTANT ) ; return false ; }
+VAR_4 < VAR_5 > VAR_3 = VAR_2 . METHOD_1 () . METHOD_5 ( VAR_1 . METHOD_2 () . METHOD_4 () ) ;
+{ VAR_2 . METHOD_4 ( STRING_CONSTANT , STRING_CONSTANT ) ; VAR_1 . METHOD_2 () ; VAR_3 . METHOD_1 () . METHOD_2 () ; }
+public TYPE_1 METHOD_2 ( VAR_2 . . . VAR_1 ) { VAR_3 . METHOD_2 ( VAR_1 ) ; return this ; }
+VAR_3 < VAR_4 > VAR_2 = new VAR_3 <> () ;
+TYPE_2 VAR_1
+VAR_1 . METHOD_2 ( true ) ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_2 () ;
+VAR_3 . METHOD_3 ( VAR_1 . METHOD_2 () . METHOD_5 ( VAR_2 , VAR_3 . METHOD_4 () ) ) ;
+( PACKAGE_1 ) != null
+for ( TYPE_1 VAR_1 : this ) { VAR_2 += VAR_1 . METHOD_1 () ; }
+VAR_1 . METHOD_2 ( new TYPE_1 ( METHOD_1 () , VAR_2 . METHOD_3 () ) ) ;
+this . VAR_1 = new TYPE_1 ( PACKAGE_1 ) ;
+boolean VAR_1 = false ;
+{ super . METHOD_2 ( VAR_2 ) ; METHOD_1 ( VAR_1 ) ; }
+{ super . METHOD_4 ( VAR_2 ) ; METHOD_2 ( METHOD_5 ( VAR_1 ) ) ; VAR_3 . METHOD_3 ( METHOD_6 () , METHOD_1 () ) ; }
+int VAR_1 = METHOD_2 ( NUMBER_CONSTANT , NUMBER_CONSTANT ) ;
+TYPE_1 VAR_1 = new TYPE_1 () ;
+METHOD_2 () ;
+{ VAR_1 . METHOD_1 ( NUMBER_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT ) ; VAR_2 . METHOD_1 ( NUMBER_CONSTANT , NUMBER_CONSTANT , ( - NUMBER_CONSTANT ) ) ; }
+catch ( TYPE_2 VAR_1 ) { VAR_2 . METHOD_1 ( VAR_1 ) ; return VAR_3 ; }
+if ( ( PACKAGE_3 ) == ( PACKAGE_5 ) ) VAR_1 = new TYPE_1 ( this , PACKAGE_1 , PACKAGE_4 ) ;
+TYPE_3 VAR_1 = new TYPE_2 () ;
+{ VAR_1 . METHOD_2 ( VAR_3 ) ; VAR_2 = ( VAR_3 ) - NUMBER_CONSTANT ; METHOD_1 () ; }
+TYPE_3 VAR_1 = new TYPE_1 () ;
+{ VAR_1 . METHOD_2 ( VAR_2 . METHOD_3 () ) ; VAR_1 . METHOD_5 ( VAR_3 ) ; }
+return new TYPE_3 ( new TYPE_1 () , VAR_1 ) ;
+{ return METHOD_1 ( PACKAGE_4 , PACKAGE_2 , PACKAGE_1 , PACKAGE_3 ) ; }
+VAR_1 . METHOD_2 () . METHOD_1 ( new PACKAGE_2 () ) ;
+{ VAR_2 = VAR_4 . VAR_2 ( false , STRING_CONSTANT ) ; METHOD_2 ( VAR_3 , VAR_5 , VAR_1 , VAR_2 ) ; }
+VAR_1 = VAR_3 . METHOD_1 ( VAR_2 ) . METHOD_2 ( true ) ;
+VAR_1 = new TYPE_1 () ;
+{ new PACKAGE_2 ( new TYPE_1 () , STRING_CONSTANT , PACKAGE_1 , PACKAGE_3 ) ; }
+METHOD_1 ( VAR_1 , VAR_4 , VAR_2 . class ) ;
+{ VAR_4 . METHOD_1 () ; METHOD_2 ( VAR_1 . METHOD_4 ( VAR_2 ) ) ; METHOD_3 ( PACKAGE_1 ) ; METHOD_5 () ; }
+if ( ! ( VAR_1 . METHOD_1 ( VAR_1 ) ) ) return false ;
+if ( ( VAR_3 . METHOD_2 () ) != null ) { VAR_1 . METHOD_1 ( STRING_CONSTANT , VAR_3 . METHOD_2 () , VAR_2 ) ; }
+{ VAR_1 . METHOD_2 ( VAR_3 ) ; VAR_2 = VAR_3 ; METHOD_1 () ; }
+PACKAGE_1 . this . METHOD_1 ( VAR_2 , VAR_3 . METHOD_2 () , VAR_1 ) ;
+VAR_2 . METHOD_3 ( VAR_1 . METHOD_1 ( VAR_2 . METHOD_3 () , VAR_2 . METHOD_2 () ) ) ;
+VAR_1 = new TYPE_1 ( NUMBER_CONSTANT , false ) ;
+public TYPE_1 METHOD_1 ( TYPE_1 VAR_1 ) { return VAR_2 ; }
+PACKAGE_1 VAR_1 = VAR_2 . METHOD_1 ( VAR_3 . METHOD_2 () ) ;
+if ( VAR_1 == null ) { return VAR_3 . METHOD_1 ( VAR_2 . METHOD_2 () ) ; }
+VAR_2 [] VAR_1 = VAR_3 . METHOD_1 () . METHOD_2 ( VAR_2 . class ) ;
+TYPE_3 VAR_1 = new TYPE_2 () ;
+if ( VAR_2 instanceof VAR_4 ) METHOD_2 ( VAR_3 . METHOD_1 ( VAR_1 , ( VAR_6 - NUMBER_CONSTANT ) ) ) ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_2 () ;
+VAR_2 . METHOD_2 () . METHOD_4 ( VAR_1 , VAR_3 . METHOD_3 () ) ;
+TYPE_1 VAR_2 = new TYPE_1 ( STRING_CONSTANT ) . METHOD_2 ( VAR_3 ) . METHOD_2 ( STRING_CONSTANT ) ;
+int VAR_1 = VAR_2 . METHOD_2 ( null ) ;
+VAR_2 = VAR_5 . METHOD_2 ( VAR_4 , STRING_CONSTANT , VAR_3 ) ;
+{ return new TYPE_1 ( this , VAR_4 , VAR_2 , VAR_1 ) ; }
+( PACKAGE_1 ) != null
+{ return VAR_3 . METHOD_2 ( VAR_2 . METHOD_1 () , VAR_1 . METHOD_1 () ) ; }
+METHOD_1 ( METHOD_2 ( STRING_CONSTANT ) . METHOD_3 ( STRING_CONSTANT , STRING_CONSTANT , STRING_CONSTANT ) . METHOD_3 ( STRING_CONSTANT , STRING_CONSTANT , STRING_CONSTANT , STRING_CONSTANT , STRING_CONSTANT ) ) ;
+new PACKAGE_1 ( new TYPE_1 ( STRING_CONSTANT ) , PACKAGE_2 )
+{ VAR_4 . METHOD_1 () . METHOD_3 ( VAR_1 , VAR_3 , true ) ; VAR_2 . METHOD_2 () ; }
+TYPE_1 VAR_1 = new TYPE_1 ( VAR_2 . METHOD_2 () , VAR_2 . METHOD_3 () ) ;
+public void METHOD_1 ( TYPE_1 VAR_3 , TYPE_1 VAR_1 , TYPE_3 VAR_2 ) ;
+{ VAR_1 . METHOD_2 ( VAR_3 ) ; VAR_2 = ( VAR_3 ) - NUMBER_CONSTANT ; METHOD_1 () ; }
+VAR_4 . METHOD_1 ( VAR_1 , VAR_5 , VAR_3 , VAR_2 ) ;
+METHOD_3 ( VAR_1 . METHOD_5 () . METHOD_4 ( STRING_CONSTANT ) . METHOD_1 () , METHOD_2 () ) ;
+VAR_1 . METHOD_3 ( VAR_2 . METHOD_2 ( STRING_CONSTANT , null ) ) ;
+{ super . METHOD_2 ( VAR_3 ) ; if ( VAR_3 . METHOD_1 () ) { VAR_2 = VAR_1 . METHOD_2 ( VAR_3 ) ; } }
+VAR_1 . METHOD_1 ( PACKAGE_1 , PACKAGE_2 , VAR_2 ) ;
+{ super . METHOD_1 ( VAR_1 ) ; METHOD_2 ( new TYPE_1 () ) ; }
+return new PACKAGE_2 ( METHOD_1 () . METHOD_2 ( ( VAR_1 ? PACKAGE_1 : PACKAGE_3 ) ) ) ;
+protected void METHOD_1 ( float VAR_3 ) { VAR_2 . METHOD_2 ( ( ( VAR_1 ) * VAR_3 ) ) ; }
+VAR_1 . METHOD_4 ( VAR_2 . METHOD_3 () . METHOD_2 ( VAR_1 . METHOD_4 () ) ) ;
+final TYPE_1 VAR_1 = new TYPE_1 ( VAR_3 , VAR_2 . METHOD_2 () , VAR_2 . METHOD_1 () ) ;
+TYPE_1 VAR_1 = ( ( this . VAR_1 ) != null ) ? this . VAR_1 : METHOD_2 () . METHOD_3 () ;
+int VAR_1 = METHOD_2 ( NUMBER_CONSTANT , NUMBER_CONSTANT ) ;
+throw new PACKAGE_1 ( ( STRING_CONSTANT + VAR_1 ) ) ;
+new PACKAGE_1 ( VAR_1 )
+VAR_1 = new TYPE_1 () ;
+PACKAGE_1 VAR_2 = VAR_1 . METHOD_1 ( VAR_3 . METHOD_2 () ) ;
+VAR_2 . METHOD_1 ( VAR_1 )
+catch ( TYPE_1 VAR_1 ) { VAR_2 . METHOD_3 ( VAR_3 . class ) . METHOD_2 ( STRING_CONSTANT , VAR_1 ) ; }
+VAR_1 . METHOD_2 ( PACKAGE_2 . METHOD_1 () , PACKAGE_3 . METHOD_1 () , PACKAGE_1 ) ;
+final long VAR_1
+VAR_1 . METHOD_1 ( VAR_3 . METHOD_2 () ) ;
+int VAR_1 = PACKAGE_1 . METHOD_2 () . METHOD_1 ( VAR_2 ) ;
+TYPE_1 [] VAR_2 = VAR_4 . METHOD_1 ( PACKAGE_1 , PACKAGE_2 , VAR_1 . METHOD_4 () , VAR_3 . METHOD_3 () , VAR_5 ) ;
+{ new PACKAGE_1 ( new TYPE_1 () , STRING_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT , true ) ; }
+{ throw new TYPE_1 ( ( ( STRING_CONSTANT + ( METHOD_1 () ) ) + STRING_CONSTANT ) ) ; }
+VAR_1 = ( ( VAR_6 ) ( VAR_4 ) ) . METHOD_3 ( VAR_3 . METHOD_1 () , VAR_8 , VAR_2 , VAR_5 , VAR_7 , VAR_3 )
+TYPE_1 VAR_1 = PACKAGE_1 ;
+{ VAR_1 . METHOD_3 () ; VAR_2 . METHOD_2 () ; }
+{ switch ( VAR_1 . METHOD_3 () ) { case PACKAGE_2 : METHOD_2 () ; return true ; default: return super . METHOD_1 ( VAR_1 ) ; } }
+PACKAGE_1 . METHOD_1 ( new TYPE_1 ( STRING_CONSTANT , false ) ) ;
+VAR_3 . METHOD_1 () . METHOD_2 ( VAR_2 )
+VAR_4 = new PACKAGE_1 ( VAR_1 , VAR_2 , VAR_3 ) ;
+@ VAR_2 public TYPE_1 METHOD_1 ( boolean VAR_1 ) { return new TYPE_2 ( VAR_1 ) ; }
+TYPE_1 VAR_1 = new TYPE_1 ( VAR_2 , VAR_4 ) ;
+VAR_3 = ( VAR_2 < NUMBER_CONSTANT ) ? NUMBER_CONSTANT : VAR_1 ;
+{ VAR_1 . METHOD_2 () ; }
+VAR_1 = new TYPE_1 ( NUMBER_CONSTANT , NUMBER_CONSTANT , false ) ;
+TYPE_1 VAR_3 = METHOD_1 ( VAR_2 ) ;
+return new TYPE_1 ( VAR_4 , VAR_3 , VAR_1 , VAR_2 ) ;
+if ( ( VAR_2 ) == null ) { VAR_2 = new TYPE_1 () ; }
+PACKAGE_1 = true ;
+new PACKAGE_1 ( VAR_1 , VAR_2 ) ;
+boolean VAR_1 = false ;
+return new TYPE_1 ( VAR_1 . METHOD_1 () , VAR_2 ) ;
+VAR_4 . METHOD_1 ( STRING_CONSTANT , VAR_1 , VAR_3 , VAR_2 ) ;
+long VAR_2 = PACKAGE_1 ;
+if ( VAR_4 . METHOD_1 () ) { VAR_1 = VAR_3 . METHOD_2 ( VAR_2 , VAR_4 ) ; }
+PACKAGE_1 = true ;
+return METHOD_1 ( VAR_1 , VAR_2 , VAR_3 . METHOD_2 () ) ;
+{ METHOD_1 () ; VAR_4 . METHOD_3 ( VAR_3 , VAR_2 ) ; VAR_4 . METHOD_2 ( VAR_5 , ( ( PACKAGE_1 ) * VAR_1 ) ) ; }
+{ TYPE_1 VAR_1 = new TYPE_1 () ; new PACKAGE_2 ( new PACKAGE_1 () , VAR_1 ) ; }
+METHOD_1 ( VAR_1 , VAR_2 . METHOD_2 () , NUMBER_CONSTANT ) ;
+case PACKAGE_1 :
+@ VAR_2 protected void METHOD_3 () { METHOD_4 ( VAR_3 . class ) . METHOD_2 ( VAR_1 . class ) . METHOD_1 () ; }
+VAR_1 . METHOD_2 ()
+this . VAR_1 = new TYPE_1 ( VAR_2 . METHOD_1 () ) ;
+VAR_2 VAR_5 = VAR_2 . METHOD_1 ( VAR_3 ) ;
+VAR_2 . METHOD_1 ( VAR_4 , VAR_3 ) ;
+VAR_1 . METHOD_1 ( false , false ) ;
+TYPE_1 VAR_2 = new TYPE_1 ( VAR_3 , VAR_1 . METHOD_2 () . METHOD_1 () ) ;
+VAR_2 = new TYPE_1 () ;
+final TYPE_1 VAR_2 = PACKAGE_2 . METHOD_1 ( VAR_1 , PACKAGE_1 ) ;
+{ return METHOD_1 ( VAR_2 , NUMBER_CONSTANT , VAR_2 . METHOD_2 () , VAR_1 . METHOD_1 () ) ; }
+{ super . METHOD_1 ( VAR_1 ) ; METHOD_2 ( new TYPE_1 () , false ) ; }
+VAR_1 . METHOD_1 ( PACKAGE_2 , PACKAGE_1 , PACKAGE_3 ) ;
+{ VAR_4 = VAR_1 . METHOD_1 ( VAR_3 ) . METHOD_3 ( VAR_2 ) ; return VAR_6 . METHOD_2 ( VAR_4 ) ; }
+if ( VAR_1 == null ) { throw new TYPE_1 ( VAR_3 ) ; }
+int VAR_2 = ( ( int ) ( VAR_1 ) ) ;
+PACKAGE_1 = ( VAR_2 + STRING_CONSTANT ) + VAR_1 ;
+{ final boolean VAR_3 = VAR_4 . METHOD_1 ( VAR_2 ) ; VAR_1 . METHOD_2 ( VAR_3 ) ; }
+long VAR_1 = VAR_4 . VAR_1 ( VAR_3 , VAR_2 ) ;
+{ PACKAGE_1 . METHOD_3 ( VAR_3 ) . METHOD_1 ( this . VAR_3 ) . METHOD_2 () ; METHOD_4 ( PACKAGE_1 , VAR_2 ) ; }
+if ( ( VAR_2 ) == null ) { throw new PACKAGE_1 ( ( ( STRING_CONSTANT + ( VAR_1 ) ) + STRING_CONSTANT ) ) ; }
+METHOD_2 ( VAR_1 ) ;
+TYPE_1 VAR_3 = VAR_1 . METHOD_3 ( VAR_2 . METHOD_1 () ) ;
+if ( VAR_1 . METHOD_2 () . METHOD_3 ( VAR_4 ) ) { VAR_2 . METHOD_4 ( VAR_3 . METHOD_1 () ) ; }
+new PACKAGE_1 ( VAR_1 ) . METHOD_2 ( VAR_1 . METHOD_2 () ) . METHOD_1 ( VAR_1 . METHOD_1 () ) . METHOD_3 ( VAR_1 . METHOD_3 () )
+{ TYPE_1 VAR_1 = METHOD_1 () . METHOD_3 ( VAR_2 ) ; return METHOD_1 () . METHOD_4 ( VAR_1 ) ; }
+VAR_3 . METHOD_1 ( VAR_1 , VAR_4 . METHOD_2 ( VAR_2 ) ) ;
+return new TYPE_1 ( VAR_4 , VAR_3 , VAR_1 , VAR_2 ) ;
+new TYPE_1 () { @ VAR_2 public void METHOD_2 ( TYPE_2 VAR_1 ) { VAR_3 . METHOD_3 () ; } }
+final TYPE_1 VAR_2 = new TYPE_1 ( new PACKAGE_1 ( VAR_3 , VAR_1 ) , VAR_1 ) . METHOD_1 () ;
+if ( VAR_1 == null ) { VAR_2 . METHOD_1 ( STRING_CONSTANT ) ; return true ; }
+VAR_1 = new TYPE_1 ( NUMBER_CONSTANT , NUMBER_CONSTANT , true ) ;
+if ( ( TYPE_1 [ VAR_1 ] ) == NUMBER_CONSTANT ) { VAR_2 = VAR_1 ; break; }
+VAR_3 = VAR_1 . METHOD_1 ( new TYPE_1 ( VAR_2 . METHOD_2 () ) ) ;
+try { VAR_1 . METHOD_1 ( PACKAGE_1 . class ) . METHOD_2 ( VAR_3 ) ; } catch ( TYPE_1 VAR_2 ) {}
+if ( VAR_3 instanceof VAR_5 ) METHOD_2 ( VAR_2 . METHOD_1 ( VAR_1 , ( VAR_6 - NUMBER_CONSTANT ) ) ) ;
+VAR_1 . METHOD_1 ( VAR_3 , VAR_2 ) ;
+VAR_1 . METHOD_2 ( VAR_2 ) ;
+if ( VAR_1 . METHOD_2 () . METHOD_1 () ) { VAR_2 . METHOD_3 ( STRING_CONSTANT ) ; return; }
+@ VAR_2 public TYPE_2 METHOD_3 ( TYPE_1 VAR_1 ) { return METHOD_3 ( VAR_1 . METHOD_1 () ) ; }
+PACKAGE_1 VAR_1 = VAR_2 . VAR_1 ( VAR_3 . METHOD_2 () ) ;
+VAR_2 = VAR_3 . METHOD_5 ( VAR_1 . METHOD_3 () , NUMBER_CONSTANT , VAR_1 . METHOD_2 () ) ;
+VAR_4 VAR_1 = VAR_4 . METHOD_1 ( VAR_2 , VAR_7 , VAR_5 , VAR_3 , VAR_6 ) ;
+TYPE_2 VAR_3 = new TYPE_1 ( PACKAGE_1 ) ;
+TYPE_1 VAR_6 = VAR_3 . METHOD_1 ( VAR_2 , VAR_4 , false , VAR_1 ) ;
+public TYPE_2 METHOD_2 () { return VAR_1 . METHOD_1 () ; }
+@ VAR_2 public void METHOD_2 ( TYPE_1 VAR_1 ) { METHOD_1 ( VAR_3 , VAR_1 ) ; }
+VAR_2 = new TYPE_1 < VAR_1 > () ;
+if ( VAR_1 == null ) { return null ; }
+if ( ( VAR_2 . METHOD_1 () . METHOD_1 () . VAR_1 () ) > ( PACKAGE_1 ) ) { return; }
+double METHOD_1 ( int VAR_1 ) ;
+int VAR_1 = PACKAGE_1 . METHOD_2 () . METHOD_1 ( VAR_3 ) ;
+if ( VAR_2 != null ) { VAR_2 . METHOD_2 () . METHOD_3 ( VAR_1 . METHOD_4 () ) ; }
+VAR_1 . METHOD_1 ( STRING_CONSTANT )
+VAR_3 . METHOD_1 ( VAR_1 , TYPE_1 [ VAR_2 ] ) ;
+for ( int VAR_1 = NUMBER_CONSTANT ; VAR_1 < VAR_2 ; VAR_1 ++ ) TYPE_1 [ VAR_1 ] = VAR_3 . METHOD_1 () ;
+PACKAGE_1 [ NUMBER_CONSTANT ] = VAR_2 ;
+{ METHOD_3 ( VAR_3 . class ) . METHOD_2 ( VAR_2 . METHOD_4 ( STRING_CONSTANT , VAR_1 . class , STRING_CONSTANT , STRING_CONSTANT ) ) . METHOD_1 () ; }
+VAR_1 . METHOD_1 ( PACKAGE_2 , PACKAGE_1 , VAR_2 ) ;
+{ TYPE_1 [ VAR_2 ] = TYPE_2 [ VAR_2 ] . METHOD_1 ( VAR_1 ) . METHOD_2 ( true ) ; }
+TYPE_1 VAR_1 = VAR_4 . METHOD_1 ( VAR_3 . METHOD_2 ( VAR_2 , true ) ) ;
+final VAR_3 < PACKAGE_2 > VAR_2 = new PACKAGE_1 ( VAR_1 . METHOD_1 () ) ;
+VAR_2 . METHOD_1 ( this , PACKAGE_1 , VAR_1 ) ;
+VAR_1 . METHOD_1 ( STRING_CONSTANT ) ;
+PACKAGE_1 = false ;
+PACKAGE_1 VAR_3 = VAR_1 . METHOD_3 ( VAR_2 ) ;
+public TYPE_1 METHOD_1 ( boolean VAR_1 ) { VAR_2 . METHOD_1 ( VAR_1 ) ; return this ; }
+{ VAR_4 = VAR_3 . METHOD_1 () ; VAR_1 . METHOD_3 ( null , VAR_4 . METHOD_2 () ) ; return VAR_4 ; }
+TYPE_1 [] VAR_1 = new TYPE_1 [] { STRING_CONSTANT , STRING_CONSTANT } ;
+VAR_3 . METHOD_4 ( VAR_1 ) . METHOD_2 ( VAR_2 ) . METHOD_1 ( NUMBER_CONSTANT ) ;
+VAR_1 VAR_2 = ( ( VAR_1 ) ( VAR_3 . METHOD_1 ( VAR_4 . METHOD_2 () ) ) ) ;
+if ( ( VAR_3 ) != null ) { VAR_3 . METHOD_1 ( VAR_2 , VAR_1 ) ; } else { throw new TYPE_1 ( VAR_1 ) ; }
+{ PACKAGE_5 = PACKAGE_2 ; PACKAGE_1 = PACKAGE_6 ; PACKAGE_4 = PACKAGE_3 ; }
+final TYPE_1 VAR_3 = VAR_1 . METHOD_1 ( this , VAR_2 ) ;
+{ METHOD_1 ( new TYPE_1 ( VAR_1 ) , new TYPE_1 ( VAR_2 ) ) ; return this ; }
+VAR_1 . METHOD_1 ( VAR_3 ) ;
+METHOD_1 ( VAR_1 . class , VAR_1 . METHOD_2 ( VAR_2 ) )
+boolean VAR_1 = true ;
+double METHOD_1 ( int VAR_1 , float VAR_2 ) ;
+if ( VAR_1 == null ) { return null ; }
+METHOD_1 ( VAR_2 ) ;
+if ( PACKAGE_1 ) { VAR_1 . METHOD_1 ( true ) ; }
+VAR_1 . METHOD_1 () ;
+throw new TYPE_1 ( ( STRING_CONSTANT + VAR_2 ) ) ;
+{ TYPE_1 VAR_1 = new TYPE_1 () ; new PACKAGE_1 ( new PACKAGE_2 () , VAR_1 ) ; }
+PACKAGE_3 = ( PACKAGE_1 ) * NUMBER_CONSTANT ;
+TYPE_3 VAR_1 = new TYPE_2 () ;
+return PACKAGE_1 ;
+{ TYPE_1 VAR_1 = new TYPE_1 () ; new PACKAGE_2 ( new PACKAGE_3 () , VAR_1 ) ; }
+catch ( TYPE_1 VAR_2 ) { VAR_3 . METHOD_2 ( STRING_CONSTANT , VAR_2 , VAR_1 . METHOD_1 () ) ; }
+TYPE_1 VAR_2 = VAR_1 . METHOD_1 ( VAR_3 , null ) ;
+PACKAGE_1 . METHOD_1 ( ( - ( METHOD_2 () ) ) ) ;
+( ( VAR_2 ) ( PACKAGE_1 ) ) . METHOD_1 () ;
+( VAR_2 - ( ( VAR_1 . METHOD_1 () ) / NUMBER_CONSTANT ) )
+TYPE_1 VAR_2 = VAR_1 . METHOD_1 () ;
+if ( METHOD_2 () ) { METHOD_1 ( VAR_2 , VAR_3 ) ; }
+METHOD_2 () . METHOD_3 ( ( NUMBER_CONSTANT + VAR_1 ) ) ;
+VAR_1 == ( PACKAGE_1 )
+VAR_1 . METHOD_2 ()
+{ return new TYPE_1 ( VAR_1 ) . METHOD_2 ( VAR_3 . METHOD_4 () . METHOD_1 ( VAR_2 ) ) ; }
+METHOD_1 ( METHOD_5 ( STRING_CONSTANT ) . METHOD_4 ( VAR_3 . METHOD_3 () . METHOD_7 ( STRING_CONSTANT , VAR_1 ) . METHOD_7 ( STRING_CONSTANT , VAR_2 ) . METHOD_6 () ) )
+TYPE_1 VAR_2 = VAR_1 . METHOD_1 () ;
+public TYPE_1 METHOD_1 ( ) throws VAR_4 { return new TYPE_1 ( VAR_2 . METHOD_2 ( VAR_1 ) , VAR_3 . METHOD_3 () ) ; }
+METHOD_2 ( VAR_1 ) ;
+for ( TYPE_1 VAR_1 : VAR_2 ) { VAR_3 . METHOD_3 ( STRING_CONSTANT , VAR_1 . METHOD_1 () , VAR_1 . METHOD_2 () ) ; }
+VAR_1 . METHOD_1 ( VAR_2 . METHOD_2 () . METHOD_3 () , VAR_3 ) ;
+new TYPE_1 ( VAR_4 , VAR_3 , VAR_1 . METHOD_4 () . METHOD_3 () . METHOD_6 ( STRING_CONSTANT , VAR_2 . METHOD_1 () ) . METHOD_2 () )
+float VAR_2 = this . VAR_2 ;
+VAR_3 = new TYPE_1 ( VAR_4 . METHOD_1 () , VAR_1 , VAR_2 , true ) ;
+VAR_4 . METHOD_1 () . METHOD_4 ( VAR_1 . METHOD_3 ( STRING_CONSTANT ) . METHOD_8 ( VAR_3 . METHOD_5 ( VAR_2 ) ) ) . METHOD_6 () . METHOD_7 ()
+PACKAGE_1 VAR_1 = VAR_2 . METHOD_1 ( VAR_3 . METHOD_2 () ) ;
+VAR_3 != ( VAR_2 . this . VAR_3 )
+VAR_3 = new TYPE_1 ( VAR_1 . METHOD_2 ( VAR_2 . METHOD_1 ( STRING_CONSTANT ) ) ) ;
+VAR_2 [] VAR_1 = VAR_3 . METHOD_1 () . METHOD_2 () ;
+VAR_1 = new TYPE_1 () ;
+VAR_1 . METHOD_1 ()
+if ( VAR_4 . METHOD_1 () ) { VAR_2 = VAR_4 . METHOD_2 ( VAR_3 , VAR_1 ) ; }
+{ return VAR_2 . METHOD_2 () . METHOD_3 ( VAR_1 , true ) ; }
+VAR_1 = ( VAR_4 . METHOD_1 () ) ? VAR_3 : VAR_2 ;
+if ( ( VAR_2 ) != ( PACKAGE_1 ) ) { VAR_1 . METHOD_1 ( STRING_CONSTANT , VAR_2 ) ; }
+new PACKAGE_3 ( new PACKAGE_1 () , VAR_1 ) ;
+return super . METHOD_1 () ;
+float VAR_2 = ( PACKAGE_1 . METHOD_2 ( VAR_1 ) ) - ( VAR_3 * VAR_3 ) ;
+VAR_1 . METHOD_1 ( PACKAGE_1 , PACKAGE_2 ) ;
+VAR_1 . METHOD_4 ( STRING_CONSTANT , VAR_2 . METHOD_1 () . METHOD_3 () . METHOD_2 ( VAR_3 ) ) ;
+return new TYPE_3 ( new TYPE_2 () , VAR_1 ) ;
+if ( ( VAR_3 ) < ( VAR_1 . METHOD_2 () ) ) { VAR_2 . METHOD_3 ( VAR_3 ) ; METHOD_1 ( VAR_3 ) ; }
+TYPE_3 VAR_1 = new TYPE_2 () ;
+VAR_2 . METHOD_3 ( VAR_1 . METHOD_1 ( NUMBER_CONSTANT ) ) ;
+{ return ( ( METHOD_3 () ) + ( METHOD_2 () ) ) + ( TYPE_1 [ PACKAGE_1 ] . METHOD_1 () ) ; }
+{ VAR_1 . METHOD_3 ( this ) ; VAR_2 . METHOD_2 ( new PACKAGE_1 ( VAR_1 . METHOD_1 () ) ) ; }
+VAR_4 = VAR_2 . METHOD_2 ( VAR_4 , VAR_3 . METHOD_1 () ) ;
+final TYPE_2 VAR_1
+VAR_2 < VAR_1 > VAR_3 = new VAR_2 ( PACKAGE_1 ) ;
+VAR_1 . METHOD_2 ( false , true ) ;
+if ( ( STRING_CONSTANT . METHOD_4 ( VAR_1 ) ) && ( ( VAR_2 . METHOD_2 () . METHOD_3 () ) > NUMBER_CONSTANT ) ) { continue; }
+VAR_1 . METHOD_2 ( VAR_2 , NUMBER_CONSTANT ) ;
+TYPE_1 VAR_1 = METHOD_1 ( VAR_2 , false ) ;
+VAR_1 = new TYPE_1 ( this ) ;
+{ switch ( VAR_1 . METHOD_3 () ) { case PACKAGE_1 : METHOD_2 () ; return true ; default: return super . METHOD_1 ( VAR_1 ) ; } }
+return VAR_1 . METHOD_2 () . METHOD_1 ( VAR_2 . METHOD_2 () ) ;
+PACKAGE_1 VAR_1 = this . VAR_3 . METHOD_1 ( VAR_2 ) ;
+VAR_6 < VAR_3 > VAR_2 = VAR_4 . METHOD_1 ( VAR_5 , METHOD_2 ( VAR_1 ) ) ;
+PACKAGE_1 VAR_1 = VAR_2 . METHOD_2 () ;
+if ( ( PACKAGE_1 ) && ( ( VAR_2 . METHOD_2 ( VAR_3 ) ) < NUMBER_CONSTANT ) ) VAR_1 . METHOD_1 ( true ) ;
+VAR_2 < NUMBER_CONSTANT
+VAR_2 . METHOD_1 ( VAR_1 , VAR_3 , true ) ;
+VAR_2 . METHOD_4 ( VAR_1 . METHOD_3 () . METHOD_2 ( VAR_2 . METHOD_4 () ) ) ;
+VAR_1 . METHOD_1 () . METHOD_3 ( VAR_2 . METHOD_2 () )
+TYPE_1 VAR_1 = METHOD_1 () . METHOD_2 () . METHOD_3 () . METHOD_6 ( STRING_CONSTANT , METHOD_5 ( VAR_2 ) ) ;
+{ return METHOD_1 ( VAR_1 . METHOD_4 () , VAR_1 . METHOD_2 () ) ; }
+int VAR_1 = VAR_2 . METHOD_1 ( VAR_3 ) ;
+@ VAR_1 public void METHOD_1 ( int VAR_2 ) {}
+METHOD_1 ( STRING_CONSTANT , STRING_CONSTANT , VAR_1 ) ;
+VAR_3 = VAR_4 . METHOD_3 ( VAR_2 . METHOD_2 ( STRING_CONSTANT ) . METHOD_1 () ) ;
+return new TYPE_1 ( PACKAGE_1 ) . METHOD_2 ( VAR_2 . METHOD_1 ( VAR_3 . METHOD_4 ( NUMBER_CONSTANT , VAR_1 ) ) ) ;
+VAR_1 VAR_2 = VAR_1 . METHOD_3 ( PACKAGE_1 ) . METHOD_5 ( METHOD_5 ) . METHOD_1 ( METHOD_1 ) . METHOD_2 ( METHOD_2 ) . METHOD_4 () ;
+METHOD_1 ( VAR_3 . METHOD_3 () , METHOD_2 ( VAR_1 ) ) ;
+byte [] VAR_4 = VAR_5 . METHOD_1 ( PACKAGE_1 , PACKAGE_2 , VAR_3 , VAR_2 , VAR_1 ) ;
+{ super . METHOD_2 ( VAR_2 ) ; METHOD_1 ( VAR_1 ) ; }
+if ( ( VAR_2 ) instanceof VAR_3 ) VAR_1 . METHOD_1 ( PACKAGE_1 , VAR_2 ) ;
+METHOD_5 () . METHOD_4 ( NUMBER_CONSTANT ) . METHOD_3 ( NUMBER_CONSTANT ) . METHOD_2 ( METHOD_1 ( STRING_CONSTANT , NUMBER_CONSTANT ) ) . METHOD_2 ( METHOD_1 ( STRING_CONSTANT , NUMBER_CONSTANT ) )
+VAR_3 < VAR_1 > VAR_2
+TYPE_1 VAR_2 = VAR_1 . METHOD_3 ( VAR_3 . METHOD_2 () ) ;
+this . VAR_2 = new TYPE_1 ( VAR_1 . METHOD_1 () , NUMBER_CONSTANT , VAR_1 . METHOD_2 () ) ;
+TYPE_1 VAR_1 = VAR_2 . METHOD_1 ( PACKAGE_1 , PACKAGE_2 , true ) ;
+TYPE_1 VAR_1 = new PACKAGE_2 ( VAR_3 , VAR_2 , null , new PACKAGE_1 ( VAR_2 ) ) ;
+{ VAR_2 . METHOD_2 ( VAR_3 ) ; VAR_1 = ( VAR_3 ) - NUMBER_CONSTANT ; METHOD_1 () ; }
+final TYPE_1 VAR_3 = new TYPE_1 ( VAR_2 . METHOD_2 () , VAR_1 , VAR_2 . METHOD_1 () ) ;
+public void METHOD_1 ( TYPE_1 VAR_1 ) { VAR_1 . METHOD_3 ( null ) ; PACKAGE_1 . METHOD_2 ( VAR_1 ) ; }
+{ return VAR_2 . METHOD_3 () . METHOD_1 ( VAR_1 , true ) ; }
+private TYPE_1 METHOD_3 ( TYPE_1 VAR_2 ) { return VAR_3 . METHOD_1 ( VAR_2 . METHOD_2 () , VAR_4 ) ; }
+VAR_1 . METHOD_2 ()
+METHOD_1 ( VAR_1 . METHOD_4 () , METHOD_2 ( true ) ) ;
+TYPE_1 VAR_1 = METHOD_1 ( PACKAGE_1 , PACKAGE_2 , true ) ;
+{ VAR_2 . METHOD_3 ( new PACKAGE_1 ( ( STRING_CONSTANT + ( PACKAGE_2 ) ) ) , VAR_1 . METHOD_1 () . METHOD_2 ( true ) ) ; }
+if ( VAR_1 != null ) { if ( VAR_1 . METHOD_1 () ) { VAR_3 = VAR_1 . METHOD_3 () . METHOD_4 ( VAR_2 ) ; } }
+METHOD_2 ( VAR_2 . class ) . METHOD_1 () ;
+METHOD_1 ( VAR_1 . class , VAR_4 , VAR_3 )
+VAR_1 . METHOD_2 ( PACKAGE_1 , PACKAGE_2 ) ;
+METHOD_1 ( ( VAR_2 == ( VAR_1 ) ? NUMBER_CONSTANT : VAR_2 ) ) ;
+if ( ( PACKAGE_1 . METHOD_1 () ) == NUMBER_CONSTANT ) return;
+VAR_3 . METHOD_1 ( STRING_CONSTANT , ( ( VAR_2 ) ( VAR_1 ) ) ) ;
+if ( METHOD_4 () ) { VAR_2 . METHOD_1 ( true ) ; } else { VAR_2 . METHOD_2 ( true ) . METHOD_5 ( VAR_1 ) ; }
+int VAR_3 = VAR_1 . METHOD_2 ( VAR_2 . METHOD_1 () ) ;
+{ for ( TYPE_1 VAR_3 : VAR_1 ) { PACKAGE_1 . METHOD_1 ( VAR_3 ) ; } VAR_1 = null ; }
+VAR_1 . METHOD_2 ( VAR_2 ) ;
+@ VAR_1 public void METHOD_1 () {}
+int VAR_2 = VAR_1 . METHOD_1 () ;
+case PACKAGE_2 :
+VAR_1 = ( PACKAGE_2 ) - ( PACKAGE_1 . METHOD_1 () ) ;
+{ super . METHOD_4 ( VAR_1 ) ; METHOD_2 ( METHOD_5 ( VAR_2 ) ) ; VAR_3 . METHOD_3 ( METHOD_6 () , METHOD_1 () ) ; }
+TYPE_1 VAR_2 = new PACKAGE_1 ( VAR_1 ) ;
+{ VAR_1 . METHOD_2 ( VAR_3 ) ; VAR_2 = VAR_3 ; METHOD_1 () ; }
+PACKAGE_1 VAR_1 = VAR_2 . METHOD_1 ( VAR_3 , null ) ;
+{ VAR_6 . METHOD_1 ( VAR_4 , VAR_1 , VAR_7 , VAR_2 , VAR_3 ) ; }
+TYPE_1 VAR_2 = new PACKAGE_1 ( VAR_4 , VAR_6 , VAR_5 , VAR_1 , VAR_3 ) ;
+{ TYPE_3 VAR_1 = new TYPE_3 () ; return new TYPE_4 ( new TYPE_1 () , VAR_1 ) ; }
+public void METHOD_1 ( float VAR_1 ) { this . VAR_1 = VAR_1 ; }
+int VAR_2 = super . METHOD_1 () ;
+VAR_1 . METHOD_1 ( VAR_2 , NUMBER_CONSTANT , NUMBER_CONSTANT ) ;
+VAR_1 . METHOD_1 ( VAR_2 , PACKAGE_1 ) ;
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+final TYPE_1 VAR_1 = ( METHOD_1 () ) ? null : new PACKAGE_2 ( PACKAGE_1 , new TYPE_2 ( STRING_CONSTANT ) ) ;
+TYPE_1 VAR_2 = new TYPE_1 ( VAR_3 , VAR_1 . METHOD_1 ( null ) ) ;
+METHOD_3 ( VAR_1 . METHOD_5 () , METHOD_1 ( METHOD_2 () . METHOD_5 () ) ) ;
+return METHOD_3 ( VAR_3 , VAR_1 , VAR_2 . METHOD_2 () ) ;
+new TYPE_1 () . METHOD_1 () ;
+VAR_1 . METHOD_1 ( PACKAGE_1 , PACKAGE_2 , VAR_2 ) ;
+this . VAR_1 = new TYPE_1 ( VAR_2 ) ;
+return VAR_1 == ( PACKAGE_1 ) ? null : VAR_1 ;
+if ( VAR_1 == ( PACKAGE_1 ) ) { METHOD_1 () ; return; }
+{ VAR_3 . METHOD_1 ( VAR_1 . METHOD_2 () , VAR_2 ) ; }
+( this . VAR_1 ) == null
+public boolean METHOD_1 ( TYPE_1 VAR_1 ) ;
+VAR_1 ++
+METHOD_2 ( VAR_1 . METHOD_1 () ) ;
+{ super . METHOD_4 ( VAR_2 ) ; METHOD_2 ( METHOD_5 ( VAR_1 ) ) ; VAR_3 . METHOD_3 ( METHOD_6 () , METHOD_1 () ) ; }
+VAR_1 . METHOD_4 ( VAR_2 . METHOD_3 () . METHOD_2 ( VAR_1 . METHOD_4 () ) ) ;
+try { return VAR_2 . METHOD_3 ( VAR_1 ) . METHOD_1 () ; } finally { VAR_1 . METHOD_2 () ; }
+PACKAGE_1 = ( VAR_2 + ( VAR_2 . METHOD_1 ( STRING_CONSTANT ) ? STRING_CONSTANT : STRING_CONSTANT ) ) + VAR_1 ;
+VAR_1 . METHOD_2 () ;
+VAR_1 . METHOD_1 ( PACKAGE_2 , PACKAGE_1 , VAR_2 ) ;
+{ new PACKAGE_1 ( new TYPE_1 () , STRING_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT ) ; }
+final TYPE_1 VAR_3 = PACKAGE_2 . METHOD_1 ( VAR_1 , PACKAGE_1 , VAR_2 ) ;
+TYPE_3 VAR_1 = new TYPE_2 () ;
+VAR_1 . METHOD_1 ( VAR_3 . METHOD_2 () . METHOD_3 () , VAR_2 ) ;
+TYPE_1 VAR_4 = VAR_2 . VAR_4 ( VAR_3 , VAR_1 , true ) ;
+VAR_3 < VAR_2 > VAR_1 = new VAR_3 () ;
+VAR_1 = VAR_4 . METHOD_1 ( VAR_3 . METHOD_2 ( new TYPE_1 ( VAR_2 , STRING_CONSTANT ) ) )
+VAR_2 . METHOD_1 ( VAR_1 ) ;
+{ if ( VAR_2 . METHOD_1 () ) { VAR_4 = VAR_2 . METHOD_2 () . METHOD_3 ( VAR_7 , VAR_1 , VAR_5 , VAR_6 , VAR_3 ) ; } }
+VAR_3 < VAR_4 > VAR_2 = METHOD_1 () ;
+TYPE_2 VAR_1
+VAR_3 = new PACKAGE_1 ( VAR_4 , VAR_6 , VAR_5 , VAR_1 , VAR_2 ) ;
+TYPE_3 VAR_1 = new TYPE_2 () ;
+{ VAR_3 . METHOD_1 ( new TYPE_1 ( VAR_4 ) ) ; }
+return new TYPE_3 ( new TYPE_2 () , VAR_1 ) ;
+VAR_3 . METHOD_4 ( VAR_1 ) ;
+{ VAR_1 . METHOD_1 ( VAR_2 , new PACKAGE_2 ( null , PACKAGE_1 , STRING_CONSTANT ) ) ; }
+METHOD_1 () . METHOD_3 ( VAR_1 , VAR_2 ) ;
+VAR_2 . METHOD_4 ( VAR_1 . METHOD_1 () . METHOD_3 () ) ;
+{ VAR_1 . METHOD_2 ( VAR_2 ) ; }
+if ( VAR_2 == null ) { throw new TYPE_1 ( ( ( STRING_CONSTANT + VAR_1 ) + STRING_CONSTANT ) ) ; }
+{ super . METHOD_2 ( VAR_1 ) ; METHOD_1 ( VAR_2 ) ; }
+if ( VAR_1 >= NUMBER_CONSTANT ) { throw new TYPE_1 ( STRING_CONSTANT ) ; }
+if ( PACKAGE_2 ) { VAR_1 . METHOD_1 ( new PACKAGE_1 ( true ) ) ; }
+return new TYPE_1 ( VAR_1 . METHOD_1 () , VAR_4 , VAR_2 , VAR_3 ) ;
+if ( VAR_1 ) { VAR_2 = VAR_3 . METHOD_2 ( VAR_2 ) ; }
+VAR_1 = - ( PACKAGE_1 ) ;
+( ( ( STRING_CONSTANT + VAR_1 ) + STRING_CONSTANT ) + ( VAR_2 . METHOD_2 () . METHOD_1 () ) ) + STRING_CONSTANT
+if ( VAR_5 >= ( VAR_3 ) ) { VAR_6 . METHOD_2 ( STRING_CONSTANT , VAR_1 , VAR_3 , VAR_4 ) ; METHOD_1 ( VAR_2 ) ; }
+VAR_1 . METHOD_2 ( new PACKAGE_1 () . METHOD_1 ( true ) ) ;
+new PACKAGE_1 ( VAR_1 , VAR_2 )
+if ( VAR_2 . METHOD_1 ( STRING_CONSTANT , false ) ) { VAR_1 . METHOD_2 () . METHOD_3 () ; }
+VAR_2 . METHOD_3 ( VAR_1 ) . METHOD_4 () . METHOD_2 ( PACKAGE_1 ) ;
+{ PACKAGE_1 . METHOD_3 ( METHOD_2 () . METHOD_1 () , VAR_1 , PACKAGE_2 ) ; }
+for ( TYPE_1 VAR_3 : VAR_2 . METHOD_4 () ) { METHOD_3 ( VAR_1 . METHOD_1 ( VAR_3 . METHOD_2 () ) ) ; }
+VAR_1 . METHOD_1 ( VAR_2 , PACKAGE_1 ) ;
+return VAR_1 . METHOD_1 () . METHOD_3 () ;
+TYPE_1 VAR_2 = new TYPE_1 ( VAR_1 ) ;
+if ( VAR_3 ) { VAR_2 . METHOD_2 ( VAR_1 . METHOD_3 ( new TYPE_1 ( VAR_4 ) ) ) ; }
+TYPE_1 VAR_1 = VAR_2 . METHOD_2 () ;
+VAR_1 VAR_2 = VAR_3 . METHOD_2 ( STRING_CONSTANT ) ;
+VAR_1 . METHOD_6 ( STRING_CONSTANT , VAR_3 . METHOD_1 ( VAR_2 ) . METHOD_4 () . METHOD_7 ( STRING_CONSTANT , STRING_CONSTANT ) . METHOD_3 () . METHOD_2 () ) ;
+VAR_1 . METHOD_1 ( STRING_CONSTANT , VAR_2 ) ;
+VAR_1 . METHOD_1 ( VAR_3 , NUMBER_CONSTANT , VAR_2 ) ;
+{ if ( VAR_2 != null ) try { VAR_2 . METHOD_1 () ; } catch ( TYPE_1 VAR_1 ) {} }
+TYPE_1 VAR_1 = VAR_2 . METHOD_1 () ;
+VAR_1 = new TYPE_1 ( NUMBER_CONSTANT , NUMBER_CONSTANT , false ) ;
+VAR_2 = VAR_1 . METHOD_1 ( VAR_4 , null ) ;
+int VAR_2 = VAR_1 , VAR_3 = PACKAGE_1
+TYPE_1 VAR_1 = PACKAGE_1 [ ( ( int ) ( VAR_2 ) ) ] ;
+if ( ! ( VAR_2 . METHOD_1 () ) ) VAR_3 . METHOD_3 () ;
+int VAR_2 = VAR_1 . METHOD_1 () ;
+VAR_1 . METHOD_1 ( ( VAR_2 + NUMBER_CONSTANT ) ) ;
+{ return VAR_2 . METHOD_1 ( new TYPE_1 ( VAR_1 . METHOD_2 () ) , true ) ; }
+TYPE_1 VAR_2 = VAR_3 . METHOD_1 ( STRING_CONSTANT ) ;
+VAR_1 = VAR_2 . METHOD_3 () . METHOD_2 ( VAR_3 ) ;
+VAR_2 . METHOD_2 ( VAR_4 ) . METHOD_1 ( VAR_1 )
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+if ( ( VAR_2 . METHOD_2 () ) > NUMBER_CONSTANT ) { VAR_3 . METHOD_1 ( STRING_CONSTANT , VAR_2 , VAR_1 ) ; }
+{ for ( TYPE_1 VAR_2 : VAR_1 ) VAR_2 . METHOD_2 () ; METHOD_1 ( true ) ; }
+VAR_2 . METHOD_2 ( VAR_1 . METHOD_3 () ) ;
+final VAR_3 < VAR_1 > VAR_2 = new VAR_3 () ;
+TYPE_3 VAR_2 = VAR_3 . METHOD_1 ( new TYPE_1 ( new TYPE_2 ( VAR_1 ) , PACKAGE_1 ) ) ;
+{ super . METHOD_1 () ; VAR_1 . METHOD_2 () ; VAR_1 . METHOD_3 () ; VAR_1 = null ; }
+VAR_1 . METHOD_3 ( VAR_2 . METHOD_1 () . METHOD_4 () ) ;
+if ( VAR_3 . METHOD_1 () ) { throw new PACKAGE_1 ( ( ( STRING_CONSTANT + ( VAR_1 ) ) + STRING_CONSTANT ) ) ; }
+while ( ( METHOD_2 () . METHOD_1 () ) != NUMBER_CONSTANT ) { METHOD_2 () . METHOD_4 () ; }
+if ( VAR_1 == null ) throw new TYPE_2 ( STRING_CONSTANT ) ;
+METHOD_4 () . METHOD_3 ( STRING_CONSTANT , ( ( METHOD_2 () . METHOD_5 () ) + NUMBER_CONSTANT ) ) . METHOD_3 ( STRING_CONSTANT , NUMBER_CONSTANT )
+VAR_2 . METHOD_1 ( VAR_1 ) ;
+VAR_4 . METHOD_1 ( VAR_1 , VAR_2 , VAR_3 ) ;
+VAR_1 . METHOD_1 ( true ) ;
+METHOD_1 ( STRING_CONSTANT ) . METHOD_2 ( VAR_2 . METHOD_3 ( true ) )
+TYPE_1 VAR_1 = new TYPE_1 ( VAR_3 , VAR_2 , VAR_4 , false ) ;
+VAR_1 < ( PACKAGE_2 )
+final long VAR_1 = VAR_3 . METHOD_1 () ;
+{ return new TYPE_1 ( VAR_2 . METHOD_1 () , VAR_1 ) ; }
+{ VAR_1 . METHOD_4 () . METHOD_2 () ; VAR_1 . METHOD_3 () ; }
+VAR_1 . METHOD_1 ( null )
+VAR_2 = new TYPE_1 ( VAR_1 , VAR_3 ) ;
+METHOD_1 ( new TYPE_2 ( this ) ) ;
+( long ) ( VAR_1 . METHOD_1 ( VAR_2 . METHOD_2 ( NUMBER_CONSTANT , ( ( VAR_2 . METHOD_3 () ) - NUMBER_CONSTANT ) ) ) )
+return METHOD_2 ( VAR_3 , VAR_1 , VAR_2 ) ;
+{ METHOD_1 () ; METHOD_3 () ; return; }
+if ( PACKAGE_1 . METHOD_2 () ) { PACKAGE_1 . METHOD_3 ( STRING_CONSTANT , VAR_1 ) ; }
+METHOD_1 ( VAR_1 , METHOD_2 () ) ;
+if ( VAR_1 == null ) { return VAR_4 . METHOD_1 ( VAR_3 , VAR_2 . METHOD_2 ( NUMBER_CONSTANT ) ) ; }
+VAR_1 = new TYPE_1 ( NUMBER_CONSTANT , NUMBER_CONSTANT , true ) ;
+{ return new PACKAGE_1 ( VAR_2 . METHOD_1 ( VAR_1 ) ) ; }
+final int VAR_1
+VAR_2 VAR_4 = VAR_2 . METHOD_2 ( VAR_3 . METHOD_3 ( STRING_CONSTANT ) . METHOD_1 () ) ;
+return VAR_2 . METHOD_1 ( VAR_1 ) ;
+TYPE_1 VAR_1 = new TYPE_1 ( VAR_2 . METHOD_1 () , false ) ;
+if ( VAR_1 . METHOD_1 () ) { VAR_2 . METHOD_3 ( new TYPE_1 ( STRING_CONSTANT ) ) ; return; }
+{ METHOD_1 ( VAR_1 ) ; if ( ( VAR_2 ) != null ) VAR_2 . METHOD_3 ( VAR_3 ) ; }
+{ VAR_4 . METHOD_1 ( new PACKAGE_1 ( VAR_3 . METHOD_2 ( VAR_2 , VAR_1 ) , PACKAGE_2 ) ) ; }
+{ return VAR_1 . METHOD_1 ( VAR_3 , null ) ; }
+VAR_3 = VAR_1 . METHOD_1 ( VAR_4 , null ) ;
+if ( VAR_2 != null ) VAR_2 . METHOD_2 ( VAR_1 , this ) ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_1 ( VAR_4 , null ) ;
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+METHOD_1 ( new TYPE_2 ( this ) ) ;
+if ( ! ( PACKAGE_1 . METHOD_1 ( VAR_2 ) ) ) return VAR_1 ;
+METHOD_5 ( STRING_CONSTANT ) . METHOD_2 ( METHOD_6 ( STRING_CONSTANT ) . METHOD_2 ( METHOD_1 ( STRING_CONSTANT ) . METHOD_3 ( VAR_1 ) . METHOD_4 ( PACKAGE_1 ) ) )
+try { VAR_1 . METHOD_1 ( STRING_CONSTANT ) ; METHOD_2 () ; } catch ( TYPE_1 VAR_2 ) {}
+byte [] VAR_2 = VAR_1 . METHOD_1 () . METHOD_3 () ;
+{ PACKAGE_3 = VAR_1 ; PACKAGE_2 = NUMBER_CONSTANT ; }
+if ( VAR_1 . METHOD_1 () ) { return; }
+VAR_1 . METHOD_2 () ;
+final int VAR_1 = METHOD_2 ( NUMBER_CONSTANT , NUMBER_CONSTANT ) ;
+VAR_1 . METHOD_1 ( METHOD_2 ( true ) , ( - NUMBER_CONSTANT ) ) ;
+VAR_1 . METHOD_3 ( VAR_2 . METHOD_1 ( STRING_CONSTANT , null ) ) ;
+if ( VAR_2 == null ) { return PACKAGE_1 ; }
+METHOD_2 ( VAR_3 . METHOD_1 ( VAR_2 ) ) ;
+VAR_2 . METHOD_3 ( VAR_1 ) . METHOD_4 () . METHOD_1 ( PACKAGE_1 ) ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_1 () ;
+return new TYPE_1 ( VAR_3 , VAR_2 ) ;
+catch ( TYPE_1 VAR_1 ) { throw new TYPE_2 ( VAR_2 , STRING_CONSTANT , VAR_1 ) ; }
+TYPE_1 VAR_2 = new TYPE_1 ( new PACKAGE_1 ( VAR_1 . METHOD_1 () . METHOD_3 () , false ) ) ;
+TYPE_1 VAR_1 = VAR_4 . METHOD_1 ( VAR_2 ) ;
+return PACKAGE_1 ;
+{ METHOD_1 () ; return; }
+VAR_2 . METHOD_1 ( new TYPE_1 ( VAR_1 , PACKAGE_1 , VAR_3 ) ) ;
+if ( VAR_2 == null ) { VAR_2 = VAR_1 . METHOD_1 () ; }
+{ if ( ! ( PACKAGE_1 ) ) return; VAR_1 . METHOD_4 ( VAR_2 . METHOD_1 () , VAR_2 . METHOD_2 () ) ; }
+new TYPE_1 ( VAR_1 . METHOD_1 () . METHOD_2 ( VAR_2 , VAR_3 ) . METHOD_3 () , new PACKAGE_1 ( PACKAGE_2 ) )
+case PACKAGE_1 :
+TYPE_1 VAR_2 = VAR_1 . METHOD_2 () . METHOD_6 () . METHOD_3 ( METHOD_4 () . METHOD_5 () ) . METHOD_7 () ;
+return VAR_1 . METHOD_2 () ;
+TYPE_1 VAR_3 = VAR_1 . METHOD_2 ( VAR_2 ) ;
+VAR_1 = new TYPE_2 () ;
+if ( VAR_1 ) { PACKAGE_1 . METHOD_1 () ; VAR_1 = false ; }
+return VAR_2 . METHOD_1 ( VAR_3 , VAR_1 ) ;
+catch ( TYPE_1 VAR_1 ) { PACKAGE_1 . METHOD_2 ( STRING_CONSTANT , VAR_1 ) ; }
+VAR_3 . METHOD_1 ( STRING_CONSTANT , VAR_2 , VAR_1 ) ;
+METHOD_1 ( VAR_1 . METHOD_2 ( VAR_2 , VAR_3 ) , PACKAGE_1 ) ;
+if ( ( VAR_1 . METHOD_4 () . METHOD_3 () ) != null ) { return VAR_1 . METHOD_4 () . METHOD_3 () . METHOD_1 () . METHOD_2 () ; }
+final TYPE_1 VAR_1
+@ VAR_3 public void METHOD_2 ( TYPE_1 VAR_1 ) throws VAR_2 { VAR_4 . METHOD_3 () ; }
+@ VAR_1 public void METHOD_1 ( int VAR_2 ) {}
+VAR_3 . METHOD_2 ( VAR_1 . METHOD_3 ( VAR_2 ) ) ;
+METHOD_2 ( VAR_3 . METHOD_1 ( VAR_1 , new TYPE_1 ( VAR_2 ) , ( - NUMBER_CONSTANT ) ) , METHOD_3 ( NUMBER_CONSTANT ) ) ;
+VAR_1 . METHOD_1 ( VAR_2 , VAR_3 ) ;
+PACKAGE_1 VAR_4 = VAR_1 . METHOD_3 ( VAR_3 ) . METHOD_2 ( VAR_2 , VAR_5 ) ;
+{ TYPE_1 [ VAR_1 ] . METHOD_1 () ; }
+@ VAR_1 public void METHOD_2 ( int VAR_2 ) {}
+return new TYPE_1 ( VAR_1 , VAR_2 ) ;
+VAR_1 VAR_2 = VAR_1 . METHOD_1 ( VAR_3 , TYPE_2 [ VAR_4 ] ) ;
+TYPE_1 VAR_1 ;
+{ new PACKAGE_1 ( new TYPE_1 () , STRING_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT , true ) ; VAR_2 . METHOD_1 ( VAR_1 ) ; }
+TYPE_1 VAR_3 = VAR_2 . METHOD_1 () ;
+VAR_1 . METHOD_2 () . METHOD_3 () . METHOD_4 ()
+{ return new PACKAGE_1 ( VAR_1 . METHOD_2 ( METHOD_1 ( VAR_2 ) , null ) ) ; }
+VAR_1 . METHOD_3 ( VAR_2 . METHOD_2 ( STRING_CONSTANT , null ) ) ;
+VAR_1 . METHOD_1 ( new PACKAGE_1 ( VAR_2 ) ) . METHOD_2 () . METHOD_3 ()
+VAR_2 . METHOD_2 ( VAR_1 . METHOD_1 () ) ;
+new PACKAGE_3 ( new PACKAGE_1 () , VAR_1 ) ;
+( VAR_1 ) && ( ( PACKAGE_1 ) != null )
+TYPE_3 VAR_1 = new TYPE_2 () ;
+VAR_1 . METHOD_3 ( new TYPE_1 ( METHOD_1 () , METHOD_2 () ) ) ;
+catch ( TYPE_1 VAR_1 ) { VAR_5 . METHOD_1 ( STRING_CONSTANT , VAR_1 , VAR_2 , VAR_3 ) ; VAR_4 = VAR_1 ; }
+TYPE_1 VAR_1 = VAR_2 . METHOD_2 () . METHOD_3 () ;
+catch ( TYPE_1 VAR_1 ) {}
+new PACKAGE_2 ( PACKAGE_1 , VAR_1 , VAR_2 . METHOD_3 () ) . METHOD_2 ( VAR_2 . METHOD_2 () ) . METHOD_1 ( VAR_2 . METHOD_1 () )
+VAR_4 VAR_2 = VAR_1 . METHOD_1 ( VAR_3 ) . METHOD_3 ( VAR_4 . class ) ;
+VAR_2 . METHOD_2 () . METHOD_3 ( VAR_1 . METHOD_1 () ) ;
+VAR_1 = new TYPE_1 ( VAR_2 . METHOD_1 ( STRING_CONSTANT ) , true ) ;
+VAR_3 . METHOD_1 ( VAR_1 ) ;
+catch ( TYPE_2 VAR_1 ) { VAR_2 . METHOD_1 ( VAR_1 ) ; }
+return new TYPE_1 () { @ VAR_3 public void METHOD_2 ( ) throws VAR_2 { VAR_1 . METHOD_3 () ; } } ;
+VAR_1 . METHOD_1 ( VAR_5 , VAR_4 , VAR_3 ) ;
+VAR_3 < VAR_4 > VAR_2 = new VAR_3 < VAR_4 > ( VAR_1 ) ;
+{ return new TYPE_1 ( VAR_1 . METHOD_2 () , VAR_2 . METHOD_4 () ) ; }
+METHOD_2 ()
+{ METHOD_1 ( VAR_1 , VAR_2 , VAR_3 ) ; }
+{ VAR_1 = true ; VAR_2 . METHOD_1 () . METHOD_2 ( new PACKAGE_1 () ) ; }
+PACKAGE_1 VAR_5 = VAR_2 . METHOD_2 ( VAR_1 , VAR_3 , VAR_4 ) ;
+protected void METHOD_4 () { METHOD_3 ( METHOD_1 () ) ; METHOD_4 ( METHOD_1 () ) ; }
+METHOD_1 ( VAR_2 . METHOD_2 ( VAR_1 ) , PACKAGE_1 ) ;
+VAR_2 = ( ( VAR_5 ) ( VAR_3 . METHOD_1 ( VAR_1 ) ) ) ;
+TYPE_1 [ ( VAR_1 ++ ) ] = VAR_2 ;
+VAR_2 . METHOD_1 ( VAR_1 ) ;
+final TYPE_1 VAR_1 = METHOD_2 () . METHOD_1 ( PACKAGE_1 ) ;
+{ TYPE_3 VAR_1 = new TYPE_3 () ; return new TYPE_4 ( new TYPE_1 () , VAR_1 ) ; }
+TYPE_1 VAR_1 = VAR_2 . VAR_1 ( STRING_CONSTANT , STRING_CONSTANT , VAR_3 , null ) ;
+if ( VAR_4 == null ) { throw new TYPE_1 ( VAR_2 , ( ( STRING_CONSTANT + VAR_1 ) + STRING_CONSTANT ) ) ; }
+VAR_1 . METHOD_2 () . METHOD_1 ( new PACKAGE_2 () ) ;
+VAR_1 == ( PACKAGE_1 )
+TYPE_1 VAR_1 = VAR_3 . METHOD_2 () . METHOD_3 ( VAR_2 , VAR_3 . METHOD_1 () ) ;
+VAR_2 = VAR_3 . METHOD_2 ( new TYPE_1 ( VAR_1 . METHOD_1 () , NUMBER_CONSTANT , VAR_4 , true ) ) ;
+public VAR_2 < VAR_3 , VAR_4 > METHOD_2 () { return VAR_1 () ; }
+@ VAR_2 public TYPE_1 METHOD_2 ( ) throws VAR_4 { return VAR_1 . METHOD_1 ( VAR_3 , null ) ; }
+{ VAR_3 . METHOD_3 ( VAR_1 ) ; VAR_1 . METHOD_2 ( VAR_2 ) ; }
+assert VAR_1 . METHOD_3 () . METHOD_1 ( VAR_1 . METHOD_2 () ) ;
+@ VAR_2 public TYPE_1 METHOD_1 () { if ( VAR_1 . METHOD_2 () ) { return PACKAGE_3 ; } return PACKAGE_2 ; }
+{ VAR_3 . METHOD_1 ( VAR_4 , VAR_1 , VAR_5 , VAR_2 ) ; }
+VAR_2 . METHOD_3 ( VAR_3 . METHOD_1 ( VAR_1 . METHOD_2 () ) ) ;
+TYPE_1 VAR_1 = new TYPE_1 ( NUMBER_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT , false , VAR_2 ) ;
+{ VAR_1 . METHOD_2 ( VAR_3 . METHOD_1 ( VAR_2 ) ) ; }
+if ( ! ( VAR_1 . METHOD_2 () ) ) { PACKAGE_1 . METHOD_3 ( ( STRING_CONSTANT + VAR_2 ) ) ; }
+VAR_1 . METHOD_1 ( STRING_CONSTANT ) ;
+( ( ( ( STRING_CONSTANT + ( VAR_1 . METHOD_3 () ) ) + STRING_CONSTANT ) + ( VAR_2 . METHOD_2 () ) ) + STRING_CONSTANT )
+TYPE_1 VAR_2 = VAR_1 . METHOD_1 ( VAR_3 ) ;
+if ( VAR_2 ) VAR_1 . METHOD_1 () ;
+METHOD_6 ( VAR_1 . METHOD_5 ( STRING_CONSTANT ) . METHOD_8 ( NUMBER_CONSTANT ) . METHOD_7 () . METHOD_4 ( NUMBER_CONSTANT ) . METHOD_2 () , METHOD_1 ( STRING_CONSTANT ) ) ;
+VAR_1 = PACKAGE_2 ;
+METHOD_4 () . METHOD_1 ( STRING_CONSTANT , STRING_CONSTANT , STRING_CONSTANT ) . METHOD_2 ( STRING_CONSTANT ) . METHOD_6 ( VAR_1 ) . METHOD_5 () . METHOD_3 () ;
+VAR_3 . METHOD_1 () . METHOD_2 ( VAR_1 , VAR_2 , true ) ;
+TYPE_1 VAR_4 = VAR_3 . METHOD_1 ( VAR_2 , VAR_1 ) ;
+TYPE_3 VAR_1 = new TYPE_1 () ;
+public TYPE_2 VAR_1 ( TYPE_1 VAR_1 ) { this . VAR_1 = VAR_1 ; return this ; }
+( ( VAR_1 ) ( PACKAGE_2 ) ) . METHOD_1 ( PACKAGE_1 . METHOD_3 ( VAR_2 ) ) ;
+PACKAGE_1 VAR_3 = ( VAR_1 == null ) ? VAR_2 . METHOD_1 ( STRING_CONSTANT ) : VAR_1 ;
+{ VAR_3 . METHOD_4 ( VAR_1 , VAR_2 ) ; VAR_3 . METHOD_2 () ; VAR_4 . METHOD_1 () . METHOD_3 ( VAR_1 , VAR_2 , true ) ; }
+TYPE_3 VAR_1 = new TYPE_2 () ;
+{ VAR_3 . METHOD_4 ( STRING_CONSTANT , STRING_CONSTANT ) ; VAR_1 . METHOD_2 () ; VAR_2 . METHOD_1 () . METHOD_2 () ; }
+if ( ! ( METHOD_1 () . METHOD_2 () ) ) { return null ; }
+return METHOD_1 ( VAR_1 , VAR_2 , VAR_3 . METHOD_2 () ) ;
+TYPE_1 [] VAR_1 = new TYPE_1 [ METHOD_2 ( NUMBER_CONSTANT , NUMBER_CONSTANT ) ] ;
+VAR_1 ++
+VAR_1 . METHOD_3 ( STRING_CONSTANT , VAR_3 . METHOD_2 () . METHOD_1 () , VAR_2 ) ;
+TYPE_1 VAR_3 = VAR_2 . METHOD_1 ( STRING_CONSTANT , null ) ;
+VAR_1 . METHOD_4 ( new TYPE_1 ( METHOD_2 () , METHOD_3 () ) ) ;
+{ VAR_2 = new PACKAGE_5 ( VAR_1 , NUMBER_CONSTANT , PACKAGE_2 , PACKAGE_1 , NUMBER_CONSTANT , NUMBER_CONSTANT ) ; VAR_3 . METHOD_1 ( VAR_1 , VAR_2 ) ; }
+( ( PACKAGE_1 ) + ( ( PACKAGE_2 ) * VAR_1 ) )
+PACKAGE_1 = VAR_1 . METHOD_1 ( NUMBER_CONSTANT ) ;
+TYPE_2 VAR_2 = VAR_1 . METHOD_1 ( VAR_3 , VAR_4 ) ;
+TYPE_1 VAR_1 = new PACKAGE_1 ( VAR_3 , VAR_2 , null ) ;
+if ( VAR_2 . METHOD_2 ( STRING_CONSTANT ) ) { VAR_3 . METHOD_3 ( STRING_CONSTANT , VAR_2 ) ; return VAR_1 ; }
+VAR_1 . METHOD_2 ( VAR_2 ) ;
+super . METHOD_2 ( VAR_1 )
+if ( VAR_2 == null ) { throw new TYPE_1 ( ( STRING_CONSTANT + VAR_1 ) ) ; }
+VAR_2 < PACKAGE_1 > VAR_1 = new VAR_2 < PACKAGE_1 > ( PACKAGE_2 ) ;
+TYPE_1 VAR_1 = VAR_2 . METHOD_2 ( VAR_3 ) ;
+catch ( TYPE_1 VAR_1 ) { VAR_3 . METHOD_1 ( STRING_CONSTANT , VAR_1 , PACKAGE_1 , VAR_2 . METHOD_2 () ) ; }
+VAR_2 = new TYPE_1 ( VAR_1 . METHOD_3 () , VAR_1 . METHOD_1 () , VAR_1 . METHOD_2 () , VAR_3 . METHOD_5 () , VAR_3 . METHOD_6 () )
+TYPE_1 VAR_3 = VAR_1 . METHOD_1 () . METHOD_3 ( METHOD_2 ( VAR_2 ) ) ;
+METHOD_3 () . METHOD_2 ( STRING_CONSTANT ) ;
+if ( VAR_1 == null ) { return VAR_3 . METHOD_1 ( VAR_2 . METHOD_2 () ) ; }
+int VAR_3 = VAR_4 . METHOD_1 ( VAR_2 , VAR_1 ) ;
+public boolean METHOD_1 ( TYPE_1 VAR_1 ) { ( VAR_3 ) ++ ; return ( VAR_3 ) > ( VAR_2 ) ; }
+VAR_1 = new TYPE_1 ( PACKAGE_1 , PACKAGE_2 ) ;
+if ( ( VAR_2 ) >= NUMBER_CONSTANT ) { VAR_1 . METHOD_1 ( STRING_CONSTANT , VAR_2 ) ; }
+VAR_2 . METHOD_2 ( VAR_1 )
+VAR_1 . METHOD_1 ( false ) ;
+return new TYPE_3 ( new TYPE_1 () , VAR_1 ) ;
+{ VAR_3 . METHOD_1 ( new TYPE_2 ( VAR_1 , VAR_2 ) ) ; }
+catch ( TYPE_3 VAR_1 ) { VAR_2 . METHOD_2 ( new TYPE_1 ( STRING_CONSTANT , STRING_CONSTANT , VAR_1 , METHOD_1 () ) ) ; }
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+METHOD_3 ( VAR_1 . METHOD_4 () . METHOD_6 () . METHOD_6 () . METHOD_7 () , METHOD_1 ( METHOD_5 () . METHOD_7 () ) ) ;
+if ( VAR_2 . METHOD_1 () . METHOD_2 ( STRING_CONSTANT , false ) ) { VAR_1 . METHOD_3 () ; }
+{ return METHOD_1 ( METHOD_2 ( VAR_3 , VAR_2 ) , new TYPE_1 ( VAR_1 , VAR_5 , null ) , VAR_4 ) ; }
+{ TYPE_1 VAR_1 = new TYPE_1 () ; new PACKAGE_3 ( new PACKAGE_1 () , VAR_1 ) ; }
+VAR_1 < ? extends VAR_3 > VAR_2
+{ super . METHOD_2 ( VAR_1 ) ; METHOD_1 ( VAR_2 ) ; }
+VAR_1 . METHOD_2 ( VAR_3 . METHOD_1 ( STRING_CONSTANT , VAR_1 . METHOD_2 () ) ) ;
+catch ( TYPE_2 VAR_1 ) { throw new TYPE_1 ( STRING_CONSTANT , VAR_1 ) ; }
+catch ( TYPE_1 VAR_1 ) { throw new TYPE_2 ( VAR_2 , STRING_CONSTANT , VAR_1 ) ; }
+if ( VAR_1 == null ) { return null ; }
+VAR_2 . METHOD_3 ( VAR_1 . METHOD_2 ( NUMBER_CONSTANT ) ) ;
+TYPE_1 VAR_1 = PACKAGE_1 ;
+VAR_1 . METHOD_2 ( false ) ;
+VAR_2 . METHOD_2 () ;
+VAR_1 VAR_2 = METHOD_3 () . METHOD_2 ( VAR_1 . class ) ;
+TYPE_1 [] METHOD_1 ( ) throws VAR_1 ;
+VAR_1 . METHOD_3 () . METHOD_2 ( VAR_2 ) ;
+{ if ( ! ( VAR_5 . METHOD_3 ( VAR_4 . METHOD_1 ( VAR_6 ) ) ) ) { return VAR_2 . METHOD_2 ( VAR_1 , VAR_3 , VAR_6 ) ; } }
+{ return METHOD_2 ( new PACKAGE_1 ( VAR_1 ) . METHOD_3 ( VAR_2 ) ) ; }
+final long VAR_1 = PACKAGE_1 ;
+VAR_1 . METHOD_1 ( ( ( PACKAGE_1 ) | ( PACKAGE_2 ) ) ) ;
+VAR_1 . METHOD_2 ( VAR_2 ) . METHOD_1 () ;
+{ if ( VAR_3 . METHOD_1 ( VAR_1 ) ) { return VAR_2 ? VAR_3 . METHOD_3 () : VAR_3 . METHOD_2 () ; } return NUMBER_CONSTANT ; }
+TYPE_1 VAR_1 = VAR_3 . METHOD_1 ( VAR_2 , VAR_4 , false ) ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_2 () . VAR_2 ( VAR_3 . METHOD_1 () ) ;
+if ( VAR_2 ) { VAR_1 = VAR_4 . METHOD_1 ( VAR_1 , VAR_3 . METHOD_3 () , VAR_3 . METHOD_2 () ) ; }
+int VAR_2 = VAR_1 . METHOD_1 () ;
+VAR_1 . METHOD_4 ( PACKAGE_1 ) . METHOD_2 ( VAR_2 . METHOD_3 ( NUMBER_CONSTANT ) ) ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_2 ( STRING_CONSTANT ) . METHOD_1 () ;
+TYPE_1 VAR_1 = new TYPE_1 ( VAR_2 , false ) ;
+VAR_1 = new TYPE_1 ( PACKAGE_1 , NUMBER_CONSTANT , NUMBER_CONSTANT , false ) ;
+TYPE_1 VAR_1 = METHOD_1 ( VAR_2 , false ) ;
+TYPE_1 VAR_2 = METHOD_1 ( null ) ;
+catch ( TYPE_1 VAR_2 ) { VAR_1 . METHOD_2 ( STRING_CONSTANT , VAR_2 ) ; }
+{ @ VAR_3 public void METHOD_1 ( TYPE_1 VAR_1 ) { VAR_4 . METHOD_2 ( STRING_CONSTANT , VAR_1 , VAR_2 ) ; } }
+if ( ! ( VAR_2 ) ) { throw new PACKAGE_1 ( VAR_3 , VAR_1 , STRING_CONSTANT ) ; }
+if ( ( VAR_1 ) != null ) { VAR_2 . METHOD_2 ( STRING_CONSTANT , VAR_1 . METHOD_3 () ) ; }
+TYPE_1 VAR_2 = VAR_1 . METHOD_2 ( VAR_3 . METHOD_3 () ) ;
+TYPE_1 VAR_1 = VAR_2 . METHOD_1 () ;
+try { VAR_3 = VAR_1 . METHOD_1 ( VAR_2 , VAR_4 , VAR_6 ) ; } catch ( TYPE_2 VAR_5 ) {}
+if ( VAR_1 == null ) continue;
+final PACKAGE_1 VAR_1 = VAR_2 . METHOD_1 ( STRING_CONSTANT ) ;
+VAR_3 = VAR_4 . METHOD_1 ( VAR_2 . METHOD_2 ( STRING_CONSTANT , VAR_1 ) ) ;
+if ( PACKAGE_1 ) return ( STRING_CONSTANT + VAR_1 ) + STRING_CONSTANT ;
+VAR_1 . METHOD_1 ()
+{ VAR_2 . METHOD_1 ( new TYPE_1 ( VAR_3 , VAR_1 ) ) ; }
+final TYPE_1 VAR_2 = VAR_1 . METHOD_1 ( VAR_3 ) ;
+if ( ( VAR_2 ) == null ) { throw new PACKAGE_1 ( ( ( STRING_CONSTANT + ( METHOD_1 () ) ) + STRING_CONSTANT ) ) ; }
+VAR_2 . METHOD_1 ( VAR_1 ) ;
+if ( ( VAR_2 ) == null ) { throw new PACKAGE_1 ( ( ( STRING_CONSTANT + ( VAR_1 ) ) + STRING_CONSTANT ) ) ; }
+{ super . METHOD_1 ( VAR_2 ) ; VAR_4 . METHOD_3 ( VAR_3 , VAR_2 , VAR_1 ) ; }
+{ return new TYPE_1 ( VAR_2 ) . METHOD_2 ( VAR_1 . METHOD_1 () ) ; }
+TYPE_1 [] VAR_2 = VAR_1 . METHOD_2 () . VAR_2 ( VAR_3 . METHOD_1 () , false , true ) ;
+{ METHOD_3 ( VAR_1 . class ) . METHOD_2 ( VAR_2 . METHOD_4 ( PACKAGE_1 , VAR_3 . class , STRING_CONSTANT , STRING_CONSTANT ) ) . METHOD_1 () ; }
+VAR_1 . METHOD_1 ( STRING_CONSTANT , new TYPE_1 () ) ;
+VAR_1 = PACKAGE_2 ;
+( ( VAR_2 ) == ( - NUMBER_CONSTANT ) ) && ( ( VAR_1 ) == null )
+TYPE_1 VAR_2 = ( VAR_1 + STRING_CONSTANT ) + VAR_3 ;
+TYPE_1 VAR_1 = new TYPE_1 ( VAR_4 , VAR_2 , VAR_3 ) ;
+if ( VAR_2 . METHOD_2 ( METHOD_2 , this ) ) { VAR_2 . METHOD_3 () . METHOD_4 ( VAR_1 . METHOD_1 () , VAR_3 , VAR_4 ) ; }
+{ VAR_1 . METHOD_2 () ; }
+float VAR_1 = VAR_2 . METHOD_1 () ;
+{ VAR_2 . METHOD_4 ( STRING_CONSTANT ) ; VAR_1 . METHOD_3 () . METHOD_2 () ; }
+VAR_1 . METHOD_3 ( VAR_2 . METHOD_1 ( STRING_CONSTANT , VAR_1 . METHOD_3 () ) ) ;
+VAR_2 = VAR_1 . METHOD_2 () ;
+TYPE_1 [ VAR_1 ] . METHOD_1 () ;
+{ super . METHOD_4 ( VAR_2 ) ; VAR_3 . METHOD_3 ( METHOD_6 () , METHOD_1 () ) ; METHOD_2 ( METHOD_5 ( VAR_1 ) ) ; }
+final TYPE_1 VAR_1 = PACKAGE_1 ;
+PACKAGE_1 VAR_1 = VAR_2 . METHOD_1 ( STRING_CONSTANT ) ;
+@ VAR_1 protected TYPE_1 METHOD_1 () { return new TYPE_3 ( VAR_2 , VAR_3 , new TYPE_2 ( STRING_CONSTANT ) ) ; }
+VAR_3 < VAR_4 > VAR_1 = VAR_2 . METHOD_1 () ;
+TYPE_3 VAR_1 = new TYPE_1 () ;
+{ VAR_1 . METHOD_4 ( ( ( VAR_2 . METHOD_2 () ) == null ? null : VAR_2 . METHOD_2 () . METHOD_3 () ) ) ; }
+VAR_3 < VAR_1 > VAR_2 = new VAR_3 < VAR_1 > () ;
+{ PACKAGE_1 . METHOD_1 ( ( STRING_CONSTANT + ( VAR_1 . METHOD_2 () ) ) ) ; }
+TYPE_1 VAR_4 = VAR_1 . METHOD_2 ( VAR_2 , null , VAR_3 ) ;
+catch ( TYPE_1 VAR_2 ) { VAR_3 . METHOD_1 ( STRING_CONSTANT , VAR_2 , VAR_1 ) ; }
+{ super . METHOD_1 () ; VAR_1 . METHOD_2 () ; VAR_1 . METHOD_1 () ; VAR_1 = null ; }
+if ( ( VAR_1 ) != null ) VAR_1 . METHOD_1 () ;
+{ throw new TYPE_1 ( STRING_CONSTANT ) ; }
+VAR_1 . METHOD_1 ( VAR_2 , ( ( PACKAGE_1 ) * VAR_3 ) ) ;
+return VAR_2 . METHOD_1 ( new TYPE_1 ( VAR_1 , STRING_CONSTANT ) ) ;
+{ VAR_4 . METHOD_4 ( STRING_CONSTANT , VAR_1 ) ; VAR_2 . METHOD_3 ( new TYPE_1 ( VAR_3 . METHOD_2 ( VAR_1 ) ) ) ; }
+{ VAR_5 = false ; VAR_2 = true ; return VAR_4 . METHOD_1 ( VAR_3 , VAR_1 , PACKAGE_4 , PACKAGE_1 ) ; }
+VAR_1 = new TYPE_1 ( NUMBER_CONSTANT , PACKAGE_1 , PACKAGE_2 ) ;
+boolean VAR_3 = VAR_2 . METHOD_1 ( VAR_1 ) ;
+{ VAR_2 = VAR_4 . VAR_2 ( false ) ; METHOD_2 ( VAR_3 , VAR_5 , VAR_1 , VAR_2 ) ; }
+METHOD_2 ( VAR_2 , VAR_1 , VAR_3 , VAR_4 . METHOD_1 () ) ;
+VAR_1 . METHOD_1 ( ( ( PACKAGE_2 ) | ( PACKAGE_3 ) ) ) ;
+this . VAR_1 = new TYPE_1 () ;
+VAR_2 = new TYPE_1 ( VAR_1 , VAR_3 ) ;
+@ VAR_1 public TYPE_1 METHOD_1 () { return new TYPE_1 ( STRING_CONSTANT , STRING_CONSTANT ) ; }
+protected void METHOD_3 () { VAR_2 . METHOD_3 () ; VAR_1 . METHOD_1 ( VAR_3 ) ; VAR_3 . METHOD_3 () ; }
+VAR_1 . METHOD_1 () ;
+{ if ( PACKAGE_1 . METHOD_1 ( VAR_1 ) ) return VAR_1 ; return null ; }
+{ return VAR_2 . METHOD_4 () . METHOD_3 ( VAR_1 . METHOD_4 () ) ; }
+TYPE_1 VAR_2 = VAR_1 . METHOD_4 () . METHOD_2 () . METHOD_7 () . METHOD_3 ( METHOD_5 () . METHOD_6 () ) . METHOD_8 () ;
+{ if ( VAR_1 . METHOD_1 ( VAR_2 ) ) { return PACKAGE_1 ; } return PACKAGE_3 ; }
+VAR_1 . METHOD_2 () ;
+if ( ( VAR_1 . METHOD_4 () ) != null ) { VAR_2 = METHOD_1 ( VAR_1 . METHOD_3 () , VAR_3 . METHOD_2 () , null ) ; }
+VAR_1 = new TYPE_1 ( VAR_2 , true , false ) ;
+return new TYPE_1 ( VAR_2 , VAR_1 . METHOD_2 () ) ;
+public PACKAGE_1 METHOD_1 () { PACKAGE_1 VAR_1 = super . METHOD_1 () ; VAR_1 . METHOD_2 () ; return VAR_1 ; }
+VAR_2 . METHOD_1 ( VAR_1 . METHOD_3 ( PACKAGE_1 ) . METHOD_2 ( NUMBER_CONSTANT ) ) ;
+TYPE_1 VAR_2 = ( ( VAR_4 ) ( VAR_1 ) ) . METHOD_1 () ;
+PACKAGE_1 = VAR_1 ;
+{ new PACKAGE_1 ( new TYPE_1 () , STRING_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT , true ) ; }
+METHOD_5 () . METHOD_4 ( STRING_CONSTANT , ( ( METHOD_1 () . METHOD_2 () ) + NUMBER_CONSTANT ) ) . METHOD_4 ( STRING_CONSTANT , NUMBER_CONSTANT )
+VAR_1 . METHOD_1 ( VAR_2 , new PACKAGE_1 () ) ;
+@ VAR_1 public TYPE_1 [] METHOD_1 () { return new TYPE_1 [] { STRING_CONSTANT , STRING_CONSTANT } ; }
+if ( ! ( VAR_2 . METHOD_3 () . METHOD_1 () . METHOD_2 () ) ) { VAR_1 = false ; break; }
+VAR_1 . METHOD_1 () ;
+long VAR_1 = NUMBER_CONSTANT ;
+this . VAR_2 = VAR_1 . METHOD_2 ( METHOD_1 ( VAR_3 , STRING_CONSTANT ) ) ;
+VAR_3 = ( VAR_2 < NUMBER_CONSTANT ) ? VAR_1 : NUMBER_CONSTANT ;
+if ( ( VAR_1 != null ) && ( ! ( VAR_1 . METHOD_2 ( this ) ) ) ) VAR_2 = VAR_1 ;
+{ VAR_3 . METHOD_1 ( VAR_2 , VAR_4 ) ; VAR_2 . METHOD_3 ( VAR_1 ) ; }
+{ super . METHOD_2 ( VAR_2 ) ; METHOD_3 ( METHOD_4 ( VAR_1 ) ) ; METHOD_1 ( VAR_3 ) ; }
+TYPE_3 VAR_1 = new TYPE_1 () ;
+VAR_3 . METHOD_2 ( VAR_4 , VAR_1 ) ;
+final TYPE_1 VAR_1
+final PACKAGE_1 VAR_1 = VAR_2 . METHOD_2 () ;
+{ TYPE_2 [ VAR_3 ] . METHOD_1 () ; if ( ( VAR_1 ) != null ) VAR_1 [ VAR_3 ] = NUMBER_CONSTANT ; }
+private boolean METHOD_4 () { return VAR_2 . METHOD_1 () . METHOD_5 ( VAR_3 . METHOD_2 () . METHOD_3 () ) ; }
+VAR_3 < VAR_2 > VAR_1 = new VAR_3 () ;
+{ TYPE_1 VAR_1 = new TYPE_1 () ; new PACKAGE_1 ( new PACKAGE_2 () , VAR_1 ) ; }
+{ return new TYPE_1 ( true , VAR_2 , VAR_1 . METHOD_2 () . METHOD_3 () ) ; }
+protected void METHOD_4 () { METHOD_5 () . METHOD_3 ( METHOD_2 () ) ; METHOD_4 ( METHOD_2 () ) ; }
+final TYPE_1 VAR_1 = new TYPE_1 ( STRING_CONSTANT ) ;
+protected void METHOD_3 () { VAR_2 . METHOD_3 () ; VAR_1 . METHOD_2 ( VAR_3 ) ; VAR_3 . METHOD_3 () ; }
+TYPE_3 VAR_1 = new TYPE_2 () ;
+{ synchronized ( PACKAGE_1 ) { if ( ! ( PACKAGE_1 . METHOD_2 ( VAR_2 , true ) ) ) return NUMBER_CONSTANT ; } return VAR_1 . METHOD_1 ( VAR_2 ) ; }
+catch ( TYPE_1 VAR_2 ) { throw new TYPE_2 ( ( ( STRING_CONSTANT + VAR_1 ) + STRING_CONSTANT ) , VAR_2 ) ; }
+if ( ! ( VAR_3 ) ) return VAR_1 ;
+if ( ( VAR_2 . METHOD_1 () . METHOD_2 () . VAR_1 ) > ( PACKAGE_1 ) ) { return; }
+{ try { METHOD_2 ( VAR_1 , VAR_2 ) ; } catch ( TYPE_2 VAR_3 ) { VAR_2 . METHOD_1 ( VAR_3 ) ; } }
+@ VAR_2 public TYPE_1 METHOD_2 ( TYPE_2 VAR_1 ) { return METHOD_2 ( VAR_1 . METHOD_1 () ) ; }
+final VAR_2 < VAR_1 > VAR_3 = new VAR_2 ( NUMBER_CONSTANT ) ;
+VAR_2 . METHOD_1 ( VAR_3 . METHOD_3 ( PACKAGE_1 ) . METHOD_2 ( NUMBER_CONSTANT ) ) ;
+{ VAR_1 . METHOD_2 ( this ) ; VAR_3 . METHOD_1 ( new TYPE_1 () ) ; }
+if ( VAR_3 . METHOD_1 () ) { throw new PACKAGE_1 ( ( ( STRING_CONSTANT + ( VAR_2 . METHOD_2 () ) ) + STRING_CONSTANT ) ) ; }
+TYPE_1 VAR_2 = VAR_3 . METHOD_1 () ;
+VAR_2 . METHOD_3 ( VAR_1 , VAR_3 ) . METHOD_2 ( PACKAGE_1 ) ;
+new TYPE_1 ( VAR_1 . METHOD_1 () . METHOD_2 ( VAR_2 , ( VAR_3 - NUMBER_CONSTANT ) ) . METHOD_3 () , new PACKAGE_1 ( PACKAGE_2 ) )
+VAR_3 . METHOD_3 ( STRING_CONSTANT , VAR_1 . METHOD_4 () , VAR_2 . METHOD_1 () ) ;
+METHOD_1 ( VAR_1 , VAR_4 , VAR_3 . class ) ;
+{ VAR_1 = new PACKAGE_5 ( VAR_2 , NUMBER_CONSTANT , PACKAGE_2 , PACKAGE_1 , NUMBER_CONSTANT , NUMBER_CONSTANT ) ; TYPE_1 [ VAR_2 ] = VAR_1 ; }
+TYPE_1 VAR_1 = VAR_3 . METHOD_1 ( VAR_5 , VAR_4 , VAR_2 ) . VAR_1 () ;
+{ return new TYPE_1 ( VAR_2 . METHOD_2 () , VAR_2 . METHOD_1 () , VAR_1 ) ; }
+VAR_3 . METHOD_1 () . METHOD_3 ( STRING_CONSTANT ) . METHOD_4 ( VAR_1 ) . METHOD_6 ( METHOD_2 ( STRING_CONSTANT , STRING_CONSTANT ) ) . METHOD_5 ( NUMBER_CONSTANT )
+VAR_2 = ( VAR_1 . METHOD_3 ( VAR_6 ) ) && ( METHOD_4 ( VAR_4 . METHOD_1 () , VAR_5 , VAR_3 ) ) ;
+catch ( TYPE_1 VAR_1 ) { VAR_2 . METHOD_1 ( VAR_1 ) ; return true ; }
+VAR_1 . METHOD_2 ()
+if ( VAR_1 != null ) { VAR_4 = VAR_2 . METHOD_1 ( VAR_1 ) ; } else { VAR_4 = PACKAGE_1 ; }
+TYPE_1 VAR_2 = VAR_3 . METHOD_1 ( PACKAGE_1 , VAR_1 . this . VAR_2 ) ;
+VAR_1 . METHOD_3 ( VAR_2 . METHOD_1 () . METHOD_2 () ) ;
+VAR_3 = VAR_2 . METHOD_3 ( VAR_1 . METHOD_2 ( STRING_CONSTANT ) . METHOD_1 () , false ) ;
+@ VAR_5 public TYPE_1 METHOD_2 ( ) throws VAR_4 { return VAR_3 . METHOD_1 ( VAR_2 , VAR_1 ) ; }
+TYPE_1 VAR_1 = METHOD_7 () . METHOD_2 () . METHOD_4 () . METHOD_7 () . METHOD_6 () . METHOD_1 ( STRING_CONSTANT ) . METHOD_3 () ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_3 () . METHOD_2 ( VAR_3 ) ;
+PACKAGE_1 VAR_1 = VAR_2 . METHOD_1 ( STRING_CONSTANT ) ;
+final VAR_1 VAR_2 = VAR_1 . METHOD_1 ( VAR_3 ) ;
+VAR_2 < VAR_1 > VAR_3
+VAR_2 . METHOD_1 ( VAR_1 ) ;
+VAR_1 = VAR_3 . METHOD_1 ( VAR_2 ) . METHOD_2 () ;
+if ( VAR_3 == NUMBER_CONSTANT ) { VAR_3 = VAR_2 . METHOD_1 ( VAR_4 , TYPE_1 [ VAR_5 ] ) ; }
+catch ( TYPE_2 VAR_2 ) { -- ( VAR_1 ) ; throw new TYPE_1 ( VAR_3 , NUMBER_CONSTANT , STRING_CONSTANT , VAR_2 ) ; }
+{ return VAR_2 . METHOD_1 () . METHOD_2 ( VAR_1 , true , true ) ; }
+{ super . METHOD_1 () ; VAR_3 . METHOD_4 () ; VAR_1 . METHOD_4 () ; METHOD_3 ( VAR_2 ) ; }
+if ( VAR_1 . METHOD_2 () . METHOD_1 () ) { return this ; }
+{ VAR_2 . METHOD_2 ( VAR_1 . METHOD_3 () ) ; }
+VAR_1 . METHOD_2 ( VAR_2 ) ;
+case PACKAGE_1 :
+VAR_1 . METHOD_1 () ;
+int VAR_1 = METHOD_2 ( NUMBER_CONSTANT , ( ( METHOD_1 () . METHOD_4 () ) - NUMBER_CONSTANT ) ) ;
+if ( ( VAR_2 . METHOD_3 () ) != null ) { VAR_3 = VAR_1 . METHOD_1 ( VAR_2 . METHOD_2 () , VAR_4 , null ) ; }
+VAR_2 . METHOD_1 ( ( VAR_3 . METHOD_4 ( VAR_1 . METHOD_3 () ) ? STRING_CONSTANT : VAR_1 . METHOD_2 () ? STRING_CONSTANT : STRING_CONSTANT ) ) ;
+new TYPE_1 ( VAR_4 , VAR_3 , VAR_1 . METHOD_4 () . METHOD_3 () . METHOD_6 ( STRING_CONSTANT , VAR_2 . METHOD_1 () ) . METHOD_2 () )
+TYPE_2 VAR_2 = new TYPE_1 ( VAR_1 , false ) ;
+VAR_2 . METHOD_2 ( VAR_1 ) ;
+return METHOD_3 ( VAR_1 , VAR_2 , VAR_3 . METHOD_2 () ) ;
+VAR_1 . METHOD_1 ( ( STRING_CONSTANT + ( PACKAGE_1 ) ) ) ;
+TYPE_1 VAR_1 = VAR_2 . METHOD_1 () ;
+catch ( TYPE_2 VAR_2 ) { throw new PACKAGE_1 ( ( ( STRING_CONSTANT + VAR_1 ) + STRING_CONSTANT ) , VAR_2 ) ; }
+long VAR_1 = NUMBER_CONSTANT ;
+final int VAR_1 = METHOD_2 ( NUMBER_CONSTANT , NUMBER_CONSTANT ) ;
+VAR_1 . METHOD_2 ( STRING_CONSTANT , true ) ;
+( VAR_1 . METHOD_2 () )
+( ( VAR_1 . METHOD_2 () . METHOD_1 () ) == NUMBER_CONSTANT )
+if ( ( VAR_1 . METHOD_3 () . METHOD_4 () ) != VAR_2 ) { PACKAGE_1 . METHOD_2 ( STRING_CONSTANT ) ; }
+{ if ( VAR_1 < NUMBER_CONSTANT ) { throw new TYPE_1 () ; } return VAR_2 . METHOD_1 ( VAR_1 ) ; }
+TYPE_1 VAR_2 = new TYPE_1 ( VAR_3 , VAR_1 , true , true ) ;
+{ if ( VAR_2 . METHOD_1 ( VAR_1 ) ) { return VAR_3 ? VAR_2 . METHOD_3 () : VAR_2 . METHOD_2 () ; } return NUMBER_CONSTANT ; }
+if ( ( VAR_1 ) != null ) VAR_1 . METHOD_2 () ;
+{ assert VAR_2 >= NUMBER_CONSTANT : ( STRING_CONSTANT + VAR_2 ) + STRING_CONSTANT ; VAR_1 . METHOD_1 () . METHOD_2 ( ( - VAR_2 ) ) ; }
+VAR_1 += VAR_2 . METHOD_3 () ;
+if ( VAR_2 == ( PACKAGE_1 ) ) return VAR_1 ;
+TYPE_1 VAR_1 = new TYPE_1 ( VAR_2 , VAR_3 . METHOD_1 () ) ;
+VAR_1 . METHOD_2 ( VAR_2 . METHOD_1 () , false , STRING_CONSTANT ) ;
+VAR_4 < VAR_5 > VAR_3 = VAR_2 . METHOD_1 () . METHOD_5 ( VAR_1 . METHOD_2 () . METHOD_3 () ) ;
+final TYPE_1 VAR_2 = VAR_3 . METHOD_1 ( VAR_1 ) ;
+{ TYPE_1 VAR_3 = new TYPE_2 ( VAR_1 ) ; VAR_2 . METHOD_1 ( VAR_1 , VAR_3 ) ; return VAR_3 ; }
+TYPE_1 VAR_1 = new TYPE_1 ( STRING_CONSTANT ) ;
+if ( ( VAR_2 == null ) && ( VAR_1 . METHOD_4 () ) ) { VAR_2 = VAR_1 . METHOD_2 () . METHOD_1 () ; }
+case PACKAGE_2 :
+PACKAGE_1 VAR_3 = ( VAR_1 == null ) ? VAR_2 . METHOD_2 () : VAR_1 ;
+VAR_1 . METHOD_1 () . METHOD_3 () ;
+VAR_3 . METHOD_1 ( STRING_CONSTANT , VAR_4 , VAR_2 , VAR_1 . METHOD_2 () ) ;
+PACKAGE_1 . METHOD_1 ( VAR_1 ) ;
+return new PACKAGE_6 ( VAR_1 , PACKAGE_5 , PACKAGE_3 , PACKAGE_2 , PACKAGE_1 , PACKAGE_4 ) ;
+{ METHOD_1 ( VAR_2 , VAR_1 , VAR_6 , VAR_3 , VAR_5 ) ; }
+VAR_1 = new TYPE_1 ( NUMBER_CONSTANT , NUMBER_CONSTANT , PACKAGE_1 ) ;
+assert VAR_1 . METHOD_3 () . METHOD_1 ( VAR_1 . METHOD_2 () ) ;
+if ( PACKAGE_1 . METHOD_2 ( VAR_2 . METHOD_1 () . METHOD_4 () ) ) VAR_1 = VAR_2 . METHOD_3 () ;
+if ( VAR_1 != null ) { if ( VAR_1 . METHOD_1 () ) { VAR_3 = VAR_1 . METHOD_3 () . METHOD_2 ( VAR_2 ) ; } }
+VAR_2 . METHOD_2 ( VAR_4 ) . METHOD_1 ( VAR_1 )
+if ( VAR_1 == null ) { return null ; }
+return VAR_3 ;
+final long VAR_1 = VAR_3 . METHOD_1 () ;
+{ super . METHOD_2 ( VAR_2 ) ; METHOD_1 ( VAR_1 ) ; }
+{ VAR_4 . METHOD_1 ( new PACKAGE_1 ( VAR_3 . METHOD_2 ( VAR_2 , VAR_1 ) , PACKAGE_2 ) ) ; }
+METHOD_2 ( VAR_3 , VAR_1 . METHOD_1 () , VAR_2 )
+TYPE_2 [ VAR_1 ] = ( ( int ) ( VAR_2 . METHOD_2 ( TYPE_1 [ VAR_1 ] ) ) ) ;
+PACKAGE_1 VAR_3 = VAR_1 . METHOD_1 ( VAR_2 ) ;
+VAR_3 . METHOD_2 ( STRING_CONSTANT , VAR_1 , VAR_2 . METHOD_1 () ) ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_1 ( VAR_3 ) ;
+{ switch ( VAR_1 . METHOD_3 () ) { case PACKAGE_1 : METHOD_1 () ; return true ; default: return super . METHOD_2 ( VAR_1 ) ; } }
+@ VAR_1 public TYPE_1 METHOD_1 () { return PACKAGE_1 ; }
+{ VAR_4 = VAR_2 . METHOD_1 () . VAR_4 ( VAR_3 . METHOD_4 () , VAR_3 . METHOD_3 () ) ; }
+{ VAR_1 . METHOD_1 ( VAR_2 , VAR_3 , VAR_4 , this ) ; }
+VAR_2 = VAR_4 . METHOD_6 ( VAR_1 , VAR_3 . METHOD_1 () , VAR_3 . METHOD_2 () , VAR_3 . METHOD_3 () , VAR_3 . METHOD_5 () )
+long VAR_1 = VAR_4 . VAR_1 ( VAR_3 , VAR_2 ) ;
+if ( ( VAR_3 . METHOD_1 () ) != ( PACKAGE_1 ) ) { VAR_2 = VAR_1 . METHOD_2 ( VAR_5 , VAR_4 , PACKAGE_2 . this ) ; }
+@ VAR_3 public void METHOD_2 ( TYPE_1 VAR_1 ) { METHOD_1 ( VAR_2 . METHOD_3 () , VAR_1 ) ; }
+TYPE_1 VAR_2 = VAR_1 . METHOD_3 ( VAR_3 ) ;
+{ return new TYPE_1 ( STRING_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT ) . METHOD_2 ( VAR_1 . METHOD_1 () ) ; }
+VAR_1 = ( ( VAR_2 . METHOD_1 ( NUMBER_CONSTANT ) ) != ( this ) ) ? VAR_2 . METHOD_1 ( NUMBER_CONSTANT ) : null ;
+VAR_1 . METHOD_4 ( STRING_CONSTANT ) . METHOD_4 ( VAR_2 . METHOD_3 () . METHOD_1 () ) . METHOD_4 ( STRING_CONSTANT )
+TYPE_1 VAR_1 = VAR_4 . METHOD_1 ( VAR_2 , VAR_3 . METHOD_2 () ) ;
+VAR_1 = new TYPE_1 () ;
+{ return METHOD_1 ( VAR_3 . METHOD_2 () , VAR_1 , VAR_2 ) ; }
+VAR_1 . METHOD_1 ( ( ( VAR_2 ) ( null ) ) )
+VAR_1 . METHOD_1 ( VAR_3 , VAR_4 ) ;
+TYPE_1 VAR_4 = new TYPE_1 ( VAR_1 , VAR_3 , VAR_2 . METHOD_1 () ) ;
+{ super . METHOD_1 ( VAR_1 , VAR_2 ) ; METHOD_2 () . METHOD_3 ( VAR_3 ) ; }
+VAR_2 = METHOD_3 ( STRING_CONSTANT ) . METHOD_1 () . METHOD_6 () . METHOD_2 ( METHOD_4 () . METHOD_5 () ) . METHOD_7 () ;
+protected void METHOD_4 () { METHOD_2 () . METHOD_3 ( METHOD_1 () ) ; METHOD_4 ( METHOD_1 () ) ; }
+TYPE_3 VAR_1 = new TYPE_1 () ;
+METHOD_4 ( STRING_CONSTANT ) . METHOD_2 ( METHOD_6 ( STRING_CONSTANT ) . METHOD_2 ( METHOD_1 ( STRING_CONSTANT ) . METHOD_3 ( true ) . METHOD_5 ( false ) ) )
+VAR_1 . METHOD_2 ( PACKAGE_1 , PACKAGE_2 , VAR_2 . METHOD_1 () ) ;
+VAR_2 . METHOD_1 () . METHOD_2 ( VAR_1 , VAR_3 ) ;
+{ try { VAR_2 . METHOD_2 ( new PACKAGE_1 () . METHOD_1 ( false ) ) ; } catch ( TYPE_2 VAR_1 ) {} }
+final TYPE_1 VAR_1 = VAR_2 . METHOD_1 ( VAR_3 ) . METHOD_2 () ;
+TYPE_3 VAR_1 = new TYPE_1 () ;
+TYPE_3 VAR_1 = new TYPE_1 () ;
+{ super . METHOD_1 ( VAR_1 ) ; METHOD_2 ( new TYPE_1 () , false ) ; }
+VAR_1 . METHOD_4 ( CHAR_CONS ) . METHOD_4 ( VAR_2 . METHOD_1 ( STRING_CONSTANT ) ) ;
+TYPE_1 VAR_5 = VAR_3 . METHOD_1 ( new PACKAGE_2 ( VAR_4 , VAR_1 , PACKAGE_1 ) , VAR_2 ) ;
+public TYPE_2 METHOD_1 () { return VAR_1 . METHOD_1 () ; }
+{ VAR_1 . METHOD_3 ( ( ( VAR_2 ) == null ? null : VAR_2 . METHOD_2 () ) ) ; }
+VAR_3 . METHOD_1 ( VAR_2 . class ) ;
+VAR_1 . METHOD_1 ( null ) ;
+boolean VAR_3 = VAR_2 . METHOD_1 ( VAR_4 , VAR_1 , VAR_5 , false ) ;
+TYPE_1 [ VAR_1 ] = VAR_2 . METHOD_1 () ;
+{ super . METHOD_2 ( VAR_1 ) ; VAR_2 . METHOD_3 ( VAR_1 ) ; }
+VAR_1 . METHOD_1 ( new PACKAGE_1 ( STRING_CONSTANT , STRING_CONSTANT , PACKAGE_3 ) ) ;
+PACKAGE_1 . this . METHOD_1 ( VAR_2 , VAR_3 , VAR_1 ) ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_4 () . METHOD_1 ( STRING_CONSTANT , NUMBER_CONSTANT ) . METHOD_2 () ;
+PACKAGE_1 . METHOD_3 ( VAR_1 , PACKAGE_1 . METHOD_2 () )
+{ super . METHOD_4 ( VAR_2 ) ; METHOD_2 ( METHOD_5 ( VAR_1 ) ) ; VAR_3 . METHOD_3 ( METHOD_6 () , METHOD_1 () ) ; }
+VAR_1 . METHOD_1 ( false ) ;
+VAR_4 . METHOD_3 ( METHOD_1 ( VAR_2 . METHOD_2 ( STRING_CONSTANT ) , VAR_3 ) ) ;
+{ TYPE_3 VAR_1 = new TYPE_3 () ; return new TYPE_4 ( new TYPE_2 () , VAR_1 ) ; }
+protected void METHOD_4 () { METHOD_2 () . METHOD_3 ( METHOD_1 () ) ; METHOD_4 ( METHOD_1 () ) ; }
+VAR_1 . METHOD_1 ( VAR_3 , VAR_2 ) ;
+VAR_1 . METHOD_2 ( STRING_CONSTANT , ( ( ( STRING_CONSTANT + ( VAR_3 . METHOD_4 () ) ) + STRING_CONSTANT ) + ( VAR_2 . METHOD_1 () ) ) )
+return VAR_1 ;
+TYPE_1 [] VAR_1 ;
+{ return VAR_1 . METHOD_4 ( PACKAGE_1 , VAR_2 . METHOD_2 ( VAR_3 ) . METHOD_1 () ) ; }
+{ VAR_3 . METHOD_1 ( new TYPE_2 ( VAR_1 , VAR_2 ) ) ; }
+( VAR_2 >= NUMBER_CONSTANT ) && ( VAR_1 >= NUMBER_CONSTANT )
+if ( VAR_1 ) { VAR_2 = new PACKAGE_2 ( this ) ; } else { VAR_2 = new PACKAGE_1 ( this ) ; }
+TYPE_3 VAR_1 = new TYPE_2 () ;
+VAR_2 . METHOD_1 ( VAR_3 ) ;
+VAR_2 . METHOD_1 ( true , VAR_1 ) ;
+METHOD_1 () ;
+{ METHOD_1 ( VAR_1 , VAR_2 ) ; VAR_4 . METHOD_2 ( VAR_2 . VAR_2 () ) ; VAR_3 = PACKAGE_1 ; }
+VAR_2 . METHOD_1 ( this . VAR_1 ) ;
+{ VAR_1 = super . METHOD_2 ( VAR_1 ) ; VAR_2 . METHOD_1 ( METHOD_3 ( NUMBER_CONSTANT ) ) ; return VAR_1 ; }
+return new TYPE_1 ( VAR_4 , VAR_3 , VAR_1 , VAR_2 ) ;
+@ VAR_2 public boolean METHOD_2 () { return ( VAR_1 ) >= ( VAR_3 . METHOD_1 () ) ; }
+final int VAR_1 = METHOD_1 () . METHOD_3 () ;
+METHOD_1 ( VAR_2 ) ;
+catch ( TYPE_2 VAR_2 ) { METHOD_1 ( VAR_1 ) ; }
+public boolean METHOD_1 ( TYPE_1 VAR_1 ) { ( VAR_3 ) ++ ; return ( VAR_3 ) >= ( VAR_2 ) ; }
+TYPE_1 VAR_1
+PACKAGE_1 . this . METHOD_2 ( new TYPE_1 ( VAR_1 ) ) ;
+VAR_1 . METHOD_3 ( VAR_2 . METHOD_1 () ) . METHOD_3 ( CHAR_CONS ) . METHOD_3 ( VAR_2 . METHOD_2 () ) . METHOD_3 ( CHAR_CONS ) ;
+{ METHOD_2 ( new TYPE_1 () . METHOD_1 ( VAR_2 ) ) ; }
+return VAR_1 . METHOD_1 () . METHOD_2 () . METHOD_4 () ;
+METHOD_6 () . METHOD_5 ( STRING_CONSTANT , METHOD_2 ( METHOD_1 () . METHOD_3 () , VAR_1 ) ) . METHOD_5 ( STRING_CONSTANT , NUMBER_CONSTANT )
+if ( PACKAGE_1 ) return ( STRING_CONSTANT + VAR_1 ) + ( PACKAGE_2 ? STRING_CONSTANT : STRING_CONSTANT ) ;
+VAR_1 . METHOD_2 () . METHOD_3 () ;
+VAR_1 . METHOD_2 ( new PACKAGE_1 ( VAR_3 , VAR_2 ) ) . METHOD_1 () . METHOD_3 () ;
+public TYPE_1 METHOD_3 () { if ( ! ( VAR_1 . METHOD_1 ( STRING_CONSTANT ) ) ) return null ; return VAR_2 . METHOD_2 () ; }
+VAR_3 < VAR_1 > VAR_2 = new VAR_3 () ;
+TYPE_1 VAR_2 = VAR_3 . METHOD_3 ( NUMBER_CONSTANT , VAR_1 . METHOD_1 () . METHOD_2 () ) ;
+VAR_1 . METHOD_2 ( VAR_2 ) . METHOD_3 () ;
+{ VAR_1 = METHOD_2 ( METHOD_3 () . METHOD_1 () ) ; if ( VAR_1 . METHOD_4 ( VAR_2 ) ) { VAR_1 = null ; } }
+VAR_1 = VAR_5 . METHOD_1 ( VAR_4 , VAR_2 , VAR_3 ) ;
+if ( VAR_2 != null ) { if ( VAR_2 . METHOD_2 () ) { VAR_1 = VAR_2 . METHOD_3 () . METHOD_1 ( VAR_3 , VAR_4 ) ; } }
+{ TYPE_3 VAR_1 = new TYPE_3 () ; return new TYPE_4 ( new TYPE_2 () , VAR_1 ) ; }
+VAR_2 = VAR_3 . METHOD_1 ( VAR_1 . METHOD_5 () , new PACKAGE_2 ( PACKAGE_1 , VAR_1 . METHOD_3 () . METHOD_6 () . METHOD_2 () ) )
+return new TYPE_3 ( new TYPE_1 () , VAR_1 ) ;
+{ VAR_3 . METHOD_3 ( STRING_CONSTANT , STRING_CONSTANT ) ; VAR_1 . METHOD_1 () ; VAR_2 . METHOD_1 () ; }
+if ( VAR_1 != null ) { VAR_2 . METHOD_2 ( VAR_1 , new PACKAGE_1 ( VAR_3 ) ) ; }
+{ super . METHOD_3 ( VAR_1 ) ; VAR_2 . METHOD_1 ( METHOD_4 () , METHOD_2 () ) ; }
+return new TYPE_1 ( PACKAGE_1 ) . METHOD_2 ( VAR_2 . METHOD_3 ( VAR_3 . METHOD_4 ( NUMBER_CONSTANT , VAR_1 ) ) ) ;
+VAR_1 . METHOD_1 ( VAR_2 , PACKAGE_1 ) ;
+VAR_1 . METHOD_1 ( VAR_2 , new PACKAGE_1 () ) ;
+if ( VAR_1 . METHOD_3 () . METHOD_1 () . METHOD_2 ( PACKAGE_1 ) ) { throw new PACKAGE_2 ( new TYPE_1 ( PACKAGE_1 ) , STRING_CONSTANT ) ; }
+new PACKAGE_1 ( VAR_1 , VAR_2 , new TYPE_1 ( STRING_CONSTANT ) )
+TYPE_1 VAR_5 = new TYPE_1 ( VAR_1 , VAR_6 , VAR_8 , VAR_7 , VAR_4 , VAR_2 ) ;
+METHOD_1 ( VAR_2 , VAR_1 ) ;
+VAR_2 . METHOD_1 ( VAR_1 , VAR_3 ) ;
+VAR_3 = new TYPE_1 ( VAR_2 ) ;
+TYPE_1 VAR_3 = VAR_1 . METHOD_2 () . METHOD_3 ( VAR_2 . METHOD_1 () ) ;
+TYPE_1 VAR_1 = VAR_2 . VAR_1 () . METHOD_5 ( true ) . METHOD_3 ( true ) . METHOD_4 ( VAR_3 ) ;
+METHOD_2 ( VAR_1 . VAR_1 () . METHOD_3 ( STRING_CONSTANT ) , METHOD_4 () ) ;
+METHOD_6 () . METHOD_1 ( STRING_CONSTANT , STRING_CONSTANT , STRING_CONSTANT ) . METHOD_2 ( STRING_CONSTANT ) . METHOD_5 ( STRING_CONSTANT ) . METHOD_3 ( VAR_1 ) . METHOD_4 () ;
+if ( VAR_3 != null ) { VAR_1 = VAR_3 . METHOD_1 () . METHOD_2 () ; VAR_2 = VAR_3 . METHOD_3 ( VAR_4 ) ; }
+return VAR_1 . METHOD_1 () . METHOD_2 () . METHOD_4 () ;
+METHOD_1 () ;
+TYPE_1 VAR_2 = VAR_3 . METHOD_3 ( VAR_4 . METHOD_1 ( STRING_CONSTANT ) , VAR_4 , VAR_1 ) . METHOD_4 () ;
+TYPE_3 VAR_1 = new TYPE_2 () ;
+{ METHOD_1 () ; }
+public TYPE_1 METHOD_1 ( TYPE_1 VAR_1 ) { return VAR_1 . METHOD_2 ( VAR_2 ) ; }
+VAR_2 . METHOD_3 ( VAR_1 . METHOD_1 () ) ;
+if ( VAR_1 != null ) { VAR_2 . METHOD_2 ( VAR_1 , new PACKAGE_1 ( VAR_3 ) ) ; }
+TYPE_1 [] VAR_1 = new TYPE_1 [] { STRING_CONSTANT , STRING_CONSTANT , STRING_CONSTANT } ;
+return METHOD_1 ( new TYPE_1 ( VAR_2 , VAR_3 . METHOD_2 ( VAR_4 , VAR_1 . class ) ) ) ;
+return VAR_1 ;
+TYPE_1 VAR_1
+{ METHOD_4 ( STRING_CONSTANT , STRING_CONSTANT , ( STRING_CONSTANT + VAR_2 ) , METHOD_3 () . METHOD_2 () . METHOD_1 () ) ; }
+final TYPE_1 VAR_1 = VAR_3 . METHOD_1 ( ( NUMBER_CONSTANT + VAR_2 ) ) ;
+@ VAR_1 public TYPE_1 METHOD_1 () { return PACKAGE_1 ; }
+if ( VAR_1 . METHOD_3 () . METHOD_1 () . METHOD_2 ( PACKAGE_1 ) ) { throw new PACKAGE_2 ( new TYPE_1 ( PACKAGE_1 ) , PACKAGE_1 , STRING_CONSTANT ) ; }
+{ return new PACKAGE_1 ( VAR_6 , VAR_2 , VAR_4 , VAR_1 , VAR_5 , VAR_7 , VAR_3 ) ; }
+if ( ( VAR_3 == NUMBER_CONSTANT ) && ( VAR_4 == null ) ) { return new PACKAGE_2 ( PACKAGE_1 , true ) ; }
+@ VAR_1 public float METHOD_1 () { return ( ( float ) ( ( VAR_2 . METHOD_2 () ) * NUMBER_CONSTANT ) ) ; }
+public void METHOD_2 ( TYPE_1 VAR_1 , float VAR_2 ) { METHOD_1 () ; super . METHOD_2 ( VAR_1 , VAR_2 ) ; }
+PACKAGE_1 . METHOD_4 ( METHOD_2 () . METHOD_3 () ) ;
+catch ( TYPE_1 VAR_1 ) { throw new TYPE_2 ( VAR_2 , VAR_1 ) ; }
+VAR_1 = new TYPE_1 ( METHOD_1 () . METHOD_2 () ) ;
+VAR_1 . METHOD_4 ( STRING_CONSTANT ) . METHOD_4 ( VAR_2 . METHOD_3 () . METHOD_1 () ) . METHOD_4 ( STRING_CONSTANT ) . METHOD_4 ( VAR_2 . METHOD_5 () )
+VAR_1 = VAR_2 . METHOD_2 ( VAR_1 ) ;
+( ( VAR_2 . METHOD_2 () . METHOD_1 () ) / NUMBER_CONSTANT ) < ( VAR_1 . METHOD_3 () )
+TYPE_1 VAR_1 = new TYPE_1 ( VAR_3 , VAR_2 . METHOD_1 () ) ;
+VAR_1 = new TYPE_1 () ;
+while ( ( METHOD_1 () . METHOD_4 () ) != NUMBER_CONSTANT ) { METHOD_2 () . METHOD_3 () ; }
+METHOD_2 ( VAR_1 ) ;
+final TYPE_1 VAR_1 = METHOD_1 () . METHOD_2 () ;
+new TYPE_1 ( VAR_4 . METHOD_4 () . METHOD_2 () , VAR_1 . METHOD_7 () . METHOD_6 ( VAR_4 ) . METHOD_1 ( VAR_3 ) , VAR_2 )
+METHOD_3 ( VAR_1 . METHOD_4 () . METHOD_6 () . METHOD_6 () . METHOD_7 () , METHOD_1 ( METHOD_2 () . METHOD_7 () ) ) ;
+PACKAGE_1 . METHOD_1 () . METHOD_2 ( true )
+{ final PACKAGE_1 < ? > VAR_1 = VAR_2 . METHOD_2 () ; VAR_1 . METHOD_3 () ; }
+final TYPE_1 VAR_1 = new TYPE_2 ( VAR_2 , VAR_3 , VAR_4 ) ;
+int VAR_1 = METHOD_2 ( NUMBER_CONSTANT , ( VAR_2 / NUMBER_CONSTANT ) ) ;
+{ VAR_1 . METHOD_3 ( VAR_2 ) . METHOD_2 ( VAR_3 ) . METHOD_2 ( VAR_4 ) . METHOD_1 () ; }
+@ VAR_2 public TYPE_1 METHOD_1 ( TYPE_2 VAR_1 ) { return METHOD_1 ( VAR_1 . METHOD_2 () ) ; }
+{ METHOD_1 ( VAR_1 . METHOD_2 ( VAR_2 , VAR_4 ) , PACKAGE_1 ) ; }
+final TYPE_1 VAR_1 = VAR_2 . METHOD_1 () . METHOD_2 ( NUMBER_CONSTANT , false ) ;
+return VAR_1 . METHOD_2 () ;
+{ VAR_4 . METHOD_5 ( STRING_CONSTANT , VAR_3 , VAR_2 . METHOD_2 () , new TYPE_1 ( VAR_2 . METHOD_3 () ) , VAR_1 . METHOD_1 () ) ; }
+{ VAR_2 = VAR_1 . METHOD_1 ( false ) ; }
+{ return new TYPE_1 ( VAR_2 . METHOD_1 () , VAR_1 ) ; }
+{ new PACKAGE_1 ( new TYPE_1 () , STRING_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT ) ; VAR_2 . METHOD_1 ( VAR_1 ) ; }
+PACKAGE_1 VAR_1 = VAR_2 . METHOD_1 ( STRING_CONSTANT ) ;
+new PACKAGE_1 ( VAR_1 . METHOD_2 () )
+{ super . METHOD_1 ( VAR_2 ) ; VAR_5 . METHOD_2 ( VAR_4 , VAR_2 , VAR_1 ) ; }
+VAR_3 < VAR_2 > VAR_1 = new VAR_3 < VAR_2 > () ;
+VAR_1 . METHOD_1 () . METHOD_3 ( false , true ) ;
+METHOD_1 ( VAR_2 . METHOD_4 () [ NUMBER_CONSTANT ] , METHOD_2 ( VAR_1 . class ) ) ;
+TYPE_1 VAR_3 = VAR_1 . METHOD_3 () . METHOD_4 ( METHOD_2 ( VAR_2 ) ) ;
+if ( ( VAR_1 . METHOD_3 () ) != null ) { VAR_2 = METHOD_1 ( VAR_1 . METHOD_2 () , VAR_3 , null ) ; }
+( ( ( STRING_CONSTANT + ( VAR_3 * VAR_2 ) ) + STRING_CONSTANT ) + ( VAR_1 . METHOD_2 () . METHOD_1 () ) )
+VAR_2 . METHOD_3 ( VAR_1 ) . METHOD_1 ( new PACKAGE_2 ( PACKAGE_1 ) ) ;
+VAR_1 . METHOD_2 () . METHOD_1 ( VAR_3 , VAR_2 ) ;
+VAR_1 . METHOD_1 ( new PACKAGE_1 ( VAR_3 , VAR_2 ) ) ;
+METHOD_6 ( STRING_CONSTANT ) . METHOD_4 () . METHOD_8 () . METHOD_5 ( METHOD_7 ( STRING_CONSTANT ) . METHOD_9 () . METHOD_2 ( NUMBER_CONSTANT ) . METHOD_3 ( NUMBER_CONSTANT ) )
+for ( TYPE_1 VAR_2 : VAR_3 . METHOD_1 () . METHOD_2 () . METHOD_5 () ) { VAR_1 . METHOD_3 ( VAR_2 ) ; }
+if ( ( VAR_1 ) > ( VAR_3 ) ) { VAR_2 . METHOD_1 ( ( - NUMBER_CONSTANT ) ) ; VAR_1 = NUMBER_CONSTANT ; }
+{ METHOD_1 ( new TYPE_1 ( VAR_1 ) ) ; return this ; }
+TYPE_3 VAR_1 = new TYPE_1 () ;
+TYPE_1 VAR_4 = new TYPE_1 ( VAR_2 . METHOD_2 () , VAR_5 , VAR_3 , VAR_1 , VAR_2 . METHOD_3 () ) ;
+final VAR_1 VAR_2 = ( ( VAR_1 ) ( VAR_3 ) ) ;
+{ VAR_1 . METHOD_2 ( PACKAGE_3 ) ; VAR_1 . METHOD_3 ( PACKAGE_1 , PACKAGE_2 , VAR_2 ) ; VAR_1 . METHOD_1 () ; return VAR_1 ; }
+if ( VAR_1 != null ) { VAR_2 . METHOD_1 ( VAR_1 ) ; }
+new TYPE_1 ( STRING_CONSTANT , ( ( STRING_CONSTANT + VAR_1 ) + STRING_CONSTANT ) , true )
+METHOD_2 ( VAR_2 . class ) . METHOD_3 ( VAR_4 . class ) . METHOD_4 ( VAR_1 . METHOD_1 ( VAR_3 ) ) ;
+TYPE_1 VAR_3 = VAR_2 . METHOD_2 () . VAR_3 ( VAR_1 . METHOD_1 () ) ;
+{ return PACKAGE_1 . METHOD_1 ( new TYPE_1 ( VAR_2 , false ) , VAR_1 ) ; }
+{ VAR_2 = VAR_3 . METHOD_2 () . METHOD_3 () . METHOD_1 () ; VAR_1 = VAR_3 . METHOD_2 () . METHOD_5 ( VAR_4 ) ; }
+{ return METHOD_3 ( VAR_1 . METHOD_2 ( STRING_CONSTANT ) ) ; }
+VAR_1 . METHOD_2 () ;
+@ VAR_4 int METHOD_1 ( PACKAGE_1 VAR_5 ) { return VAR_2 . METHOD_3 ( VAR_3 , VAR_5 . METHOD_2 () . METHOD_4 () ) ; }
+byte [] VAR_2 = VAR_1 . METHOD_1 () . METHOD_3 () ;
+{ if ( ! ( VAR_2 . METHOD_2 ( VAR_3 ) ) ) { VAR_1 . METHOD_1 ( VAR_3 ) ; } }
+VAR_3 < VAR_2 > VAR_1 = VAR_3 . METHOD_1 ( VAR_2 . class ) ;
+if ( VAR_1 ) { VAR_2 . METHOD_1 ( true ) ; }
+return VAR_1 . METHOD_2 () ;
+if ( VAR_2 . METHOD_2 ( VAR_1 . METHOD_3 () ) ) { continue; }
+TYPE_2 [ VAR_2 ] = ( TYPE_1 [ VAR_1 ] ) * VAR_3 ;
+VAR_3 = new TYPE_1 ( METHOD_1 ( NUMBER_CONSTANT , NUMBER_CONSTANT ) , VAR_1 , VAR_2 . METHOD_2 () ) ;
+( VAR_1 ) && ( ( PACKAGE_1 ) != null )
+TYPE_1 VAR_1 = VAR_2 . METHOD_2 ( VAR_3 . METHOD_1 () ) ;
+( STRING_CONSTANT . METHOD_1 ( VAR_1 ) ) || ( STRING_CONSTANT . METHOD_1 ( VAR_1 ) )
+( VAR_1 == ( VAR_2 . METHOD_3 () ) ) || ( VAR_1 == ( VAR_2 . METHOD_1 () . METHOD_3 () ) )
+public TYPE_2 METHOD_1 ( TYPE_1 VAR_2 ) throws VAR_1 { VAR_3 . METHOD_1 ( VAR_2 ) ; return this ; }
+TYPE_1 VAR_1 = PACKAGE_1 . METHOD_2 () ;
+VAR_2 = VAR_3 . METHOD_1 ( VAR_1 ) . METHOD_2 () ;
+VAR_1 . METHOD_1 ( VAR_2 . METHOD_2 () . METHOD_3 () , NUMBER_CONSTANT , NUMBER_CONSTANT ) ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_1 ( VAR_3 ) ;
+final float VAR_2 = VAR_4 . METHOD_1 ( STRING_CONSTANT , VAR_1 ) ;
+METHOD_2 () ;
+( VAR_2 == null ) && ( VAR_3 . METHOD_1 ( VAR_1 ) )
+VAR_3 . METHOD_1 ( VAR_1 . METHOD_2 ( VAR_2 ) ) ;
+TYPE_1 VAR_2 = new TYPE_1 ( VAR_1 . METHOD_1 () . METHOD_3 () , false ) ;
+( VAR_1 . METHOD_1 () ) && ( ( TYPE_1 [ VAR_2 ] . METHOD_2 () ) > NUMBER_CONSTANT )
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+{ if ( VAR_4 . METHOD_4 ( VAR_3 . METHOD_3 () ) ) { VAR_2 = VAR_4 . METHOD_2 ( VAR_3 . METHOD_3 () ) . METHOD_1 () ; } }
+VAR_1 . METHOD_2 ()
+TYPE_3 VAR_1 = new TYPE_1 () ;
+VAR_3 < VAR_1 > VAR_2 = VAR_3 . METHOD_1 ( VAR_1 . class ) ;
+VAR_2 . METHOD_3 ( VAR_1 . METHOD_1 ( STRING_CONSTANT , null ) ) ;
+{ PACKAGE_1 . METHOD_2 ( VAR_3 . METHOD_1 () . METHOD_4 () ) ; VAR_3 . METHOD_3 ( VAR_1 , VAR_2 ) ; }
+{ if ( VAR_1 . METHOD_2 () ) { METHOD_1 ( new PACKAGE_1 ( false ) ) ; } }
+METHOD_1 ( VAR_2 ) ;
+VAR_3 < VAR_2 > VAR_4 = new PACKAGE_1 ( VAR_1 . METHOD_1 () ) ;
+VAR_1 . METHOD_4 ( STRING_CONSTANT ) . METHOD_4 ( VAR_2 . METHOD_1 () ) . METHOD_4 ( STRING_CONSTANT ) . METHOD_4 ( VAR_2 . METHOD_2 () ) . METHOD_4 ( STRING_CONSTANT )
+TYPE_1 VAR_4 = VAR_3 . VAR_4 ( VAR_2 , VAR_1 ) ;
+{ if ( ( VAR_1 ) == null ) { VAR_1 = new TYPE_1 ( STRING_CONSTANT ) ; } return VAR_1 ; }
+if ( ( METHOD_3 () ) == null ) { METHOD_1 ( VAR_1 . METHOD_2 () ) ; }
+{ super . METHOD_3 ( VAR_1 ) ; METHOD_4 ( false ) ; METHOD_1 () . METHOD_2 ( new TYPE_1 () ) ; }
+float VAR_3 = ( this . VAR_3 ) * ( VAR_2 ) ;
+if ( VAR_1 != null ) VAR_2 . METHOD_2 () . VAR_1 = VAR_1 ;
+return new TYPE_1 ( VAR_1 , PACKAGE_1 ) . METHOD_1 () ;
+VAR_1 . METHOD_2 ( METHOD_3 () , METHOD_1 () ) ;
+if ( ! ( this . VAR_1 . METHOD_1 ( VAR_1 ) ) ) return false ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_2 ( VAR_3 ) . METHOD_3 () . METHOD_1 () ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_2 () . METHOD_1 () ;
+{ throw new TYPE_1 ( ( ( STRING_CONSTANT + ( METHOD_1 () ) ) + STRING_CONSTANT ) ) ; }
+PACKAGE_1 = ( ( VAR_5 + VAR_3 ) + VAR_2 ) / NUMBER_CONSTANT ;
+VAR_1 . METHOD_3 ( VAR_2 . METHOD_1 ( STRING_CONSTANT , null ) ) ;
+protected void METHOD_1 ( float VAR_3 ) { VAR_2 . METHOD_3 ( ( ( VAR_1 ) * VAR_3 ) ) ; }
+VAR_1 < ? > VAR_4 = VAR_2 . METHOD_2 ( VAR_3 ) ;
+{ return new PACKAGE_1 ( METHOD_1 () . METHOD_3 ( VAR_3 ) , ( ( float ) ( VAR_4 ) ) , VAR_5 , VAR_1 ) ; }
+VAR_1 . METHOD_1 ( VAR_3 . METHOD_2 () , VAR_2 ) ;
+PACKAGE_1 . METHOD_2 () . METHOD_1 ( VAR_1 . METHOD_3 () ) ;
+{ @ VAR_3 public void METHOD_2 ( TYPE_1 VAR_1 ) { VAR_4 . METHOD_3 ( STRING_CONSTANT , VAR_1 , VAR_2 ) ; } }
+float VAR_3 = ( ( float ) ( VAR_4 . METHOD_1 ( VAR_1 , VAR_2 ) ) ) * ( PACKAGE_2 ) ;
+{ VAR_2 . METHOD_3 ( STRING_CONSTANT , VAR_1 . METHOD_2 () ) ; VAR_2 . METHOD_1 () ; }
+VAR_1 . METHOD_1 ( METHOD_3 () ) . METHOD_1 ( VAR_2 ) . METHOD_2 ( STRING_CONSTANT , STRING_CONSTANT ) . METHOD_2 ( STRING_CONSTANT , STRING_CONSTANT )
+TYPE_1 VAR_3 = VAR_1 . METHOD_1 ( VAR_2 ) . VAR_3 () ;
+if ( ! ( METHOD_2 () ) ) { VAR_3 . METHOD_1 ( VAR_2 ) ; }
+METHOD_1 ( false , false , false , VAR_1 . METHOD_2 ( VAR_2 ) ) ;
+{ TYPE_1 VAR_3 = new TYPE_2 ( VAR_1 , STRING_CONSTANT ) ; VAR_2 . METHOD_1 ( VAR_1 , VAR_3 ) ; return VAR_3 ; }
+boolean VAR_1 = false ;
+VAR_1 . METHOD_2 () . METHOD_3 ( VAR_2 . METHOD_4 () ) ;
+VAR_3 . METHOD_4 ( VAR_1 ) . METHOD_2 ( VAR_2 ) . METHOD_3 ( NUMBER_CONSTANT ) ;
+if ( VAR_2 != null ) { if ( VAR_2 . METHOD_1 () ) { VAR_4 = VAR_2 . METHOD_2 () . METHOD_3 ( VAR_3 , VAR_1 ) ; } }
+for ( TYPE_1 VAR_3 : VAR_2 ) { VAR_1 . METHOD_1 ( VAR_3 . METHOD_3 () ) ; }
+TYPE_1 VAR_4 = VAR_3 . METHOD_1 ( VAR_1 ) ;
+PACKAGE_1 = VAR_1 . METHOD_3 () . METHOD_1 () ;
+@ VAR_1 protected VAR_2 METHOD_2 () { return VAR_2 . METHOD_2 () . METHOD_1 () . METHOD_3 ( true ) ; }
+METHOD_1 ( STRING_CONSTANT , STRING_CONSTANT , STRING_CONSTANT , VAR_1 , STRING_CONSTANT , STRING_CONSTANT , STRING_CONSTANT ) ;
+METHOD_1 ( true , VAR_1 ) ;
+{ VAR_2 . METHOD_1 ( PACKAGE_2 , VAR_1 ) ; PACKAGE_2 . METHOD_3 ( PACKAGE_1 ) ; }
+if ( ( VAR_1 ) == null ) { VAR_1 = new TYPE_1 ( METHOD_2 () , METHOD_3 () . METHOD_1 () , null ) ; }
+{ VAR_3 . METHOD_2 ( VAR_2 ) ; VAR_4 = VAR_5 . METHOD_3 ( VAR_2 . METHOD_1 () , VAR_1 . METHOD_4 ( VAR_2 , null ) ) ; }
+VAR_1 . METHOD_2 ( VAR_3 , new TYPE_1 ( VAR_2 . METHOD_3 () , NUMBER_CONSTANT , VAR_2 . METHOD_4 () ) , VAR_2 . METHOD_4 () ) ;
+PACKAGE_2 VAR_2 = VAR_1 . VAR_2 ( new PACKAGE_1 ( VAR_3 . METHOD_3 () , VAR_3 . METHOD_2 () ) ) ;
+VAR_1 = new TYPE_1 () ;
+TYPE_3 VAR_1 = new TYPE_1 () ;
+{ VAR_4 = VAR_3 . METHOD_1 ( VAR_2 ) . METHOD_4 ( VAR_2 ) ; VAR_1 = VAR_4 . METHOD_3 () ; }
+if ( ( VAR_2 ) != null ) { VAR_1 . METHOD_3 ( STRING_CONSTANT , VAR_2 . METHOD_1 () . METHOD_2 ( VAR_3 ) ) ; }
+if ( ! ( VAR_1 . METHOD_2 () ) ) VAR_3 . METHOD_3 () ;
+{ return VAR_1 . METHOD_1 ( VAR_2 , null ) ; }
+PACKAGE_2 . METHOD_1 ( PACKAGE_3 ) ;
+if ( ( VAR_2 ) != null ) { VAR_3 |= VAR_2 . METHOD_1 ( VAR_1 , VAR_4 ) ; }
+TYPE_1 VAR_1 = VAR_2 . METHOD_1 () ;
+public PACKAGE_1 METHOD_1 () { PACKAGE_1 VAR_1 = super . METHOD_1 () ; VAR_1 . METHOD_3 () ; return VAR_1 ; }
+for ( TYPE_1 VAR_3 : VAR_2 ) { VAR_1 . METHOD_2 ( VAR_3 . METHOD_3 () , VAR_3 ) ; }
+if ( VAR_2 != null ) { VAR_1 . METHOD_3 ( VAR_2 , VAR_1 . METHOD_1 () ) ; METHOD_2 ( NUMBER_CONSTANT ) ; }
+int VAR_1 = VAR_2 . METHOD_2 ( NUMBER_CONSTANT , METHOD_1 () . METHOD_4 () ) ;
+return new TYPE_1 ( PACKAGE_1 , PACKAGE_3 ) ;
+{ VAR_5 . METHOD_1 ( VAR_2 , VAR_1 , VAR_7 , VAR_3 , VAR_6 ) ; }
+VAR_2 . METHOD_1 ( METHOD_2 ( VAR_1 ) ) ;
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+{ return new PACKAGE_1 ( VAR_1 , VAR_2 ) ; }
+{ TYPE_3 VAR_1 = new TYPE_3 () ; return new TYPE_4 ( new TYPE_2 () , VAR_1 ) ; }
+{ while ( ( VAR_1 = VAR_4 . METHOD_1 () ) != ( PACKAGE_1 ) ) { VAR_3 . METHOD_2 ( VAR_5 . METHOD_3 ( VAR_4 ) ) ; } }
+TYPE_1 [] VAR_1 = new TYPE_1 [ METHOD_2 ( NUMBER_CONSTANT , NUMBER_CONSTANT ) ] ;
+{ try { VAR_2 . METHOD_2 () ; } catch ( TYPE_1 VAR_1 ) { METHOD_1 () ; } }
+@ VAR_2 public TYPE_1 METHOD_1 ( TYPE_1 VAR_1 ) { return new PACKAGE_3 ( PACKAGE_1 , VAR_1 , VAR_3 ) ; }
+{ try { VAR_1 . METHOD_2 () ; } catch ( TYPE_1 VAR_2 ) { VAR_3 . METHOD_3 ( STRING_CONSTANT , VAR_2 , VAR_1 ) ; } }
+VAR_1 . METHOD_2 ( VAR_2 . METHOD_1 ( STRING_CONSTANT , null ) ) ;
+if ( VAR_1 . METHOD_2 () ) return true ;
+TYPE_1 VAR_1 = VAR_3 . METHOD_1 ( VAR_2 ) ;
+TYPE_1 VAR_3 = VAR_2 . METHOD_1 ( VAR_1 . METHOD_2 () ) ;
+{ TYPE_2 [ ( VAR_2 ++ ) ] = new TYPE_1 ( PACKAGE_2 , NUMBER_CONSTANT , ( ( PACKAGE_3 ) + VAR_1 ) ) ; }
+VAR_2 = VAR_5 . METHOD_1 ( VAR_4 , VAR_3 , VAR_1 ) ;
+if ( STRING_CONSTANT . METHOD_3 ( VAR_1 ) ) { VAR_4 = VAR_3 . METHOD_1 ( VAR_2 . METHOD_2 () ) ; }
+TYPE_1 VAR_1 = PACKAGE_1 . METHOD_2 () ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_2 ( VAR_3 ) ;
+TYPE_1 VAR_1 = new TYPE_1 ( new TYPE_2 ( VAR_2 , VAR_3 ) ) ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_2 ( ( NUMBER_CONSTANT * NUMBER_CONSTANT ) ) ;
+{ VAR_4 . METHOD_2 ( VAR_2 ) ; return VAR_3 . METHOD_3 ( new PACKAGE_1 ( VAR_2 . METHOD_1 () , VAR_4 ) , VAR_1 ) ; }
+{ final VAR_1 VAR_4 = VAR_1 . METHOD_1 ( VAR_2 ) ; return new TYPE_2 ( VAR_3 , VAR_2 , VAR_4 ) ; }
+{ return new TYPE_1 ( VAR_2 ) ; }
+METHOD_1 ( VAR_1 )
+{ return new TYPE_1 ( VAR_2 , VAR_4 , METHOD_1 () , VAR_1 , VAR_3 , VAR_5 ) ; }
+return new TYPE_1 ( VAR_2 , VAR_1 . METHOD_2 () , VAR_1 . METHOD_1 () ) ;
+final TYPE_1 VAR_1 = new TYPE_1 () ;
+TYPE_1 VAR_1 = VAR_2 . METHOD_3 ( VAR_3 ) . METHOD_1 () ;
+int VAR_1 = VAR_2 . METHOD_1 ( VAR_4 . METHOD_2 ( VAR_3 ) , NUMBER_CONSTANT ) ;
+VAR_3 VAR_1 = ( ( VAR_3 ) ( VAR_2 . METHOD_2 () ) ) ;
+VAR_1 . METHOD_2 () ;
+TYPE_1 VAR_3 = VAR_4 . METHOD_1 ( VAR_1 , null , VAR_2 ) ;
+VAR_1 . METHOD_2 ( VAR_2 , NUMBER_CONSTANT , NUMBER_CONSTANT ) ;
+TYPE_1 VAR_2 = new TYPE_1 ( new PACKAGE_1 ( VAR_1 . METHOD_1 () , false ) ) ;
+TYPE_1 VAR_4 = VAR_3 . METHOD_1 ( VAR_1 ) ;
+METHOD_2 ( VAR_1 . METHOD_4 () , METHOD_1 ( NUMBER_CONSTANT ) ) ;
+( VAR_2 == null ) || ( ! ( VAR_2 . METHOD_1 ( VAR_1 ) ) )
+catch ( TYPE_2 VAR_1 ) { VAR_2 . METHOD_1 ( STRING_CONSTANT , VAR_1 ) ; }
+( ( ( ( ( STRING_CONSTANT + ( VAR_2 . METHOD_1 () ) ) + STRING_CONSTANT ) + VAR_1 ) + STRING_CONSTANT ) + VAR_3 )
+{ super . METHOD_4 ( VAR_2 ) ; METHOD_1 ( VAR_1 . METHOD_3 ( VAR_2 ) ) ; METHOD_2 ( VAR_4 ) ; METHOD_5 () ; }
+{ if ( ( VAR_1 ) == null ) { return null ; } return METHOD_2 ( VAR_1 , null ) ; }
+VAR_1 . METHOD_1 ( new PACKAGE_1 ( VAR_2 , VAR_3 ) ) ;
+TYPE_1 VAR_4 = VAR_3 . METHOD_1 ( VAR_6 . METHOD_2 () , VAR_5 , VAR_1 , VAR_2 , VAR_7 ) ;
+VAR_1 = ( TYPE_1 [ ( ( VAR_2 + NUMBER_CONSTANT ) % VAR_3 ) ] ) - ( TYPE_1 [ ( VAR_4 + NUMBER_CONSTANT ) ] )
+METHOD_3 () . METHOD_2 ()
+{ return VAR_2 . METHOD_2 () . METHOD_1 ( VAR_1 , true ) ; }
+return METHOD_1 ( VAR_1 ) ;
+TYPE_1 [] VAR_3 = VAR_1 . METHOD_1 ( VAR_2 , CHAR_CONS ) ;
+this . VAR_4 = new TYPE_1 ( METHOD_1 ( null ) , this , VAR_2 , VAR_1 ) ;
+{ VAR_1 . METHOD_1 ( true ) ; VAR_1 . METHOD_3 ( VAR_2 . METHOD_2 () ) ; }
+VAR_1 . METHOD_2 ( VAR_2 ) ;
+public static void METHOD_1 () { VAR_2 . METHOD_1 () ; VAR_3 . METHOD_1 () ; }
+VAR_2 . METHOD_1 ( STRING_CONSTANT , ( STRING_CONSTANT + ( VAR_1 . METHOD_2 () . VAR_3 () ) ) ) ;
+TYPE_1 VAR_1 = new TYPE_1 ( PACKAGE_1 , VAR_3 . METHOD_3 ( VAR_2 . METHOD_1 () , VAR_2 . METHOD_2 () ) ) ;
+if ( VAR_1 <= NUMBER_CONSTANT ) { continue; }
+VAR_3 = VAR_2 . METHOD_2 ( VAR_1 . METHOD_1 () ) ;
+if ( VAR_1 == ( PACKAGE_1 ) ) { METHOD_1 () ; METHOD_3 () ; return; }
+{ return new TYPE_1 ( VAR_2 . METHOD_1 () , VAR_1 ) ; }
+VAR_1 . METHOD_1 ( null ) ;
+METHOD_1 ( true , false , VAR_1 ) ;
+VAR_1 VAR_2 = ( ( VAR_1 ) ( VAR_4 . METHOD_1 ( VAR_3 ) . METHOD_2 ( VAR_5 ) ) ) ;
+float VAR_1 = VAR_2 . METHOD_1 ( VAR_3 ) . VAR_1 ;
+VAR_1 = new TYPE_1 ( NUMBER_CONSTANT , true ) ;
+VAR_3 . METHOD_1 () . METHOD_2 ( VAR_1 , VAR_2 , true ) ;
+{ return METHOD_2 ( new PACKAGE_1 ( VAR_3 , VAR_1 ) . METHOD_3 ( VAR_2 ) ) ; }
+METHOD_2 ( VAR_1 ) ;
+VAR_3 = VAR_1 . METHOD_1 ( VAR_2 ) . METHOD_2 ( false ) ;
+protected TYPE_1 VAR_2 () { return ( VAR_2 ) == ( PACKAGE_1 ) ? PACKAGE_2 : VAR_1 . METHOD_1 () ; }
+( VAR_2 == null ) && ( VAR_3 . METHOD_1 ( VAR_1 ) )
+new PACKAGE_1 ( NUMBER_CONSTANT , new TYPE_1 () . METHOD_2 ( VAR_5 . METHOD_2 () ) , null , VAR_1 . METHOD_3 () , VAR_2 , VAR_1 , VAR_3 , VAR_4 )
+boolean VAR_1 = VAR_2 . METHOD_1 ( STRING_CONSTANT , VAR_2 . METHOD_1 ( STRING_CONSTANT , false ) ) ;
+new PACKAGE_1 ( VAR_1 . METHOD_4 () , VAR_1 . METHOD_5 () ) . METHOD_2 ( VAR_1 . METHOD_2 () ) . METHOD_3 ( VAR_1 . METHOD_3 () )
+public void METHOD_1 () { VAR_1 = true ; METHOD_2 () . VAR_2 = true ; }
+TYPE_1 VAR_2 = VAR_1 . METHOD_1 () ;
+VAR_1 < ( ( METHOD_1 () . METHOD_3 () ) * NUMBER_CONSTANT )
+( ( VAR_1 . METHOD_2 () ) - ( VAR_3 . METHOD_1 () ) ) > ( VAR_2 . METHOD_3 () )
+float VAR_3 = VAR_2 . METHOD_1 ( ( VAR_1 & - NUMBER_CONSTANT ) ) ;
+{ VAR_1 . METHOD_2 () ; }
+if ( VAR_2 == null ) { VAR_2 = new TYPE_1 ( VAR_1 ) ; VAR_3 . METHOD_1 ( VAR_1 , VAR_2 ) ; }
+if ( ( VAR_1 < NUMBER_CONSTANT ) || ( VAR_1 > ( PACKAGE_1 ) ) ) throw new TYPE_1 ( STRING_CONSTANT ) ;
+VAR_1 . METHOD_2 ( VAR_2 )
+VAR_2 . METHOD_1 ( VAR_1 ) ;
+{ super . METHOD_1 ( VAR_1 ) ; METHOD_2 ( new TYPE_1 () , false ) ; }
+TYPE_1 VAR_1 = VAR_2 . METHOD_1 () . METHOD_3 () ;
+( ( VAR_1 ) == null ) || ( ( PACKAGE_1 ) != ( PACKAGE_2 ) )
+{ if ( VAR_2 . METHOD_2 () ) { VAR_3 = VAR_2 . METHOD_3 () . METHOD_1 ( VAR_6 , VAR_4 , VAR_7 , VAR_1 , VAR_5 ) ; } }
+{ VAR_2 . METHOD_1 ( VAR_1 , VAR_3 , true ) ; VAR_2 . METHOD_2 () ; }
+VAR_1 . METHOD_1 ( new PACKAGE_1 ( false ) ) ;
+VAR_1 = new TYPE_1 () ;
+if ( ( PACKAGE_3 ) != ( PACKAGE_2 ) ) throw new TYPE_1 ( STRING_CONSTANT ) ;
+{ return new TYPE_1 ( VAR_1 ) . METHOD_2 ( VAR_3 . METHOD_4 () . METHOD_3 ( VAR_2 ) ) ; }
+if ( ( ! VAR_1 ) && ( VAR_3 instanceof VAR_2 ) ) { ( ( VAR_2 ) ( VAR_3 ) ) . METHOD_2 () ; }
+{ VAR_3 . METHOD_1 ( new TYPE_1 ( VAR_1 , PACKAGE_1 , new TYPE_2 ( STRING_CONSTANT , VAR_2 ) ) ) ; }
+{ return VAR_1 . METHOD_2 ( VAR_2 . METHOD_1 () , new PACKAGE_1 ( VAR_3 ) ) ; }
+VAR_4 . METHOD_2 ( VAR_3 , VAR_1 ) ;
+{ VAR_4 . METHOD_3 ( VAR_3 ) . METHOD_5 ( VAR_2 ) ; VAR_5 () . METHOD_1 ( VAR_4 , VAR_1 ) ; return VAR_4 . METHOD_2 () ; }
+{ PACKAGE_1 = ( VAR_2 ) + ( VAR_1 ) ; }
+VAR_3 = VAR_2 . METHOD_1 ( ( VAR_1 & - NUMBER_CONSTANT ) ) ;
+METHOD_3 ( VAR_1 . METHOD_5 () , METHOD_1 ( METHOD_4 () . METHOD_5 () ) ) ;
+{ VAR_1 = VAR_2 . METHOD_1 () ; }
+if ( ( VAR_3 ) != null ) { VAR_3 . METHOD_1 ( PACKAGE_2 , PACKAGE_1 , VAR_1 ) ; } else { throw new TYPE_1 ( VAR_1 ) ; }
+{ return new PACKAGE_1 ( VAR_3 . METHOD_1 ( VAR_2 ) ) ; }
+VAR_6 < VAR_7 > VAR_3 = VAR_5 . METHOD_2 ( VAR_8 , VAR_1 , VAR_4 ) ;
+VAR_4 VAR_1 = VAR_4 . METHOD_1 ( VAR_5 , VAR_2 , VAR_6 , VAR_3 ) ;
+( VAR_1 () ) && ( ( PACKAGE_1 ) != null )
+VAR_1 . METHOD_3 () . METHOD_1 ( true ) ;
+{ TYPE_1 VAR_2 = VAR_4 . VAR_2 ( VAR_7 , VAR_1 , VAR_6 , VAR_6 , VAR_3 ) ; return METHOD_2 ( VAR_2 , VAR_5 , VAR_3 ) ; }
+public TYPE_2 METHOD_3 () { return new TYPE_1 ( VAR_2 , VAR_1 . METHOD_1 () ) ; }
+VAR_6 < VAR_7 > VAR_3 = VAR_5 . METHOD_2 ( VAR_8 , VAR_1 , VAR_4 , VAR_2 . METHOD_1 () ) ;
+METHOD_1 ( STRING_CONSTANT , STRING_CONSTANT , STRING_CONSTANT , VAR_1 , STRING_CONSTANT , STRING_CONSTANT ) ;
+{ throw new TYPE_1 ( ( ( STRING_CONSTANT + VAR_1 ) + STRING_CONSTANT ) ) ; }
+TYPE_1 VAR_2 = METHOD_1 ( new TYPE_2 () ) ;
+TYPE_1 VAR_3 = VAR_2 . METHOD_1 ( VAR_1 ) . VAR_3 () ;
+VAR_2 = VAR_3 . METHOD_1 ( VAR_1 ) . METHOD_2 ( false ) ;
+VAR_2 . METHOD_2 () . METHOD_4 ( VAR_1 , VAR_3 . METHOD_3 () ) ;
+final boolean VAR_1 = VAR_3 . METHOD_1 ( STRING_CONSTANT , false ) ;
+return super . METHOD_1 ( VAR_1 ) ;
+VAR_1 . METHOD_2 () . METHOD_3 ( VAR_2 ) ;
+{ VAR_1 . METHOD_1 ( VAR_3 ) ; throw new TYPE_1 ( ( STRING_CONSTANT + ( VAR_4 ) ) , VAR_2 ) ; }
+catch ( TYPE_1 VAR_1 ) { try { VAR_2 . METHOD_1 ( VAR_1 ) ; } catch ( TYPE_1 VAR_3 ) {} }
+public void METHOD_2 () { VAR_3 = NUMBER_CONSTANT ; VAR_2 = VAR_1 ; METHOD_1 () ; }
+return new TYPE_1 ( VAR_2 , VAR_4 ) ;
+{ return new TYPE_1 ( PACKAGE_1 . METHOD_2 ( VAR_1 ) ) ; }
+final VAR_4 < VAR_2 > VAR_3 = new PACKAGE_1 ( VAR_1 . METHOD_1 () ) ;
+TYPE_3 VAR_1 = new TYPE_1 () ;
+METHOD_2 ( VAR_3 . METHOD_1 ( VAR_2 ) ) ;
+if ( ( VAR_4 ) != ( PACKAGE_1 ) ) { VAR_5 = VAR_1 . METHOD_1 ( VAR_2 , VAR_3 , PACKAGE_2 . this ) ; }
+VAR_1 . METHOD_3 () . METHOD_2 () . METHOD_5 ( STRING_CONSTANT , ( ( STRING_CONSTANT + VAR_2 ) + STRING_CONSTANT ) ) . METHOD_1 ()
+{ VAR_1 = new PACKAGE_1 ( VAR_3 , NUMBER_CONSTANT , PACKAGE_3 , PACKAGE_2 , NUMBER_CONSTANT , NUMBER_CONSTANT ) ; VAR_2 . METHOD_1 ( VAR_3 , VAR_1 ) ; }
+if ( VAR_3 != null ) { return new PACKAGE_1 ( VAR_2 , VAR_1 , VAR_3 ) ; } else { return null ; }
+VAR_1 . METHOD_1 () . METHOD_2 ( false , true ) ;
+if ( VAR_2 . METHOD_2 ( METHOD_2 , this ) ) { VAR_2 . METHOD_3 () . METHOD_4 ( VAR_1 . METHOD_1 () , VAR_4 , VAR_3 ) ; }
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+if ( ( VAR_2 . METHOD_2 () ) != null ) { VAR_1 = new PACKAGE_1 ( VAR_1 , VAR_2 . METHOD_2 () . METHOD_1 () ) ; }
+VAR_1 . METHOD_1 ( new PACKAGE_2 ( NUMBER_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT , PACKAGE_1 , null ) ) ;
+VAR_1 . METHOD_1 ( new TYPE_2 ( VAR_3 , VAR_2 . METHOD_2 () ) , new TYPE_1 ( VAR_1 , VAR_2 . METHOD_2 () , VAR_3 ) ) ;
+@ VAR_2 public TYPE_1 METHOD_1 () { if ( VAR_1 . METHOD_2 () ) { return PACKAGE_1 ; } return PACKAGE_2 ; }
+if ( ( PACKAGE_2 ) == ( PACKAGE_1 ) ) VAR_1 = true ;
+TYPE_1 VAR_1 = PACKAGE_1 . METHOD_1 ( VAR_2 , VAR_3 . METHOD_2 () ) ;
+TYPE_1 VAR_1 = METHOD_3 () . METHOD_2 () . METHOD_1 () . METHOD_5 ( STRING_CONSTANT ) . METHOD_4 () . METHOD_6 () ;
+TYPE_1 VAR_1 = new TYPE_1 ( VAR_2 . METHOD_1 () . METHOD_3 () , false ) ;
+VAR_1 . METHOD_1 ( PACKAGE_1 , VAR_2 ) ;
+if ( ( PACKAGE_1 ) && ( ( VAR_2 . METHOD_2 ( VAR_3 ) ) >= NUMBER_CONSTANT ) ) VAR_1 . METHOD_1 ( true ) ;
+VAR_1 . METHOD_1 ( ( ( ( METHOD_3 ( VAR_2 ) ) + STRING_CONSTANT ) + ( VAR_2 . METHOD_2 () ) ) ) ;
+{ VAR_4 . METHOD_1 () . METHOD_2 ( VAR_1 , VAR_3 , true ) ; VAR_2 . METHOD_3 ( VAR_1 , VAR_3 ) ; }
+VAR_1 += ( VAR_2 . METHOD_1 () ) / NUMBER_CONSTANT ;
+VAR_1 . METHOD_1 ( VAR_3 ) . METHOD_1 ( VAR_2 ) . METHOD_2 ( STRING_CONSTANT , STRING_CONSTANT ) . METHOD_2 ( STRING_CONSTANT , STRING_CONSTANT )
+{ if ( VAR_2 . METHOD_2 () ) { VAR_3 = VAR_2 . METHOD_4 () ; VAR_1 = VAR_3 . METHOD_1 () . METHOD_3 () ; } }
+if ( PACKAGE_1 . METHOD_1 () ) { PACKAGE_1 . METHOD_3 ( STRING_CONSTANT , VAR_1 ) ; }
+VAR_1 . METHOD_2 ()
+VAR_1 . METHOD_4 () . METHOD_2 ( true ) ;
+METHOD_1 ( STRING_CONSTANT , true , VAR_1 ) ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_1 () ;
+{ return METHOD_1 ( VAR_2 , NUMBER_CONSTANT , VAR_2 . METHOD_2 () ) ; }
+( VAR_2 != null ) && ( VAR_1 . METHOD_2 ( VAR_2 . METHOD_1 () ) )
+TYPE_1 VAR_2 = VAR_1 . METHOD_2 () ;
+VAR_1 . METHOD_3 ( VAR_2 . METHOD_2 ( STRING_CONSTANT , VAR_1 . METHOD_3 () ) ) ;
+{ super . METHOD_1 ( VAR_1 ) ; TYPE_1 [ VAR_3 ] = VAR_1 ; TYPE_1 [ VAR_4 ] = VAR_1 ; }
+VAR_3 < VAR_2 > VAR_1 = new VAR_3 () ;
+if ( ( VAR_1 . METHOD_1 () ) != ( PACKAGE_1 ) ) { return false ; }
+VAR_1 . METHOD_3 ( VAR_2 . METHOD_1 ( STRING_CONSTANT , null ) ) ;
+@ VAR_3 public void METHOD_1 ( TYPE_1 VAR_1 ) { METHOD_2 ( VAR_4 , VAR_2 , VAR_1 , false ) ; }
+{ VAR_3 = VAR_1 . METHOD_1 ( VAR_2 . METHOD_3 () , VAR_4 . METHOD_2 () , null ) ; }
+VAR_1 = METHOD_2 () . METHOD_3 () . METHOD_4 () . METHOD_1 () . METHOD_6 () . METHOD_5 ( STRING_CONSTANT ) . METHOD_5 ( STRING_CONSTANT )
+{ VAR_1 = new TYPE_1 ( new PACKAGE_1 ( PACKAGE_2 , VAR_2 ) ) ; }
+try { VAR_1 . METHOD_1 ( false ) ; VAR_2 . METHOD_2 ( VAR_3 ) ; } finally { VAR_4 = null ; }
+PACKAGE_2 = NUMBER_CONSTANT ;
+VAR_1 = PACKAGE_2 ;
+return VAR_2 . METHOD_1 ( VAR_3 ) . METHOD_3 ( VAR_1 ) . METHOD_4 () ;
+{ VAR_3 . METHOD_3 ( VAR_2 . METHOD_1 ( VAR_5 . METHOD_2 () , VAR_1 , VAR_1 ) ) ; }
+VAR_2 = VAR_4 . METHOD_1 ( VAR_1 , VAR_5 , VAR_3 , true )
+return VAR_3 . METHOD_1 ( VAR_1 , VAR_2 ) ;
+TYPE_1 VAR_2 = VAR_1 . VAR_2 ( STRING_CONSTANT ) . VAR_2 () ;
+@ VAR_1 public TYPE_1 METHOD_1 () { return PACKAGE_1 ; }
+VAR_2 . METHOD_1 ( VAR_3 , VAR_4 , VAR_1 )
+VAR_2 . METHOD_1 ( VAR_1 , VAR_3 ) ;
+{ throw new PACKAGE_1 ( ( ( ( ( STRING_CONSTANT + VAR_1 ) + STRING_CONSTANT ) + ( VAR_2 ) ) + STRING_CONSTANT ) ) ; }
+VAR_1 . METHOD_1 ( VAR_2 . METHOD_2 () , VAR_3 ) ;
+VAR_1 = new TYPE_1 ( VAR_2 . METHOD_1 () , VAR_2 . METHOD_2 () , false ) ;
+TYPE_1 VAR_2 = new TYPE_1 ( VAR_1 ) ;
+int VAR_2 = VAR_1 . METHOD_2 ( PACKAGE_1 ) ;
+VAR_1 . METHOD_1 ( this , PACKAGE_1 , STRING_CONSTANT , STRING_CONSTANT ) ;
+TYPE_3 VAR_1 = new TYPE_1 () ;
+try { super . METHOD_1 () ; VAR_5 = true ; } finally { VAR_4 . METHOD_1 ( VAR_5 , VAR_1 , VAR_2 , VAR_3 ) ; }
+return VAR_2 ;
+final VAR_5 < VAR_2 > VAR_3 = VAR_6 . METHOD_1 ( VAR_1 , ( - NUMBER_CONSTANT ) ) ;
+catch ( TYPE_2 VAR_1 ) { VAR_2 . METHOD_1 ( ( ( STRING_CONSTANT + VAR_3 ) + STRING_CONSTANT ) , VAR_1 ) ; }
+TYPE_1 VAR_3 = VAR_2 . METHOD_1 ( VAR_1 ) ;
+boolean VAR_1 = VAR_3 . METHOD_3 () . METHOD_5 () . VAR_1 ( VAR_2 . METHOD_1 () ) ;
+{ VAR_2 = VAR_1 . METHOD_1 () . METHOD_3 ( VAR_3 ) . METHOD_2 () ; }
+PACKAGE_1 VAR_1 = VAR_2 . METHOD_2 () ;
+VAR_1 < VAR_2 > VAR_3 = new VAR_1 ( PACKAGE_1 ) ;
+VAR_2 . METHOD_1 ( VAR_1 . METHOD_3 () ) ;
+if ( VAR_1 () . METHOD_2 () ) return true ;
+int VAR_1 = PACKAGE_1 ;
+TYPE_1 VAR_5 = new TYPE_1 ( VAR_4 , VAR_1 , VAR_6 , VAR_8 , VAR_7 , VAR_3 , VAR_2 ) ;
+TYPE_1 VAR_1 = VAR_1 ( PACKAGE_1 . METHOD_3 ( VAR_3 . METHOD_1 ( STRING_CONSTANT ) ) ) ;
+if ( ( VAR_1 ) > ( VAR_3 ) ) { VAR_2 . METHOD_2 ( ( - NUMBER_CONSTANT ) ) ; VAR_1 = NUMBER_CONSTANT ; }
+{ throw new TYPE_1 ( ( ( STRING_CONSTANT + ( VAR_1 ) ) + STRING_CONSTANT ) ) ; }
+return VAR_1 . METHOD_1 ( VAR_2 ) ;
+METHOD_3 ( VAR_2 . METHOD_1 ( METHOD_4 () , VAR_1 . METHOD_2 () ) ) ;
+@ VAR_2 public TYPE_2 METHOD_3 ( TYPE_1 VAR_1 ) { return METHOD_3 ( VAR_1 . METHOD_1 () ) ; }
+VAR_1 . METHOD_2 ()
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+METHOD_5 () . METHOD_4 ( STRING_CONSTANT , METHOD_1 ( METHOD_3 () . METHOD_2 () , VAR_1 ) ) . METHOD_4 ( STRING_CONSTANT , NUMBER_CONSTANT )
+VAR_1 = VAR_3 . METHOD_1 ( VAR_2 ) . METHOD_2 ( false ) ;
+VAR_2 . METHOD_1 ( VAR_1 )
+VAR_2 < PACKAGE_1 > VAR_1 = new VAR_2 < PACKAGE_1 > () ;
+VAR_1 . METHOD_1 ( VAR_2 . METHOD_2 ( VAR_3 ) ) ;
+VAR_2 . METHOD_2 ( VAR_3 ) ;
+boolean VAR_2 = VAR_1 . METHOD_1 ( STRING_CONSTANT , false ) ;
+return new TYPE_1 ( VAR_3 , ( VAR_2 == NUMBER_CONSTANT ? NUMBER_CONSTANT : VAR_1 / VAR_2 ) ) ;
+VAR_1 . METHOD_1 ( VAR_3 ) . METHOD_2 ( VAR_2 ) ;
+new PACKAGE_1 ( VAR_1 ) . VAR_2 ( VAR_2 ) . METHOD_1 ( STRING_CONSTANT ) . METHOD_4 ( VAR_1 . METHOD_2 () )
+if ( VAR_2 . METHOD_2 ( METHOD_2 , this ) ) { VAR_2 . METHOD_3 () . METHOD_4 ( VAR_1 . METHOD_1 () , VAR_3 , VAR_4 ) ; }
+if ( VAR_4 == null ) { VAR_4 = new TYPE_1 () ; VAR_2 . METHOD_1 ( VAR_1 , VAR_4 ) ; }
+{ super . METHOD_1 ( VAR_1 ) ; METHOD_2 ( new TYPE_2 () , false ) ; }
+public void METHOD_1 ( TYPE_1 VAR_1 ) ;
+{ return METHOD_3 ( VAR_1 . METHOD_1 () ) ; }
+protected void METHOD_1 ( PACKAGE_1 VAR_3 , VAR_1 < PACKAGE_1 > VAR_2 ) throws VAR_5 {}
+VAR_2 . METHOD_1 ( VAR_3 )
+VAR_2 . METHOD_1 ( VAR_1 ) ;
+if ( VAR_3 == null ) { VAR_3 = VAR_2 . VAR_3 ( VAR_1 ) ; }
+if ( ( VAR_2 . METHOD_1 () ) > VAR_1 ) break;
+( METHOD_3 ( VAR_1 . METHOD_1 () , VAR_2 , VAR_3 ) )
+public void METHOD_1 ( TYPE_1 VAR_1 ) { VAR_1 . METHOD_2 () ; PACKAGE_1 . METHOD_2 ( VAR_1 ) ; }
+VAR_2 . METHOD_3 ( STRING_CONSTANT , VAR_1 . METHOD_1 () ) ;
+VAR_1 . METHOD_2 ( STRING_CONSTANT )
+TYPE_3 VAR_1 = new TYPE_2 () ;
+VAR_1 . METHOD_1 ( NUMBER_CONSTANT , NUMBER_CONSTANT , ( - NUMBER_CONSTANT ) ) ;
+{ new PACKAGE_1 ( new TYPE_1 () , STRING_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT , false ) ; }
+VAR_1 = new TYPE_1 ( VAR_3 . METHOD_1 () , VAR_2 , false , true ) ;
+( ( VAR_1 ) == null ) || ( ( PACKAGE_1 ) < ( PACKAGE_2 ) )
+PACKAGE_2 = new TYPE_1 () ;
+if ( VAR_1 == null ) { return null ; }
+{ if ( VAR_2 . METHOD_1 () ) { VAR_1 = VAR_2 . METHOD_2 () . METHOD_3 ( null , null , true , true , VAR_3 ) ; } }
+{ VAR_2 VAR_1 = VAR_2 . METHOD_1 () ; METHOD_3 ( VAR_1 ) ; return VAR_1 . METHOD_4 () ; }
+TYPE_1 VAR_4 = new PACKAGE_1 ( VAR_2 , VAR_3 , VAR_1 ) ;
+METHOD_1 ( VAR_2 ) ;
+new TYPE_1 () { @ VAR_2 public void METHOD_2 () { VAR_1 . METHOD_3 ( VAR_1 . METHOD_1 () , PACKAGE_1 ) ; } }
+{ VAR_1 . METHOD_2 ( new TYPE_2 () ) ; }
+if ( VAR_5 != null ) { return VAR_2 . METHOD_1 ( VAR_5 , VAR_4 , VAR_3 ) ; }
+VAR_3 < VAR_2 > VAR_4 = new PACKAGE_1 ( VAR_1 . METHOD_1 () ) ;
+if ( VAR_4 == ( PACKAGE_1 ) ) { VAR_1 = STRING_CONSTANT ; VAR_3 = ( VAR_2 ? STRING_CONSTANT : STRING_CONSTANT ) + STRING_CONSTANT ; }
+VAR_1 . METHOD_1 ( VAR_3 , NUMBER_CONSTANT , VAR_2 ) ;
+{ VAR_2 . METHOD_3 ( VAR_1 . METHOD_1 () ) ; }
+boolean VAR_2 = VAR_3 . METHOD_2 () . VAR_2 ( VAR_1 . METHOD_4 () ) ;
+VAR_2 = VAR_1 . METHOD_1 ( STRING_CONSTANT ) ;
+if ( ( VAR_1 == null ) || ( ! ( VAR_1 . METHOD_1 ( VAR_2 . this ) ) ) ) METHOD_3 ( null ) ;
+{ VAR_3 = new TYPE_1 ( VAR_2 . METHOD_1 ( STRING_CONSTANT ) , false ) ; VAR_1 = new TYPE_2 () ; }
+VAR_2 ++
+PACKAGE_1 . this . METHOD_2 ( new TYPE_1 ( VAR_1 ) ) ;
+return PACKAGE_1 ;
+{ return ( VAR_2 . METHOD_2 ( VAR_1 . class ) ) != null ; }
+if ( VAR_1 == null ) VAR_1 = STRING_CONSTANT ;
+case PACKAGE_2 :
+VAR_2 < VAR_1 > VAR_3 = new PACKAGE_1 ( this . VAR_4 ) ;
+TYPE_1 VAR_2 = VAR_3 . METHOD_2 ( VAR_1 ) ;
+return true ;
+VAR_1 VAR_2 = VAR_3 . METHOD_1 ( VAR_1 . class ) ;
+VAR_4 < VAR_2 > VAR_1 = VAR_3 . METHOD_2 () ;
+VAR_1 += VAR_2 . METHOD_1 () ;
+if ( VAR_1 != null ) { VAR_2 . METHOD_1 ( VAR_1 , false ) ; }
+VAR_1 . METHOD_2 ( VAR_2 . METHOD_1 () ) ;
+TYPE_1 VAR_2 = METHOD_5 () . METHOD_1 ( VAR_1 ) . METHOD_4 ( VAR_4 ) . METHOD_4 ( STRING_CONSTANT , VAR_3 ) . METHOD_3 () ;
+VAR_1 . METHOD_2 ()
+TYPE_2 VAR_1 = new TYPE_1 ( VAR_2 . METHOD_1 ( STRING_CONSTANT ) , PACKAGE_1 ) ;
+TYPE_1 VAR_1 = PACKAGE_1 ;
+VAR_2 = VAR_3 . METHOD_3 () . METHOD_1 ( VAR_1 ) ;
+PACKAGE_1 . METHOD_1 ( VAR_2 . METHOD_2 ( VAR_1 . METHOD_3 () ) ) ;
+int VAR_1 = METHOD_2 ( NUMBER_CONSTANT , NUMBER_CONSTANT ) ;
+@ VAR_3 public TYPE_1 METHOD_1 ( TYPE_3 VAR_2 ) throws VAR_4 { return new TYPE_2 ( VAR_2 ) ; }
+VAR_3 < VAR_1 > VAR_2 = new VAR_3 () ;
+VAR_3 . METHOD_2 ( VAR_2 ) ;
+catch ( TYPE_1 VAR_1 ) { VAR_3 . METHOD_1 ( STRING_CONSTANT , VAR_1 , VAR_4 , VAR_2 ) ; continue; }
+METHOD_1 ( VAR_1 ) ;
+if ( STRING_CONSTANT . METHOD_2 ( VAR_1 ) ) { VAR_3 = VAR_2 . METHOD_1 () ; }
+PACKAGE_1 = new TYPE_1 [] { STRING_CONSTANT } ;
+{ return new TYPE_2 ( VAR_1 , PACKAGE_1 ) ; }
+VAR_1 . METHOD_2 ( VAR_2 . METHOD_1 () . METHOD_4 () ) ;
+return VAR_2 . METHOD_1 ( VAR_1 , null ) ;
+{ METHOD_2 ( METHOD_3 ( NUMBER_CONSTANT , NUMBER_CONSTANT ) , METHOD_5 ( NUMBER_CONSTANT , NUMBER_CONSTANT ) , METHOD_1 () . METHOD_6 () , METHOD_1 () . METHOD_6 () ) ; }
+TYPE_1 VAR_2 = VAR_1 . METHOD_1 ( VAR_3 ) ;
+{ ( ( VAR_2 ) ( VAR_3 ) ) . VAR_4 . VAR_5 = ( ( float ) ( VAR_6 . METHOD_1 () ) ) ; }
+TYPE_3 VAR_1 = new TYPE_1 () ;
+@ VAR_2 public void METHOD_3 () { VAR_3 . METHOD_2 () . METHOD_1 ( new TYPE_1 ( VAR_1 , VAR_3 . METHOD_4 () ) ) ; }
+{ TYPE_1 VAR_3 = VAR_2 . METHOD_2 () ; PACKAGE_1 . METHOD_4 ( VAR_1 , VAR_3 ) ; return VAR_3 . METHOD_3 () ; }
+METHOD_2 ( STRING_CONSTANT ) ;
+int VAR_1 = METHOD_2 ( NUMBER_CONSTANT , ( ( METHOD_1 () . METHOD_4 () ) - NUMBER_CONSTANT ) ) ;
+VAR_2 . METHOD_1 ( STRING_CONSTANT , ( STRING_CONSTANT + ( VAR_1 . METHOD_2 () . VAR_3 ) ) ) ;
+VAR_2 . METHOD_3 () . METHOD_1 ( VAR_1 . METHOD_5 () . METHOD_2 () ) ;
+if ( ( VAR_2 ) == null ) { throw new PACKAGE_1 ( ( ( STRING_CONSTANT + ( METHOD_1 () ) ) + STRING_CONSTANT ) ) ; }
+TYPE_1 VAR_1
+METHOD_2 () . METHOD_1 ( new TYPE_1 () ) ;
+METHOD_1 ( VAR_2 ) ;
+VAR_1 VAR_2 = VAR_3 . METHOD_2 ( STRING_CONSTANT ) ;
+public TYPE_1 METHOD_1 ( final TYPE_2 VAR_1 ) { VAR_1 . METHOD_2 ( VAR_2 , null , false ) ; return this ; }
+{ TYPE_2 VAR_2 = new TYPE_2 () ; VAR_2 . METHOD_1 ( new PACKAGE_2 ( PACKAGE_1 , VAR_1 ) ) ; return VAR_2 ; }
+{ throw new PACKAGE_1 ( ( ( STRING_CONSTANT + ( PACKAGE_2 ) ) + STRING_CONSTANT ) ) ; }
+final TYPE_1 VAR_1 = new TYPE_1 ( VAR_2 , NUMBER_CONSTANT , new PACKAGE_1 ( PACKAGE_2 ) ) ;
+{ if ( VAR_1 . METHOD_4 ( VAR_4 . METHOD_1 () , VAR_2 ) ) { return VAR_4 . METHOD_3 () . METHOD_2 ( VAR_2 , VAR_3 ) ; } }
+if ( ! ( VAR_2 . METHOD_1 () ) ) { VAR_2 . METHOD_2 () ; }
+VAR_2 = new TYPE_1 ( VAR_1 . METHOD_3 () . METHOD_1 ( STRING_CONSTANT , true ) . METHOD_2 () ) ;
+VAR_2 < ? extends VAR_3 > VAR_1 ;
+VAR_1 = new float [ PACKAGE_1 ] ;
+public boolean METHOD_1 ( TYPE_1 VAR_2 , int VAR_4 , TYPE_2 VAR_3 ) ;
+{ long VAR_3 = VAR_5 . VAR_3 ( VAR_2 . VAR_2 () , VAR_1 ) ; return VAR_3 == ( VAR_4 ) ; }
+{ VAR_2 . METHOD_2 ( VAR_1 . METHOD_1 () ) ; }
+METHOD_1 ( VAR_2 , VAR_3 , VAR_3 . METHOD_3 () , VAR_1 ) ;
+if ( ( TYPE_1 [ VAR_1 ] ) == NUMBER_CONSTANT ) { VAR_2 = VAR_1 - NUMBER_CONSTANT ; break; }
+if ( VAR_2 != null ) { return new PACKAGE_2 ( VAR_1 , VAR_3 , VAR_2 ) ; } else { return null ; }
+TYPE_3 VAR_1 = new TYPE_1 () ;
+if ( ( VAR_2 . METHOD_1 () ) < VAR_1 ) break;
+METHOD_1 ( new TYPE_1 ( this , VAR_2 . class ) , PACKAGE_1 ) ;
+VAR_1 . METHOD_1 ( METHOD_3 () ) . METHOD_2 ( VAR_2 ) ;
+VAR_2 . METHOD_1 ( VAR_3 , NUMBER_CONSTANT , PACKAGE_1 )
+TYPE_1 VAR_1 = VAR_2 . METHOD_1 ( null , null ) ;
+{ super . METHOD_1 ( VAR_1 ) ; METHOD_2 ( new TYPE_1 () ) ; }
+return new TYPE_1 ( VAR_1 , VAR_2 ) ;
+METHOD_1 () . METHOD_2 ( NUMBER_CONSTANT )
+{ super . METHOD_2 ( VAR_1 ) ; METHOD_1 ( VAR_2 ) ; }
+VAR_1 . METHOD_1 ( STRING_CONSTANT ) ;
+METHOD_6 ( VAR_1 . METHOD_5 () [ NUMBER_CONSTANT ] . METHOD_2 () . METHOD_4 () , METHOD_1 ( STRING_CONSTANT ) ) ;
+TYPE_1 VAR_2 = new TYPE_1 ( VAR_1 . METHOD_1 () , VAR_1 ) ;
+{ METHOD_1 ( VAR_3 . METHOD_3 ( VAR_1 ) , METHOD_2 ( VAR_2 ) ) ; }
+TYPE_2 VAR_1 = ( ( PACKAGE_1 ) != NUMBER_CONSTANT ) ? TYPE_1 [ NUMBER_CONSTANT ] : STRING_CONSTANT ;
+TYPE_1 VAR_1 = new TYPE_1 ( METHOD_1 () . METHOD_2 () ) ;
+{ VAR_1 . METHOD_3 ( VAR_3 ) . METHOD_2 ( VAR_2 ) . METHOD_2 ( VAR_4 ) . METHOD_1 () ; }
+if ( VAR_4 . METHOD_1 () ) { VAR_3 = new PACKAGE_1 ( VAR_2 , VAR_3 , VAR_5 ) ; }
+public void METHOD_1 () { this . VAR_1 = true ; }
+this . VAR_1 = new TYPE_1 ( VAR_2 ) ;
+( VAR_1 <= VAR_2 )
+{ VAR_3 . METHOD_4 ( STRING_CONSTANT , VAR_2 . METHOD_3 () ) ; return VAR_2 . METHOD_2 () . METHOD_1 ( VAR_1 , true , true ) ; }
+{ throw new TYPE_1 ( ( ( STRING_CONSTANT + VAR_1 ) + STRING_CONSTANT ) ) ; }
+METHOD_1 ( VAR_2 . class , VAR_2 . METHOD_2 ( VAR_1 ) )
+int VAR_1 = METHOD_2 ( NUMBER_CONSTANT , NUMBER_CONSTANT ) ;
+{ return ( VAR_1 . METHOD_2 () ) || ( ( VAR_1 . METHOD_1 () ) > NUMBER_CONSTANT ) ; }
+@ VAR_1 public void METHOD_1 () { VAR_2 . METHOD_2 ( new TYPE_1 ( false ) ) ; }
+VAR_2 . METHOD_1 ( VAR_1 , NUMBER_CONSTANT , NUMBER_CONSTANT , true ) ;
+PACKAGE_2 VAR_3 = VAR_2 . METHOD_1 ( VAR_1 , PACKAGE_1 , true ) ;
+VAR_1 . METHOD_3 ( VAR_3 . METHOD_2 ( VAR_2 ) ) ;
+new PACKAGE_2 ( VAR_1 , VAR_2 . METHOD_3 () ) . METHOD_2 ( VAR_2 . METHOD_2 () ) . METHOD_1 ( VAR_2 . METHOD_1 () )
+final TYPE_1 VAR_1 = new TYPE_1 ( VAR_2 ) ;
+@ VAR_5 protected boolean METHOD_1 ( float VAR_3 , float VAR_2 , int VAR_4 ) { return VAR_1 ; }
+{ TYPE_1 [ VAR_3 ] = ( ( short ) ( VAR_1 . METHOD_1 ( VAR_3 ) ) ) ; }
+{ if ( ! ( PACKAGE_1 ) ) return; VAR_1 . METHOD_4 ( VAR_2 . METHOD_1 () , VAR_2 . METHOD_3 () ) ; }
+{ return new TYPE_1 ( VAR_1 . METHOD_1 () , VAR_2 ) ; }
+{ if ( ! ( VAR_2 ) ) { return null ; } return new TYPE_1 ( this , VAR_1 . METHOD_1 () ) ; }
+VAR_1 = VAR_3 . METHOD_1 ( VAR_2 ) . METHOD_2 ( true ) ;
+METHOD_1 ( VAR_1 ) ;
+VAR_1 . METHOD_1 ( VAR_2 ) ;
+if ( VAR_2 . METHOD_1 ( STRING_CONSTANT ) ) { VAR_1 = VAR_3 . METHOD_3 ( VAR_2 . METHOD_2 ( STRING_CONSTANT ) ) ; }
+if ( VAR_1 != null ) { VAR_2 . METHOD_2 ( VAR_1 ) ; }
+VAR_1 . METHOD_1 ( STRING_CONSTANT , new TYPE_1 ( VAR_2 ) ) ;
+return new TYPE_3 ( new TYPE_1 () , VAR_1 ) ;
+if ( ( VAR_3 ) != ( - NUMBER_CONSTANT ) ) { VAR_1 . METHOD_1 ( PACKAGE_1 , VAR_3 ) ; }
+VAR_3 VAR_1 = VAR_3 . METHOD_2 ( VAR_2 , true ) ;
+if ( ( PACKAGE_1 ) != ( PACKAGE_1 ) ) return false ;
+{ TYPE_1 VAR_2 = VAR_1 . METHOD_1 () . METHOD_3 ( VAR_3 ) . METHOD_2 () ; return new TYPE_2 ( VAR_2 ) ; }
+METHOD_1 ( VAR_1 , PACKAGE_1 ) ;
+VAR_2 . METHOD_1 ( new TYPE_1 ( VAR_1 , ( VAR_4 || ( ( PACKAGE_3 ) == NUMBER_CONSTANT ) ? PACKAGE_1 : PACKAGE_2 ) , VAR_3 ) ) ;
+{ return VAR_3 . METHOD_2 ( VAR_2 . METHOD_1 () , VAR_1 . METHOD_1 () ) ; }
+float VAR_1 = PACKAGE_3 . METHOD_2 ( PACKAGE_2 , PACKAGE_1 , NUMBER_CONSTANT ) . METHOD_1 () ;
+public void METHOD_4 () { VAR_2 . METHOD_1 () . METHOD_3 () ; VAR_1 . METHOD_2 () ; }
+METHOD_1 ( VAR_2 ) ;
+final VAR_1 VAR_2 = VAR_4 . METHOD_3 ( PACKAGE_1 . METHOD_2 () , VAR_3 ) ;
+if ( ( VAR_4 ) > ( PACKAGE_1 . METHOD_1 ( VAR_1 ) . VAR_2 ) ) { VAR_4 = NUMBER_CONSTANT ; }
+TYPE_1 [ VAR_1 ] = METHOD_1 ( VAR_3 ) ;
+{ return VAR_1 . METHOD_1 ( VAR_2 , null ) ; }
+TYPE_1 VAR_3 = new TYPE_1 ( VAR_2 . METHOD_1 () , PACKAGE_1 ) ;
+TYPE_1 VAR_3 = new TYPE_1 ( VAR_1 . METHOD_4 () , VAR_5 . METHOD_2 ( VAR_2 ) , VAR_4 . METHOD_3 () ) ;
+if ( VAR_1 . METHOD_3 ( VAR_2 . METHOD_2 () ) ) { return VAR_2 . METHOD_4 () ; }
+TYPE_2 [ VAR_3 ] = new TYPE_1 ( VAR_2 , new TYPE_3 ( VAR_5 , VAR_4 ) , VAR_1 ) ;
+VAR_3 . METHOD_1 ( VAR_4 . METHOD_2 ( VAR_2 ) , VAR_1 ) ;
+TYPE_1 VAR_4 = METHOD_1 ( VAR_2 , VAR_3 , VAR_1 ) ;
+TYPE_1 VAR_1 = METHOD_5 ( STRING_CONSTANT ) . METHOD_3 () . METHOD_7 () . METHOD_4 ( METHOD_6 () . METHOD_8 () ) . METHOD_2 () ;
+VAR_3 VAR_1 = VAR_3 . METHOD_1 ( VAR_2 , true ) ;
+TYPE_1 VAR_1 = VAR_2 . METHOD_1 ( VAR_3 ) ;
+( VAR_2 . METHOD_2 ( VAR_1 ) ) > NUMBER_CONSTANT
+TYPE_1 VAR_2 = new TYPE_1 ( VAR_3 . this , VAR_5 , VAR_1 , VAR_4 ) ;
+PACKAGE_1 = VAR_2 . METHOD_1 ( PACKAGE_2 ) ;
+return VAR_2 . METHOD_3 ( VAR_1 , VAR_1 . METHOD_1 () , null ) ;
+if ( VAR_3 == null ) { VAR_3 = new PACKAGE_1 ( NUMBER_CONSTANT , NUMBER_CONSTANT , null , VAR_2 , NUMBER_CONSTANT , VAR_1 ) ; }
+if ( VAR_2 == null ) { VAR_2 = new PACKAGE_1 ( NUMBER_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT , NUMBER_CONSTANT , null , VAR_1 ) ; }
+final TYPE_1 VAR_1 = new TYPE_1 ( VAR_2 , NUMBER_CONSTANT , new PACKAGE_1 ( true , VAR_2 ) ) ;
+VAR_1 . METHOD_3 () . METHOD_1 ( VAR_2 ) ;
+new PACKAGE_1 ( VAR_1 ) . METHOD_2 ( new TYPE_1 [] { VAR_1 . METHOD_1 () } ) . METHOD_4 ( VAR_1 . METHOD_3 () )
+PACKAGE_1 VAR_3 = new PACKAGE_1 ( VAR_2 . METHOD_1 () , VAR_1 ) ;
+boolean VAR_2 = VAR_1 . METHOD_1 ( STRING_CONSTANT , PACKAGE_2 ) ;
+if ( ! ( VAR_2 . METHOD_2 ( STRING_CONSTANT ) ) ) { VAR_1 . METHOD_1 () . METHOD_3 () ; }
+catch ( TYPE_2 VAR_1 ) { METHOD_1 ( VAR_3 , VAR_2 , VAR_1 ) ; }
+return new TYPE_3 ( new TYPE_2 () , VAR_1 ) ;
+PACKAGE_1 . METHOD_1 ( new TYPE_1 ( STRING_CONSTANT ) ) ;
+TYPE_1 VAR_1 = new PACKAGE_1 () ;
+VAR_2 = VAR_3 . METHOD_1 ( VAR_1 . class ) ;
+TYPE_1 VAR_1 = VAR_2 . METHOD_4 () . METHOD_1 () . METHOD_3 ( STRING_CONSTANT , STRING_CONSTANT ) . METHOD_5 () . METHOD_6 () ;
+{ throw new TYPE_1 ( ( ( STRING_CONSTANT + ( VAR_1 ) ) + STRING_CONSTANT ) ) ; }
+{ return VAR_1 . METHOD_2 ( new TYPE_1 ( METHOD_3 ( VAR_2 ) . METHOD_1 () , PACKAGE_1 ) ) ; }
+@ VAR_1 public TYPE_1 [] METHOD_1 () { return new TYPE_1 [] { METHOD_2 () } ; }
+PACKAGE_1 = VAR_1 . METHOD_1 () ;
+TYPE_3 VAR_1 = new TYPE_1 () ;
+METHOD_2 ( VAR_5 , VAR_2 . METHOD_1 () , VAR_3 , VAR_1 , VAR_4 )
+{ TYPE_1 VAR_1 = new TYPE_1 () ; VAR_4 . METHOD_1 ( VAR_3 , VAR_2 , VAR_1 ) ; return VAR_1 ; }
+{ super . METHOD_2 ( VAR_1 ) ; METHOD_1 ( VAR_2 ) ; }
+( VAR_2 [ VAR_1 ] ) != null
+{ VAR_3 = VAR_1 . METHOD_1 ( VAR_2 ) . METHOD_2 () ; return this ; }
+VAR_2 . METHOD_1 ( VAR_1 ) ;
+{ return METHOD_1 ( ( ( VAR_2 . METHOD_2 ( ( VAR_1 * NUMBER_CONSTANT ) ) ) + STRING_CONSTANT ) ) ; }
+TYPE_1 VAR_2 = VAR_1 . METHOD_2 () . METHOD_1 () ;
+VAR_1 = new PACKAGE_3 ( PACKAGE_2 ) ;
+VAR_2 = VAR_3 . METHOD_2 ( VAR_1 ) ;
+{ return VAR_3 . METHOD_2 ( VAR_1 , VAR_2 , VAR_4 , false ) . METHOD_1 () ; }
+@ VAR_1 public TYPE_1 [] METHOD_1 () { return new TYPE_1 [] { PACKAGE_1 , STRING_CONSTANT } ; }
+PACKAGE_1 . METHOD_1 ( PACKAGE_3 ) ;
+TYPE_1 [] VAR_2 = VAR_1 () . METHOD_2 ( VAR_3 ) ;
+{ VAR_1 . METHOD_2 ( VAR_2 . METHOD_1 ( new TYPE_1 [ NUMBER_CONSTANT ] ) ) ; }
+if ( VAR_2 != null ) { return VAR_2 ; } else { return PACKAGE_1 ; }
+{ METHOD_3 () ; if ( ( VAR_4 . METHOD_1 () ) != null ) { VAR_3 . METHOD_2 ( VAR_2 , VAR_1 ) ; } }
+TYPE_3 VAR_1 = new TYPE_1 () ;
+VAR_1 . METHOD_4 ( VAR_2 . METHOD_3 () . METHOD_2 ( VAR_1 . METHOD_4 () ) ) ;
+TYPE_1 VAR_3 = new TYPE_1 ( VAR_2 . METHOD_4 () , VAR_5 . METHOD_2 ( VAR_1 ) , VAR_4 . METHOD_3 () ) ;
+{ VAR_2 . METHOD_4 ( VAR_1 . METHOD_3 () . METHOD_2 ( VAR_2 . METHOD_4 () ) ) ; }
+VAR_3 = new TYPE_1 ( PACKAGE_1 , VAR_4 . METHOD_1 ( VAR_2 . METHOD_2 ( VAR_1 ) , true ) ) ;
+VAR_3 . METHOD_2 ( VAR_1 . METHOD_1 ( PACKAGE_1 ) ) ;
+if ( STRING_CONSTANT . METHOD_3 ( VAR_2 ) ) { return VAR_1 . METHOD_2 () ; }
+{ throw new PACKAGE_1 ( ( ( ( ( STRING_CONSTANT + VAR_1 ) + STRING_CONSTANT ) + ( METHOD_1 () ) ) + STRING_CONSTANT ) ) ; }
+VAR_1 . METHOD_2 () ;
+{ return ( ( PACKAGE_1 ) == null ) || ( ! ( VAR_1 ) ) ? NUMBER_CONSTANT : PACKAGE_1 . METHOD_1 () ; }
+{ TYPE_2 [ VAR_3 ] . VAR_2 = null ; if ( ( VAR_1 ) != null ) VAR_1 [ VAR_3 ] = NUMBER_CONSTANT ; }
+VAR_2 . METHOD_5 ( VAR_1 . class ) . METHOD_2 ( STRING_CONSTANT ) . METHOD_4 ( METHOD_3 ( STRING_CONSTANT ) ) ;
+VAR_2 . METHOD_1 ( PACKAGE_1 . class ) . METHOD_2 () ;
+final TYPE_2 VAR_2 = VAR_1 . METHOD_1 ( METHOD_2 () ) ;
+if ( VAR_2 . METHOD_1 () . METHOD_3 () ) { METHOD_4 ( VAR_1 ) ; }
+{ return new TYPE_1 ( VAR_2 . METHOD_1 () , VAR_1 ) ; }
+VAR_3 . METHOD_3 ( VAR_1 . METHOD_1 ( STRING_CONSTANT , VAR_2 ) ) ;
+VAR_3 < VAR_1 > VAR_2 = this . VAR_2 ;
+if ( ( ! ( PACKAGE_1 ) ) || ( ! ( PACKAGE_2 ) ) ) continue;
+{ TYPE_3 VAR_1 = new TYPE_3 () ; return new TYPE_4 ( new TYPE_2 () , VAR_1 ) ; }
+final TYPE_1 VAR_3 = new TYPE_1 ( METHOD_1 ( NUMBER_CONSTANT , NUMBER_CONSTANT ) , VAR_2 , VAR_1 . METHOD_2 () ) ;
+METHOD_2 () . METHOD_3 ( STRING_CONSTANT ) ;
+METHOD_1 () . METHOD_3 ( STRING_CONSTANT , METHOD_2 ( STRING_CONSTANT , STRING_CONSTANT ) , true ) . METHOD_3 ( STRING_CONSTANT , METHOD_2 ( STRING_CONSTANT , STRING_CONSTANT ) )
+new PACKAGE_1 ( new TYPE_2 () , VAR_1 ) ;
+VAR_3 < VAR_4 > VAR_2 = VAR_1 . METHOD_1 () ;
+VAR_1 = false ;
+return new TYPE_3 ( new TYPE_2 () , VAR_1 ) ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_3 () . METHOD_1 ( VAR_3 ) ;
+TYPE_1 VAR_1 = VAR_2 . METHOD_1 ( PACKAGE_1 , PACKAGE_2 ) ;
+public TYPE_1 METHOD_2 () { return ( PACKAGE_1 ) != null ? PACKAGE_1 . METHOD_3 () : null ; }
+PACKAGE_1 . METHOD_1 ( PACKAGE_2 ) ;
+catch ( TYPE_1 VAR_1 ) { VAR_5 . METHOD_1 ( STRING_CONSTANT , VAR_1 , VAR_2 , VAR_3 , VAR_4 ) ; }
+TYPE_1 VAR_3 = new TYPE_1 ( VAR_1 , VAR_2 , VAR_5 ) ;
+public TYPE_1 VAR_1 ( TYPE_2 VAR_1 ) { this . VAR_1 = VAR_1 ; return this ; }
+PACKAGE_1 = VAR_2 . METHOD_1 ( PACKAGE_2 ) ;
+TYPE_1 VAR_2 = VAR_1 . METHOD_2 () ;
+VAR_1 . METHOD_1 ( PACKAGE_2 , PACKAGE_1 , VAR_2 ) ;
+return new TYPE_3 ( new TYPE_2 () , VAR_1 ) ;
